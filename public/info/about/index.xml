@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on single plot</title>
+    <link>https://example.org/info/about/</link>
+    <description>Recent content in about on single plot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/info/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>digital garden</title>
+      <link>https://example.org/info/about/digitalgarden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/info/about/digitalgarden/</guid>
+      <description>about&#xD;#&#xD;This is a webpage built by Finn.&#xA;This is italics. This text will be green&#xA;welcome to my garden!&#xD;#&#xD;88 88 ,adPPYb,d8 ,adPPYYba, 8b,dPPYba, ,adPPYb,88 ,adPPYba, 8b,dPPYba, a8&amp;#34; `Y88 &amp;#34;&amp;#34; `Y8 88P&amp;#39; &amp;#34;Y8 a8&amp;#34; `Y88 a8P_____88 88P&amp;#39; `&amp;#34;8a 8b 88 ,adPPPPP88 88 8b 88 8PP&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34; 88 88 &amp;#34;8a, ,d88 88, ,88 88 &amp;#34;8a, ,d88 &amp;#34;8b, ,aa 88 88 `&amp;#34;YbbdP&amp;#34;Y8 `&amp;#34;8bbdP&amp;#34;Y8 88 `&amp;#34;8bbdP&amp;#34;Y8 `&amp;#34;Ybbd8&amp;#34;&amp;#39; 88 88 aa, ,88 &amp;#34;Y8bbdP&amp;#34; Howdy there.</description>
+    </item>
+  </channel>
+</rss>

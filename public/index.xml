@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>single plot</title>
+    <link>https://example.org/</link>
+    <description>Recent content on single plot</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>digital garden</title>
+      <link>https://example.org/info/about/digitalgarden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/info/about/digitalgarden/</guid>
+      <description>about&#xD;#&#xD;This is a webpage built by Finn.&#xA;This is italics. This text will be green&#xA;welcome to my garden!&#xD;#&#xD;88 88 ,adPPYb,d8 ,adPPYYba, 8b,dPPYba, ,adPPYb,88 ,adPPYba, 8b,dPPYba, a8&amp;#34; `Y88 &amp;#34;&amp;#34; `Y8 88P&amp;#39; &amp;#34;Y8 a8&amp;#34; `Y88 a8P_____88 88P&amp;#39; `&amp;#34;8a 8b 88 ,adPPPPP88 88 8b 88 8PP&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34;&amp;#34; 88 88 &amp;#34;8a, ,d88 88, ,88 88 &amp;#34;8a, ,d88 &amp;#34;8b, ,aa 88 88 `&amp;#34;YbbdP&amp;#34;Y8 `&amp;#34;8bbdP&amp;#34;Y8 88 `&amp;#34;8bbdP&amp;#34;Y8 `&amp;#34;Ybbd8&amp;#34;&amp;#39; 88 88 aa, ,88 &amp;#34;Y8bbdP&amp;#34; Howdy there.</description>
+    </item>
+    <item>
+      <title>itinerary</title>
+      <link>https://example.org/info/travel/itinerary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/info/travel/itinerary/</guid>
+      <description>&#xD;itinerary&#xD;#&#xD;This plans are subject to change, however I will be starting out in Indonesia.&#xA;country list&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan Azerbaijan Georgia Armenia Turkey Jordan open to visiting&#xD;#&#xD;Egypt DRC Cote d&amp;rsquo;Ivoire </description>
+    </item>
+    <item>
+      <title>one bag</title>
+      <link>https://example.org/info/travel/onebag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/info/travel/onebag/</guid>
+      <description>Some words.</description>
+    </item>
+    <item>
+      <title>Another Blog Post</title>
+      <link>https://example.org/posts/anotherblogpost/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/anotherblogpost/</guid>
+      <description>Where do I want to go?</description>
+    </item>
+    <item>
+      <title>Blog Post</title>
+      <link>https://example.org/posts/blogpost/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/blogpost/</guid>
+      <description>What do I plan to post?</description>
+    </item>
+  </channel>
+</rss>

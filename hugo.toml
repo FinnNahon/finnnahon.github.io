@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "single plot"
+theme = 'hugo-book'
+
+[params]
+    BookTheme = 'light'
+    BookSection = 'info'
+    BookSearch = false
+    BookLogo = 'favicon.png'
+
+[markup.goldmark.renderer]
+  unsafe = true
