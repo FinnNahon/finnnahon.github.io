@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://singleplot.com/'
 languageCode = 'en-us'
 title = "single plot"
 theme = 'hugo-book'

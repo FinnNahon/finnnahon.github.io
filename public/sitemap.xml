@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/info/about/digitalgarden/</loc>
+    <loc>https://singleplot.com/info/about/digitalgarden/</loc>
   </url><url>
-    <loc>https://example.org/info/</loc>
+    <loc>https://singleplot.com/info/</loc>
   </url><url>
-    <loc>https://example.org/info/travel/itinerary/</loc>
+    <loc>https://singleplot.com/info/travel/itinerary/</loc>
   </url><url>
-    <loc>https://example.org/info/travel/onebag/</loc>
+    <loc>https://singleplot.com/info/travel/onebag/</loc>
   </url><url>
-    <loc>https://example.org/posts/anotherblogpost/</loc>
+    <loc>https://singleplot.com/posts/anotherblogpost/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/blogpost/</loc>
+    <loc>https://singleplot.com/posts/blogpost/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://singleplot.com/posts/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://singleplot.com/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/info/about/</loc>
+    <loc>https://singleplot.com/info/about/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://singleplot.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://singleplot.com/tags/</loc>
   </url><url>
-    <loc>https://example.org/info/travel/</loc>
+    <loc>https://singleplot.com/info/travel/</loc>
   </url>
 </urlset>
