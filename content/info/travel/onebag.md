@@ -12,7 +12,7 @@ Onebagging is about travelling/living out of one carry-on sized bag. It is about
 Whilst this means something different from one person to the next, typically backpackers who travel like a snail with their house on their back do not fit this approach.
 {{< /hint >}}
 
-![onebag](/images/onebag.webp)
+![onebag](/images/onebag.png)
 
 # general practices
 
