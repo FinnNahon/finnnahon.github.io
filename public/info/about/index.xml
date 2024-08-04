@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on single plot</title>
-    <link>http://localhost:1313/info/about/</link>
+    <link>https://singleplot.com/info/about/</link>
     <description>Recent content in about on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/info/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://singleplot.com/info/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>digital garden</title>
-      <link>http://localhost:1313/info/about/digitalgarden/</link>
+      <link>https://singleplot.com/info/about/digitalgarden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/about/digitalgarden/</guid>
+      <guid>https://singleplot.com/info/about/digitalgarden/</guid>
       <description>digital garden ❀ ✿&#xD;#&#xD;This website is intended as a digital garden.&#xA;At risk of sounding like a saccharine attempt to redefine what a blog is, the concept is fairly simple: a place where ideas are planted, watered and pruned over time.&#xA;This happens to be my garden, which I prefer to keep a little wild, with a blend of notes, fragments and ideas. It&amp;rsquo;s my plot of land where I&amp;rsquo;ve put my stake.</description>
     </item>
   </channel>

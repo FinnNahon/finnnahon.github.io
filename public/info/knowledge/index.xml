@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>knowledge on single plot</title>
-    <link>http://localhost:1313/info/knowledge/</link>
+    <link>https://singleplot.com/info/knowledge/</link>
     <description>Recent content in knowledge on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/info/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://singleplot.com/info/knowledge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resources</title>
-      <link>http://localhost:1313/info/knowledge/resources/</link>
+      <link>https://singleplot.com/info/knowledge/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/knowledge/resources/</guid>
+      <guid>https://singleplot.com/info/knowledge/resources/</guid>
       <description>resources&#xD;#&#xD;A select few resources that I&amp;rsquo;ve found interesting or useful, and you might too.&#xA;art &amp;amp; design&#xD;#&#xD;ArtAsiaPacific: periodical covering contemporary art and culture from Asia, the Pacific and the Middle East. Fontshare: high-quality foundry of free fonts for both personal and commercial use. Frieze: platform covering modern and contemporary art. The League of Moveable Type: the world&amp;rsquo;s first open-source font foundry. articles&#xD;#&#xD;What can a technologist do about climate change?</description>
     </item>
   </channel>
