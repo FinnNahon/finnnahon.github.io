@@ -4,6 +4,6 @@ title: "knowledge"
 BookToc: false
 ---
 
-![bloom](/images/bloom.gif/)
+![bloom](/images/bloom.gif)
 
 Currently under construction.
