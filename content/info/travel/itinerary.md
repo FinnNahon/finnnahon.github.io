@@ -7,7 +7,7 @@ title: "itinerary"
 
 # itinerary
 
-This plans are **subject to change**, however I will be starting out in Indonesia.
+These plans are **subject to change**, however I will be starting out in Indonesia.
 
 ### country list
 
@@ -36,6 +36,17 @@ This plans are **subject to change**, however I will be starting out in Indonesi
 
 ### open to visiting
 
-1. Egypt
-2. DRC
-3. Cote d'Ivoire
+- Egypt
+- Cote d'Ivoire
+- Bangladesh
+- Morocco
+- Zambia
+- Algeria
+- Botswana
+- Oman
+- Namibia
+- Senegal
+- Tanzania
+- Zimbabwe
+- Tunisia
+- Greece

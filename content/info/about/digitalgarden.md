@@ -1,52 +1,30 @@
 ---
 weight: 1
 bookFlatSection: true
-BookToc: true
+BookToc: false
 title: digital garden
 ---
 
-# about 
+# digital garden ❀ ✿
 
-![esenka](/images/band.gif)
+![green](/images/green.gif)
 
-This is a <span style="background-color:yellow;">**webpage**</span> built by Finn.
+This website is intended as a <span style="background-color:lightgreen;">[digital garden.](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)</span> 
 
-This is *italics*.
-<span style="color: green;">This text will be green</span>
+At risk of sounding like a saccharine attempt to redefine what a blog is, the concept is fairly simple: a place where ideas are planted, watered and pruned over time.
 
+This happens to be my garden, which I prefer to keep a little wild, with a blend of notes, fragments and ideas. It's my plot of land where I've put my stake. It is also where I am going to document what I get up to, which you can read in my [journal](/posts/). 
 
+## origin
 
-# welcome to my garden!
+Digital gardens aren't my concept. They are something people in the corners of the internet have been cultivating for some time.
 
-```88                         
-                                           88                         
-                                           88                         
- ,adPPYb,d8 ,adPPYYba, 8b,dPPYba,  ,adPPYb,88  ,adPPYba, 8b,dPPYba,   
-a8"    `Y88 ""     `Y8 88P'   "Y8 a8"    `Y88 a8P_____88 88P'   `"8a  
-8b       88 ,adPPPPP88 88         8b       88 8PP""""""" 88       88  
-"8a,   ,d88 88,    ,88 88         "8a,   ,d88 "8b,   ,aa 88       88  
- `"YbbdP"Y8 `"8bbdP"Y8 88          `"8bbdP"Y8  `"Ybbd8"' 88       88  
- aa,    ,88                                                           
-  "Y8bbdP"  
-```
+[Hypertext Gardens](http://www.eastgate.com/garden/Enter.html), a 1998 essay by Mark Bernstein, is one of the earlist mentions of this term. In this essay, Mark waxes poetic about the beauty of freely exploring the the internet, back when the world wide web didn't feel like a restrictive choice between 5 or 6 major tech companies.
 
-{{< hint info>}}
-Howdy there.
-{{< /hint >}}
+> “Gardens … lie between farmland and wilderness," says Mark, "The garden is farmland that delights the senses, designed for delight rather than commodity."
 
+Mike Caulfield, a research scientist at the University of Washington, touched on this idea more recently in a 2015 essay titled [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/), which I'd encourage anyone with curiosity to read.
 
-{{< mermaid class="optional" >}}
-stateDiagram-v2
-    State1: A single plot
-    note right of State1
-        My website is a single plot in the much larger digital garden.
-    end note
-    State1 --> State2
-    State2: Digital garden
-    note left of State2 : This is the note to the left.
-{{< /mermaid >}}
+Mike's main argument is that we have become caught in <span style="background-color:cyan;">streams</span> - the likes of which include Instagram, Twitter and Facebook. It is conversational and fleeting, and passes us by in an instant. There is a time and place for these, but they are not designed for the sharing and connecting of knowledge. They aren't libraries which you can rely on or revisit very easily.
 
-- [x] made bag
-- written things
-
-:joy:
+A digital garden is an alternative to the stream, somewhere to wander - much in the same way as when you hop onto Wikipedia to read about one thing, only to find yourself down a rabbit hole about something else entirely. This is the concept which the internet was conceived around.

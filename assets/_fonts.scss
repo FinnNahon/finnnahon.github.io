@@ -1,24 +1,42 @@
 @font-face {
-    font-family: 'Headings';
+    font-family: 'Array-Regular';
     src: url('/fonts/Array-Regular.woff2') format('woff2');
-    font-weight: 900;
+    font-weight: 400;
+    font-display: swap;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Bawdy';
+    font-family: 'Array-Semibold';
+    src: url('/fonts/Array-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Switzer-Regular';
     src: url('/fonts/Switzer-Regular.woff2') format('woff2');
-    font-weight: 900;
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Switzer-Semibold';
+    src: url('/fonts/Switzer-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
     font-style: normal;
 }
 
 // Change the font here to change the fonts of various levels of title in Markdown
 // h1 is the main title of pages, and h2 is the site title
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Headings', sans-serif;
+    font-family: 'Array-Regular', sans-serif;
 }
 
 // Change the font here to change the fonts of body text in Markdown
 body {
-  font-family: 'Bawdy', sans-serif;
+  font-family: 'Switzer-Regular', sans-serif;
 }

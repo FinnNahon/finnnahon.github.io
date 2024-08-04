@@ -4,4 +4,6 @@ title: "travel"
 BookToc: false
 ---
 
-Words go here!
+![paths](/images/paths.gif/)
+
+Currently under construction.
