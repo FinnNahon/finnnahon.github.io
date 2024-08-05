@@ -6,10 +6,10 @@ title: "one bag"
 
 # one bag philosophy
 
-Onebagging is about travelling/living out of one carry-on sized bag. It is about better experiencing the place you're visiting by avoiding being weighed down by any excess. This means only bringing the essentials that you need to move about comfortably and efficiently.
+Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you're visiting whilst avoiding being weighed down by any excess. This means only bringing the essentials you need to move about comfortably and efficiently.
 
 {{< hint info >}}
-Whilst this means something different from one person to the next, typically backpackers who travel like a snail with their house on their back do not fit this approach.
+While this may vary from person to person, the typical backpacker who carries their belongings like a snail with its shell doesn't quite align with this approach.
 {{< /hint >}}
 
 ![onebag](/images/onebag.png)
@@ -19,16 +19,15 @@ Whilst this means something different from one person to the next, typically bac
 - Pack light
 - Don't pack your fears
 - Only bring about a weeks worth of items
-- Do your laundry along the way
 - Try to fit everything into a bag that is 25L-40L in size
 - Do you really need more than two pairs of pants?
 
 # my personal one bag
 
-The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).
+The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper). I should also note that due to my tech setup, I am actually bringing more than most suggest.
 
 {{< columns >}}
-### Health and Hygiene
+### Health & Hygiene
 - Toothbrush, toothpaste and floss
 - Beard trimmer and charger
 - First aid kit
@@ -53,7 +52,7 @@ The following is what I will be packing in my bag of choice, the **Osprey Fairvi
 
 <--->
 
-### Clothing and accessories
+### Clothing & accessories
 - Sunglasses
 - Swim shorts
 - Longjohns

@@ -9,22 +9,24 @@ title: digital garden
 
 ![green](/images/green.gif)
 
-This website is intended as a <span style="background-color:lightgreen;">[digital garden.](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)</span> 
+**single plot** serves as my <span style="background-color:lightgreen;">[digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)</span>.
 
-At risk of sounding like a saccharine attempt to redefine what a blog is, the concept is fairly simple: a place where ideas are planted, watered and pruned over time.
-
-This happens to be my garden, which I prefer to keep a little wild, with a blend of notes, fragments and ideas. It's my plot of land where I've put my stake. It is also where I am going to document what I get up to, which you can read in my [journal](/posts/). 
+While it may sound like a flowery attempt to rebrand blogging, the concept is straightforward: a digital garden is a space where ideas are sown, nurtured, and refined over time. This particular plot is mine, and I prefer to let it grow a bit wild.
 
 ## origin
 
-Digital gardens aren't my concept. They are something people in the corners of the internet have been cultivating for some time.
+Digital gardens have been quietly cultivated by people in the corners of the internet for some time.
 
-[Hypertext Gardens](http://www.eastgate.com/garden/Enter.html), a 1998 essay by Mark Bernstein, is one of the earlist mentions of this term. In this essay, Mark waxes poetic about the beauty of freely exploring the the internet, back when the world wide web didn't feel like a restrictive choice between 5 or 6 major tech companies.
+One of the earliest mentions of this concept appears in <span style="background-color:yellow;">[Hypertext Gardens](http://www.eastgate.com/garden/Enter.html)</span>, a 1998 essay by Mark Bernstein. In it, Bernstein waxes poetic about the joy of freely exploring the internet, harking back to an era when online navigation wasn't confined to a handful of major tech platforms. He draws a compelling analogy:
 
 > “Gardens … lie between farmland and wilderness," says Mark, "The garden is farmland that delights the senses, designed for delight rather than commodity."
 
-Mike Caulfield, a research scientist at the University of Washington, touched on this idea more recently in a 2015 essay titled [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/), which I'd encourage anyone with curiosity to read.
+More recently, Mike Caulfield, a research scientist at the University of Washington, explored this concept in his 2015 essay <span style="background-color:yellow;">[The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)</span> —a piece well worth reading for the curious.
 
-Mike's main argument is that we have become caught in <span style="background-color:cyan;">streams</span> - the likes of which include Instagram, Twitter and Facebook. It is conversational and fleeting, and passes us by in an instant. There is a time and place for these, but they are not designed for the sharing and connecting of knowledge. They aren't libraries which you can rely on or revisit very easily.
+Caulfield argues that we've become entangled in digital <span style="background-color:cyan;">streams</span>, exemplified by social media. These streams are conversational and ephemeral, presenting themselves as serialized timelines of events that form narratives. Unlike gardens, they're not designed for revisiting or meandering exploration.
 
-A digital garden is an alternative to the stream, somewhere to wander - much in the same way as when you hop onto Wikipedia to read about one thing, only to find yourself down a rabbit hole about something else entirely. This is the concept which the internet was conceived around.
+A digital garden offers a respite from the constant stream of online information, allowing for more personal and intimate exploration. I invite you to wander through, take your time, and discover what grows here.
+
+<br>
+
+<img src="/images/pink.jpg" width="650" height="200" alt="Finn">
