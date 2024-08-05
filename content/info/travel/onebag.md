@@ -2,6 +2,7 @@
 weight: 1
 bookFlatSection: true
 title: "one bag"
+BookToc: false
 ---
 
 # one bag philosophy
@@ -12,7 +13,7 @@ Onebagging is about travelling with only a single carry-on sized bag. It is abou
 While this may vary from person to person, the typical backpacker who carries their belongings like a snail with its shell doesn't quite align with this approach.
 {{< /hint >}}
 
-![onebag](/images/onebag.png)
+![onebag](/images/onebag.jpg)
 
 # general practices
 
