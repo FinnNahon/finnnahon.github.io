@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on single plot</title>
-    <link>http://localhost:1313/info/about/</link>
+    <link>https://singleplot.com/info/about/</link>
     <description>Recent content in about on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/info/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://singleplot.com/info/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>digital garden</title>
-      <link>http://localhost:1313/info/about/digitalgarden/</link>
+      <link>https://singleplot.com/info/about/digitalgarden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/about/digitalgarden/</guid>
+      <guid>https://singleplot.com/info/about/digitalgarden/</guid>
       <description>digital garden ❀ ✿&#xD;#&#xD;single plot serves as my digital garden.&#xA;While it may sound like a flowery attempt to rebrand blogging, the concept is straightforward: a digital garden is a space where ideas are sown, nurtured, and refined over time. This particular plot is mine, and I prefer to let it grow a bit wild.&#xA;origin&#xD;#&#xD;Digital gardens have been quietly cultivated by people in the corners of the internet for some time.</description>
     </item>
   </channel>
