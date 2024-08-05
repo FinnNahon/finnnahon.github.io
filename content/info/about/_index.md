@@ -33,8 +33,8 @@ BookToc: false
 </head>
 <body>
     <div class="background-container">
-        <h2>who am i?</h2>
-        <img src="/images/Finn.png" width="250" height="200" alt="Finn">
+        <span style="color:red;"><h2>who am i?</h2></span>
+        <img src="/images/Finn.jpg" width="250" height="200" alt="Finn">
         <img src="/images/atmos.webp" width="250" height="200" alt="Atmos">
     </div>
 </body>
