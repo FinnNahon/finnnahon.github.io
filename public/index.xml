@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://singleplot.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>digital garden</title>
-      <link>https://singleplot.com/info/about/digitalgarden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/about/digitalgarden/</guid>
-      <description>digital garden ❀ ✿&#xD;#&#xD;single plot serves as my digital garden.&#xA;While it may sound like a flowery attempt to rebrand blogging, the concept is straightforward: a digital garden is a space where ideas are sown, nurtured, and refined over time. This particular plot is mine, and I prefer to let it grow a bit wild.&#xA;origin&#xD;#&#xD;Digital gardens have been quietly cultivated by people in the corners of the internet for some time.</description>
-    </item>
-    <item>
       <title>itinerary</title>
       <link>https://singleplot.com/info/travel/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,14 +30,14 @@
       <description>resources&#xD;#&#xD;A select few resources that I&amp;rsquo;ve found interesting or useful, and you might too.&#xA;art &amp;amp; design&#xD;#&#xD;ArtAsiaPacific: periodical covering contemporary art and culture from Asia, the Pacific and the Middle East. Fontshare: high-quality foundry of free fonts for both personal and commercial use. Frieze: platform covering modern and contemporary art. The League of Moveable Type: the world&amp;rsquo;s first open-source font foundry. articles&#xD;#&#xD;What can a technologist do about climate change?</description>
     </item>
     <item>
-      <title>Another Blog Post</title>
+      <title>another blog post</title>
       <link>https://singleplot.com/posts/anotherblogpost/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://singleplot.com/posts/anotherblogpost/</guid>
       <description>Where do I want to go?</description>
     </item>
     <item>
-      <title>Blog Post</title>
+      <title>blog post</title>
       <link>https://singleplot.com/posts/blogpost/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://singleplot.com/posts/blogpost/</guid>

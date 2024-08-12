@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-07-22
-linktitle: Blog Post
-title: Blog Post
+linktitle: blog post
+title: blog post
 weight: 10
 ---
 

@@ -1,1 +1,1 @@
-{{ partial "docs/title" . }}
+{{ with .Params.custom_title }}{{ . }}{{ else }}{{ .Site.Title }} — {{ partial "docs/title" . }}{{ end }}

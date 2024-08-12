@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-07-23
-linktitle: Another Blog Post
-title: Another Blog Post
+linktitle: another blog post
+title: another blog post
 weight: 10
 BookToc: false
 ---

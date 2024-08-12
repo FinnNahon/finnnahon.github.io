@@ -1,16 +1,14 @@
 ---
 type: info
-title: "single plot"
+custom_title: "single plot"
 BookToc: false
 ---
 
+# <span class="type"><span>hi! come in, take a look around.</span></span>
 
-# Welcome, pull up a seat
+I use this website to jot down my thoughts and share my travels. It’s a straightforward way to keep track of what I’m up to and reflect on different places I visit.
 
-This is my website for documenting my thoughts, my travel and other odd-bits I come across.
+You can see what I am currently up to <a href="/posts" style="background-color: yellow; color: black; text-decoration: none;">here</a>. 
 
-<img src="images/seat.gif" width="300" height="200" alt="Description">
 
-I am currently in: Melbourne.
-
-I am currently reading: Orange Isn't the Only Fruit.
+<img src="/images/pink.jpg" width="850" height="200" alt="Finn">

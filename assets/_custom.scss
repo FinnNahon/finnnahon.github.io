@@ -1,0 +1,30 @@
+.type {
+    display: inline-flex;
+}
+
+.type span {
+    height: 1.1em;
+    width: 0%;
+    word-break: break-all;
+    overflow: hidden;
+    animation: typing 3s steps(30, end) forwards, blinking 1s step-end infinite;
+}
+
+.type span:before {
+    content: " ";
+    display: inline-block;
+}
+
+@keyframes typing {
+    from { width: 0%; }
+    to { width: 100%; }
+}
+
+@keyframes blinking {
+    0%, 100% { box-shadow: 5px 0 0 #0000; }
+    50% { box-shadow: 5px 0 0 rgb(255, 99, 99); }
+}
+
+.nospam {
+    display: none;
+}

@@ -21,7 +21,6 @@ While this may vary from person to person, the typical backpacker who carries th
 - Don't pack your fears
 - Only bring about a weeks worth of items
 - Try to fit everything into a bag that is 25L-40L in size
-- Do you really need more than two pairs of pants?
 
 # my personal one bag
 
