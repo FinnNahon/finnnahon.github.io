@@ -1,5 +1,8 @@
 .type {
     display: inline-flex;
+    flex-wrap: wrap; /* Allow the text to wrap onto the next line */
+    width: auto; /* Allow width to adjust based on content */
+    white-space: normal; /* Allow text to wrap */
 }
 
 .type span {

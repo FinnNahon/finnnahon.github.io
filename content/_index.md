@@ -37,7 +37,8 @@ BookToc: false
     <body>
         <div class="container">
             <img src="images/reading.webp" alt="Background Image" class="image">
-            <span class="type"><span>welcome, take a look around *./*</span></span><br><br>I use this website to jot down my thoughts and share my travels.
+            <span class="type"><span>hi, take a look around *./*</span></span>
+            <br><br>I use this website to jot down my thoughts and share my travels.
 
 You can see what I am currently up to <a href="/posts" style="background-color: yellow; color: black; text-decoration: none;">here</a>.
     </body>
