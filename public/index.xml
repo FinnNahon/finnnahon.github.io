@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>single plot</title>
-    <link>https://singleplot.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://singleplot.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>itinerary</title>
-      <link>https://singleplot.com/info/travel/itinerary/</link>
+      <link>http://localhost:1313/info/travel/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travel/itinerary/</guid>
+      <guid>http://localhost:1313/info/travel/itinerary/</guid>
       <description>&#xD;itinerary&#xD;#&#xD;These plans are subject to change, however I will be starting out in Indonesia.&#xA;country list&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan Azerbaijan Georgia Armenia Turkey Jordan open to visiting&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece </description>
     </item>
     <item>
       <title>one bag</title>
-      <link>https://singleplot.com/info/travel/onebag/</link>
+      <link>http://localhost:1313/info/travel/onebag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travel/onebag/</guid>
+      <guid>http://localhost:1313/info/travel/onebag/</guid>
       <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess. This means only bringing the essentials you need to move about comfortably and efficiently.&#xA;While this may vary from person to person, the typical backpacker who carries their belongings like a snail with its shell doesn&amp;rsquo;t quite align with this approach.</description>
     </item>
     <item>
-      <title>resources</title>
-      <link>https://singleplot.com/info/knowledge/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/knowledge/resources/</guid>
-      <description>resources&#xD;#&#xD;A select few resources that I&amp;rsquo;ve found interesting or useful, and you might too.&#xA;art &amp;amp; design&#xD;#&#xD;ArtAsiaPacific: periodical covering contemporary art and culture from Asia, the Pacific and the Middle East. Fontshare: high-quality foundry of free fonts for both personal and commercial use. Frieze: platform covering modern and contemporary art. The League of Moveable Type: the world&amp;rsquo;s first open-source font foundry. articles&#xD;#&#xD;What can a technologist do about climate change?</description>
-    </item>
-    <item>
       <title>another blog post</title>
-      <link>https://singleplot.com/posts/anotherblogpost/</link>
+      <link>http://localhost:1313/posts/anotherblogpost/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/anotherblogpost/</guid>
+      <guid>http://localhost:1313/posts/anotherblogpost/</guid>
       <description>Where do I want to go?</description>
     </item>
     <item>
       <title>blog post</title>
-      <link>https://singleplot.com/posts/blogpost/</link>
+      <link>http://localhost:1313/posts/blogpost/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/blogpost/</guid>
+      <guid>http://localhost:1313/posts/blogpost/</guid>
       <description>What do I plan to post?</description>
+    </item>
+    <item>
+      <title>digital garden</title>
+      <link>http://localhost:1313/info/about/digitalgarden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/about/digitalgarden/</guid>
+      <description>knowledge&#xD;#&#xD;single plot is my digital garden — I&amp;rsquo;ll add, amend, and prune ideas as they come. A space where I casually toss ideas and thoughts.&#xA;“Gardens … lie between farmland and wilderness,&amp;quot; says Mark Bernstein. &amp;ldquo;The garden is farmland that delights the senses, designed for delight rather than commodity.&amp;rdquo;</description>
     </item>
   </channel>
 </rss>

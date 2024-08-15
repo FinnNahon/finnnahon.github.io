@@ -28,3 +28,16 @@
 .nospam {
     display: none;
 }
+
+/* General cursor */
+html, body {
+    cursor: url('images/pixel.cur'), auto;
+}
+
+a, button, .clickable {
+    cursor: url('images/pixellink.cur'), auto !important;
+}
+
+* {
+    cursor: url('images/pixel.cur'), auto;
+}
