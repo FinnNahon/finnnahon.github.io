@@ -1,9 +1,9 @@
 ---
-type: knowledge
+type: digital_garden
 title: "digital garden"
 BookToc: false
 ---
-# knowledge
+# digital garden
 
 <img src="/images/plants.png" width="450" height="200" alt="Finn">
 
