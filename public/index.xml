@@ -23,25 +23,11 @@
       <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess. This means only bringing the essentials you need to move about comfortably and efficiently.&#xA;While this may vary from person to person, the typical backpacker who carries their belongings like a snail with its shell doesn&amp;rsquo;t quite align with this approach.</description>
     </item>
     <item>
-      <title>another blog post</title>
+      <title>my first post</title>
       <link>https://singleplot.com/posts/anotherblogpost/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://singleplot.com/posts/anotherblogpost/</guid>
-      <description>Where do I want to go?</description>
-    </item>
-    <item>
-      <title>blog post</title>
-      <link>https://singleplot.com/posts/blogpost/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/blogpost/</guid>
-      <description>What do I plan to post?</description>
-    </item>
-    <item>
-      <title>digital garden</title>
-      <link>https://singleplot.com/info/about/digitalgarden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/about/digitalgarden/</guid>
-      <description>digital garden&#xD;#&#xD;single plot is my digital garden — I&amp;rsquo;ll add, amend, and prune ideas as they come. A space where I casually toss ideas and thoughts.&#xA;“Gardens … lie between farmland and wilderness,&amp;quot; says Mark Bernstein. &amp;ldquo;The garden is farmland that delights the senses, designed for delight rather than commodity.&amp;rdquo;</description>
+      <description>This is a template for my blog posts.</description>
     </item>
   </channel>
 </rss>

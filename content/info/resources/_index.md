@@ -1,7 +1,7 @@
 ---
 type: resources
 title: "resources"
-BookToc: false
+BookToc: true
 ---
 
 # resources
@@ -18,6 +18,14 @@ A select few resources that I've found interesting or useful, and you might too.
 ## articles
 
 - [What can a technologist do about climate change?](https://worrydream.com/ClimateChange/): an in-depth page discussing the role technologists have and their responsibility to the longevity of the planet.
+
+## books
+
+- [Library Genesis](https://www.libgen.is/): an online platform offering free access to a vast collection of books, academic papers, and other scholarly materials.
+
+## cooking
+
+- [Serious Eats](https://www.seriouseats.com/): a website dedicated to thoroughly tested recipes, cooking techniques, and food science.
 
 ## creative coding & esolangs
 
@@ -59,3 +67,7 @@ A select few resources that I've found interesting or useful, and you might too.
 ## spirituality
 
 - [Access to Insight](https://accesstoinsight.org/): helpful resource with information about Theravada Buddhism.
+
+## travel
+
+- [Atlas Obscura](https://www.atlasobscura.com/): a website that focuses on discovering and documenting the world's hidden wonders, unusual places, and unique experiences

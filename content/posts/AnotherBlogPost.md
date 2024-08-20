@@ -1,10 +1,10 @@
 ---
 author: "Finn"
 date: 2024-07-23
-linktitle: another blog post
-title: another blog post
+linktitle: my first post
+title: my first post
 weight: 10
 BookToc: false
 ---
 
-Where do I want to go?
+This is a template for my blog posts.

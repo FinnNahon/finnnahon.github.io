@@ -1,14 +1,18 @@
 ---
 weight: 1
 bookFlatSection: true
-BookToc: true
+BookToc: false
 title: "itinerary"
 ---
 
 # itinerary
 
+<img src="/images/nypubliclibrarymap.png" width="670" height="200" alt="Finn">
+
 These plans are **subject to change**, however I will be starting out in Indonesia.
 
+
+{{< columns >}}
 ### country list
 
 1. Indonesia
@@ -34,6 +38,8 @@ These plans are **subject to change**, however I will be starting out in Indones
 21. Turkey
 22. Jordan
 
+<--->
+
 ### open to visiting
 
 - Egypt
@@ -50,3 +56,8 @@ These plans are **subject to change**, however I will be starting out in Indones
 - Zimbabwe
 - Tunisia
 - Greece
+
+<--->
+<--->
+
+{{< /columns >}}
