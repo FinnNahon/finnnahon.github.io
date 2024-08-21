@@ -6,14 +6,21 @@
     <description>Recent content in journal on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://singleplot.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>my first post</title>
-      <link>https://singleplot.com/posts/anotherblogpost/</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/anotherblogpost/</guid>
-      <description>This is a template for my blog posts.</description>
+      <title>a trip to myrtle creek</title>
+      <link>https://singleplot.com/posts/myrtlecreek/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/posts/myrtlecreek/</guid>
+      <description>Back in March, I went camping with a few friends down at Myrtle Creek.&#xA;We found a beautiful watering hole where we mostly posted up drinking a few beers and having dips in the water.&#xA;Admiring the sunset.&#xA;A very amused Xander.&#xA;The watering hole.</description>
+    </item>
+    <item>
+      <title>a foray into photography</title>
+      <link>https://singleplot.com/posts/aforayintophotography/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/posts/aforayintophotography/</guid>
+      <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;Here&amp;rsquo;s my first picture.</description>
     </item>
   </channel>
 </rss>

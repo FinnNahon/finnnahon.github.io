@@ -16,8 +16,8 @@ BookToc: false
             height: 50vh; /* Half of the viewport height */
         }
         .image {
-            width: 50%;
-            height: 50%;
+            width: 60%;
+            height: 60%;
             object-fit: cover; /* Ensures the image covers the container without distortion */
         }
         .type {
@@ -36,8 +36,8 @@ BookToc: false
 </head>
     <body>
         <div class="container">
-            <img src="images/reading.webp" alt="Background Image" class="image">
-            <span class="type"><span>Hi there, feel free to look around.</span></span>
+            <img src="images/face.png" alt="Background Image" class="image">
+            <span class="type"><span> Welcome to my personal site. <span style="color: red;">Take a look around if you want.</span></span></span>
             <br><br>I use this website to jot down my thoughts and share my travels.
 
 You can see what I am currently up to <a href="/posts" style="background-color: yellow; color: black; text-decoration: none;">here</a>.

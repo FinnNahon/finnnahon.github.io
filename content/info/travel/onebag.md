@@ -2,18 +2,14 @@
 weight: 1
 bookFlatSection: true
 title: "one bag"
-BookToc: false
+BookToc: true
 ---
 
 # one bag philosophy
 
-Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you're visiting whilst avoiding being weighed down by any excess. This means only bringing the essentials you need to move about comfortably and efficiently.
+Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you're visiting whilst avoiding being weighed down by any excess. 
 
-{{< hint info >}}
-While this may vary from person to person, the typical backpacker who carries their belongings like a snail with its shell doesn't quite align with this approach.
-{{< /hint >}}
-
-![onebag](/images/onebag.jpg)
+<a style="background-color: yellow; color: black; text-decoration: none;">While this may vary from person to person, the typical backpacker who travels like a snail with a house on their back doesn't quite fit this approach.</a>
 
 # general practices
 
@@ -24,7 +20,7 @@ While this may vary from person to person, the typical backpacker who carries th
 
 # my personal one bag
 
-The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper). I should also note that due to my tech setup, I am actually bringing more than most suggest.
+The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper). I should also note that due to my tech setup, I am bringing more than most suggest.
 
 {{< columns >}}
 ### Health & Hygiene

@@ -7,7 +7,7 @@ title: "itinerary"
 
 # itinerary
 
-<img src="/images/nypubliclibrarymap.png" width="670" height="200" alt="Finn">
+<img src="/images/nypubliclibrarymap.png" width="770" height="200" alt="Finn">
 
 These plans are **subject to change**, however I will be starting out in Indonesia.
 
