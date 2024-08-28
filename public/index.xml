@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>single plot</title>
-    <link>https://singleplot.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://singleplot.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>one bag</title>
-      <link>https://singleplot.com/info/travel/onebag/</link>
+      <link>http://localhost:1313/info/travel/onebag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travel/onebag/</guid>
+      <guid>http://localhost:1313/info/travel/onebag/</guid>
       <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess.&#xA;While this may vary from person to person, the typical backpacker who travels like a snail with a house on their back doesn&amp;rsquo;t quite fit this approach.&#xA;general practices&#xD;#&#xD;Pack light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;The following is what I will be packing in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).</description>
     </item>
     <item>
       <title>a foray into photography</title>
-      <link>https://singleplot.com/posts/aforayintophotography/</link>
+      <link>http://localhost:1313/posts/aforayintophotography/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/aforayintophotography/</guid>
+      <guid>http://localhost:1313/posts/aforayintophotography/</guid>
       <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;More to come.</description>
     </item>
     <item>
       <title>Posts from 2023</title>
-      <link>https://singleplot.com/indices/2023/</link>
+      <link>http://localhost:1313/indices/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/indices/2023/</guid>
+      <guid>http://localhost:1313/indices/2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2024</title>
-      <link>https://singleplot.com/indices/2024/</link>
+      <link>http://localhost:1313/indices/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/indices/2024/</guid>
+      <guid>http://localhost:1313/indices/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2025</title>
-      <link>https://singleplot.com/indices/2025/</link>
+      <link>http://localhost:1313/indices/2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/indices/2025/</guid>
+      <guid>http://localhost:1313/indices/2025/</guid>
       <description></description>
     </item>
   </channel>
