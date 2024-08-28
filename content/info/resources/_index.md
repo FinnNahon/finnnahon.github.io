@@ -45,16 +45,16 @@ A select few resources that I've found interesting or useful, and you might too.
 
 ## journalism & news
 
-- [Associated Press](https://apnews.com/): popular but balanced news wire that has over the years won 58 Pulitzer Prizes.
-- [bell¿ngcat](https://www.bellingcat.com/): investigative journalism group focused on human rights, war zones and the criminal world. Much of their work is focused on fact-verification and open-source intelligence.
-- [Global Voices](https://globalvoices.org/): community of writers, translators and human rights activists who reports on voiecs and experiences rarely heard in mainstream media.
-- [Jacobin](https://jacobin.com/): admittedly biased socialist magazine that offers much-needed progressive commentary on politics, economics and culture.
-- [National Public Radio (NPR)](https://www.npr.org/): well-known broadcasting company that publishes both news and cultural programming. High quality and independent.
-- [Pew Search Center](https://www.pewresearch.org/): thinktank focused on informing the public about issues, attitudes and trends that are shaping the world. They do not take policy positions and are non-profit, non-partisan and non-advocacy.
-- [ProPublica](https://www.propublica.org/): not-for-profit newsroom focused on scrupulous and trustworthy investigative journalism.
-- [Reuters](https://www.reuters.com/): along with Associated Press, another popular but reliable news agency.
-- [The Syllabus](https://www.the-syllabus.com/): a non-for-profit platform for curated content covering everything from literature to civic design. Whatever floats your boat.
-- [This American Life](https://www.thisamericanlife.org/): a weekly hour-long radio program hosted by Ira Glass, with a focus on journalistic non-fiction reporting. Highly recommend.
+- [Associated Press](https://apnews.com/): a leading news wire service known for balanced reporting and a history of Pulitzer Prizes.
+- [bell¿ngcat](https://www.bellingcat.com/): an investigative journalism group specializing in human rights, conflict zones, and fact-checking through open-source intelligence.
+- [Global Voices](https://globalvoices.org/): a community that highlights underrepresented voices and experiences often missing from mainstream media.
+- [Jacobin](https://jacobin.com/): a socialist magazine offering progressive commentary on politics, economics, and culture.
+- [National Public Radio (NPR)](https://www.npr.org/): a major broadcaster delivering high-quality news and cultural programming with a reputation for independence.
+- [Pew Search Center](https://www.pewresearch.org/): a non-profit think tank that provides unbiased information on social issues, trends, and attitudes without taking policy positions.
+- [ProPublica](https://www.propublica.org/): a non-profit newsroom dedicated to rigorous and reliable investigative journalism.
+- [Reuters](https://www.reuters.com/): a global news agency known for its trustworthy and comprehensive reporting.
+- [The Syllabus](https://www.the-syllabus.com/): a non-profit platform offering curated content on a wide range of topics, from literature to design.
+- [This American Life](https://www.thisamericanlife.org/): a weekly radio program hosted by Ira Glass, featuring compelling non-fiction stories and journalistic reporting.
 
 ## music
 
@@ -70,4 +70,4 @@ A select few resources that I've found interesting or useful, and you might too.
 
 ## travel
 
-- [Atlas Obscura](https://www.atlasobscura.com/): a website that focuses on discovering and documenting the world's hidden wonders, unusual places, and unique experiences
+- [Atlas Obscura](https://www.atlasobscura.com/): a website that focuses on discovering and documenting the world's hidden wonders, unusual places, and unique experiences.

@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ $year := .Params.year }}
+    {{ if not $year }}
+      {{ $year = "2024" }} <!-- Default year if not specified -->
+    {{ end }}
+    {{ range where .Site.Pages "Date" "ge" (time (printf "%s-01-01" $year)) }}
+      {{ if and (eq (dateFormat "2006" .Date) $year) (not (or (not .Title) (eq .Title ""))) }}
+        <li>
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2" }}:</time>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

@@ -24,7 +24,7 @@ BookToc: false
             position: absolute;
             top: 10px; /* Adjust as needed */
             left: 10px; /* Adjust as needed */
-            color: yellow; /* Text color */
+            color: #3c3d3c; /* Text color */
             font-size: 2em; /* Inherit the font size from h1 */
             font-family: Array-Regular; /* Inherit the font family from h1 */
             padding: 10px;
@@ -36,10 +36,10 @@ BookToc: false
 </head>
     <body>
         <div class="container">
-            <img src="images/face.png" alt="Background Image" class="image">
-            <span class="type"><span> Welcome to my personal site. <span style="color: red;">Take a look around if you want.</span></span></span>
+            <img src="images/pink.jpg" alt="Background Image" class="image">
+            <span class="type"><span>Welcome to my <span style="color: #FF3131;">site.</span></span></span>
             <br><br>I use this website to jot down my thoughts and share my travels.
 
-You can see what I am currently up to <a href="/posts" style="background-color: yellow; color: black; text-decoration: none;">here</a>.
+You can see what I am currently up to <a href="/posts" style="background-color: yellow; color: black; text-decoration: none;">here.</a>
     </body>
 </html>

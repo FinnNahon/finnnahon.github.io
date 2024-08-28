@@ -6,15 +6,8 @@
     <description>Recent content on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://singleplot.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>itinerary</title>
-      <link>https://singleplot.com/info/travel/itinerary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travel/itinerary/</guid>
-      <description>&#xD;itinerary&#xD;#&#xD;These plans are subject to change, however I will be starting out in Indonesia.&#xA;country list&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan Azerbaijan Georgia Armenia Turkey Jordan open to visiting&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece </description>
-    </item>
     <item>
       <title>one bag</title>
       <link>https://singleplot.com/info/travel/onebag/</link>
@@ -23,18 +16,32 @@
       <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess.&#xA;While this may vary from person to person, the typical backpacker who travels like a snail with a house on their back doesn&amp;rsquo;t quite fit this approach.&#xA;general practices&#xD;#&#xD;Pack light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;The following is what I will be packing in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).</description>
     </item>
     <item>
-      <title>a trip to myrtle creek</title>
-      <link>https://singleplot.com/posts/myrtlecreek/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/myrtlecreek/</guid>
-      <description>Back in March, I went camping with a few friends down at Myrtle Creek.&#xA;We found a beautiful watering hole where we mostly posted up drinking a few beers and having dips in the water.&#xA;Admiring the sunset.&#xA;A very amused Xander.&#xA;The watering hole.</description>
-    </item>
-    <item>
       <title>a foray into photography</title>
       <link>https://singleplot.com/posts/aforayintophotography/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://singleplot.com/posts/aforayintophotography/</guid>
-      <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;Here&amp;rsquo;s my first picture.</description>
+      <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;More to come.</description>
+    </item>
+    <item>
+      <title>Posts from 2023</title>
+      <link>https://singleplot.com/indices/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/indices/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts from 2024</title>
+      <link>https://singleplot.com/indices/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/indices/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts from 2025</title>
+      <link>https://singleplot.com/indices/2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/indices/2025/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
