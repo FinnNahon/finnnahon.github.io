@@ -8,11 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/info/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>itinerary</title>
+      <link>http://localhost:1313/info/travel/itinerary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/travel/itinerary/</guid>
+      <description>&#xD;itinerary&#xD;#&#xD;I do have a vague intinerary, but things change, and quickly.&#xA;country list&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan Azerbaijan Georgia Armenia Turkey Jordan possibilities&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece South Africa </description>
+    </item>
+    <item>
       <title>one bag</title>
       <link>http://localhost:1313/info/travel/onebag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/info/travel/onebag/</guid>
-      <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess.&#xA;While this may vary from person to person, the typical backpacker who travels like a snail with a house on their back doesn&amp;rsquo;t quite fit this approach.&#xA;general practices&#xD;#&#xD;Pack light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;The following is what I will be packing in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).</description>
+      <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you&amp;rsquo;re visiting whilst avoiding being weighed down by any excess.&#xA;The backpacker who travels with a house on their back doesn&amp;rsquo;t quite fit this approach.&#xA;general practices&#xD;#&#xD;Pack light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;The following is what I will be packing in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).</description>
     </item>
   </channel>
 </rss>

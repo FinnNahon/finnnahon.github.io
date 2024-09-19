@@ -46,17 +46,117 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Gambetta-Light';
+    src: url('/fonts/Gambetta-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Gambetta-LightItalic';
+    src: url('/fonts/Gambetta-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Gambetta-Regular';
+    src: url('/fonts/Gambetta-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Gambetta-Italic';
+    src: url('/fonts/Gambetta-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Gambetta-Medium';
+    src: url('/fonts/Gambetta-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Gambetta-MediumItalic';
+    src: url('/fonts/Gambetta-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Gambetta-Semibold';
+    src: url('/fonts/Gambetta-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Gambetta-SemiboldItalic';
+    src: url('/fonts/Gambetta-SemiboldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Gambetta-Bold';
+    src: url('/fonts/Gambetta-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Gambetta-BoldItalic';
+    src: url('/fonts/Gambetta-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+    font-style: italic;
+  }
+  /**
+  * This is a variable font
+  * You can control variable axes as shown below:
+  * font-variation-settings: wght 300.0wght 700.0;
+  *
+  * available axes:
+  'wght' (range from 300.0 to 700.0'wght' (range from 300.0 to 700.0
+  */
+  @font-face {
+    font-family: 'Gambetta-Variable';
+    src: url('/fonts/Gambetta-Variable.woff2') format('woff2');
+    font-weight: 300 700;
+    font-display: swap;
+    font-style: normal;
+  }
+  /**
+  * This is a variable font
+  * You can control variable axes as shown below:
+  * font-variation-settings: wght 300.0wght 700.0;
+  *
+  * available axes:
+  'wght' (range from 300.0 to 700.0'wght' (range from 300.0 to 700.0
+  */
+  @font-face {
+    font-family: 'Gambetta-VariableItalic';
+    src: url('/fonts/Gambetta-VariableItalic.woff2') format('woff2');
+    font-weight: 300 700;
+    font-display: swap;
+    font-style: italic;
+  }
+  
+
 // Change the font here to change the fonts of various levels of title in Markdown
 // h1 is the main title of pages, and h2 is the site title
-h1 {
-    font-family: 'Array-Regular', sans-serif;
-}
 
-h2, h3, h4, h5, h6 {
-    font-family: 'Array-Regular', sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gambetta-Italic', sans-serif;
 }
 
 // Change the font here to change the fonts of body text in Markdown
 body {
-  font-family: 'Switzer-Regular', sans-serif;
+  font-family: 'Gambetta-Variable', sans-serif;
+  font-size: 17px;
 }

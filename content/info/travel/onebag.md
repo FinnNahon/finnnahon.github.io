@@ -9,16 +9,20 @@ BookToc: true
 
 Onebagging is about travelling with only a single carry-on sized bag. It is about better experiencing the place you're visiting whilst avoiding being weighed down by any excess. 
 
-<a style="background-color: yellow; color: black; text-decoration: none;">While this may vary from person to person, the typical backpacker who travels like a snail with a house on their back doesn't quite fit this approach.</a>
+The backpacker who travels with a house on their back doesn't quite fit this approach.
 
-# general practices
+## general practices
 
 - Pack light
 - Don't pack your fears
 - Only bring about a weeks worth of items
 - Try to fit everything into a bag that is 25L-40L in size
 
-# my personal one bag
+<br>
+
+-------
+
+## my personal one bag
 
 The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper). I should also note that due to my tech setup, I am bringing more than most suggest.
 
