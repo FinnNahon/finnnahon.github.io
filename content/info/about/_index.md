@@ -4,7 +4,7 @@ title: "about"
 BookToc: false
 ---
 
-# about
+# <span style="color: yellow;">about</span>
 
 <img src="/images/myself.jpg" width="250" height="200" alt="Finn">
  

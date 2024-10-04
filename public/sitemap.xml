@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/info/travel/itinerary/</loc>
   </url><url>
+    <loc>http://localhost:1313/info/thoughts/itinerary/</loc>
+  </url><url>
     <loc>http://localhost:1313/info/travel/onebag/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/aforayintophotography/</loc>
@@ -34,6 +36,8 @@
     <loc>http://localhost:1313/info/resources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/thoughts/</loc>
   </url><url>
     <loc>http://localhost:1313/info/travel/</loc>
   </url>

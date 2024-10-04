@@ -4,11 +4,11 @@ title: "travel"
 BookToc: false
 ---
 
-# travel
+# <span style="color: yellow;">travel</span>
 
 I will be travelling across Asia, the Middle East and Africa, starting in December.
 
-This move has been <span style="background-color: green;">4 years</span> in the making, and it very well may be the most meaningful trip of my lifetime.
+This move has been 4 years in the making, and it very well may be the most meaningful trip of my lifetime.
 
 After initially planning a multi-continent trip for 2020, which was postponed for obvious reasons, I'm due to fly out of **Melbourne** and kick the journey off in **Bali, Indonesia.** I have a one-way ticket, and am not sure when this journey will end, or where I will end up. 
 
