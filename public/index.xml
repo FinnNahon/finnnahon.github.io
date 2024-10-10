@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>single plot</title>
-    <link>http://localhost:1313/</link>
+    <link>https://singleplot.com/</link>
     <description>Recent content on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>humanism is not at odds with technology</title>
-      <link>http://localhost:1313/info/thoughts/humanism_technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/thoughts/humanism_technology/</guid>
-      <description>humanism is not at odds with technology&#xD;#&#xD;Like many, I often find myself associating modern technology with negative practices, be it social media, invasive advertising, electronic waste, privacy concerns - I could go on.&#xA;It is easy to get caught up in these systems that are eroding our way of life, but I want to focus on the positive impacts of technology for a bit.&#xA;Technology Positive Impact OpenStreetMap Provides accessible mapping data for everyone, enabling better navigation and community planning.</description>
-    </item>
+    <atom:link href="https://singleplot.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>itinerary</title>
-      <link>http://localhost:1313/info/travel/itinerary/</link>
+      <link>https://singleplot.com/info/travel/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/travel/itinerary/</guid>
+      <guid>https://singleplot.com/info/travel/itinerary/</guid>
       <description>&#xD;itinerary&#xD;#&#xD;I do have a vague intinerary, but things change, and quickly.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;my current path&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan Azerbaijan Georgia Armenia Turkey Jordan other possibilities&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece South Africa </description>
     </item>
     <item>
       <title>one bag</title>
-      <link>http://localhost:1313/info/travel/one_bag/</link>
+      <link>https://singleplot.com/info/travel/one_bag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/travel/one_bag/</guid>
+      <guid>https://singleplot.com/info/travel/one_bag/</guid>
       <description>one bag philosophy&#xD;#&#xD;Onebagging is about travelling with only a single carry-on sized bag. It is about experiencing the place you&amp;rsquo;re visiting without being weighed down by any excess.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;general practices&#xD;#&#xD;Travel light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;The following is what I will be packing in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper).</description>
     </item>
     <item>
-      <title>the crisis of our century</title>
-      <link>http://localhost:1313/info/thoughts/crisis_of_our_century/</link>
+      <title>positive technologies</title>
+      <link>https://singleplot.com/info/thoughts/humanism_technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/thoughts/crisis_of_our_century/</guid>
-      <description>the crisis of our century&#xD;#&#xD;The largest crisis we face as a human race, global warming, is something that creeps up on you.&#xA;It&amp;rsquo;s not immediately obvious in your day-to-day life, yet we can all feel its presence. We all swear this year was warmer than the last, yet a collective feeling of denial persists.&#xA;We&amp;rsquo;ll be alright.&#xA;Right?&#xA;Some people will die, but that won&amp;rsquo;t be me, will it?</description>
+      <guid>https://singleplot.com/info/thoughts/humanism_technology/</guid>
+      <description>positive technologies&#xD;#&#xD;Like many, I find myself troubled by modern technology. It is easy to get caught up in these systems that are eroding our way of life, but I want to focus on the positive impacts of technology for a bit.&#xA;There are ways technology improves our lives, and they are worth recognizing.&#xA;Technology Positive Impact OpenStreetMap Provides accessible mapping data for everyone, enabling better navigation and community planning.</description>
+    </item>
+    <item>
+      <title>the crisis of our century</title>
+      <link>https://singleplot.com/info/thoughts/crisis_of_our_century/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://singleplot.com/info/thoughts/crisis_of_our_century/</guid>
+      <description>&#xD;the crisis of our century&#xD;#&#xD;</description>
     </item>
     <item>
       <title>a foray into photography</title>
-      <link>http://localhost:1313/posts/aforayintophotography/</link>
+      <link>https://singleplot.com/posts/aforayintophotography/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aforayintophotography/</guid>
+      <guid>https://singleplot.com/posts/aforayintophotography/</guid>
       <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;More to come.</description>
     </item>
     <item>
       <title>Posts from 2023</title>
-      <link>http://localhost:1313/indices/2023/</link>
+      <link>https://singleplot.com/indices/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/indices/2023/</guid>
+      <guid>https://singleplot.com/indices/2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2024</title>
-      <link>http://localhost:1313/indices/2024/</link>
+      <link>https://singleplot.com/indices/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/indices/2024/</guid>
+      <guid>https://singleplot.com/indices/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2025</title>
-      <link>http://localhost:1313/indices/2025/</link>
+      <link>https://singleplot.com/indices/2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/indices/2025/</guid>
+      <guid>https://singleplot.com/indices/2025/</guid>
       <description></description>
     </item>
   </channel>

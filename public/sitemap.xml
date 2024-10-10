@@ -2,43 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/info/</loc>
+    <loc>https://singleplot.com/info/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/travel/itinerary/</loc>
+    <loc>https://singleplot.com/info/travel/itinerary/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/thoughts/itinerary/</loc>
+    <loc>https://singleplot.com/info/travel/one_bag/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/travel/onebag/</loc>
+    <loc>https://singleplot.com/info/thoughts/humanism_technology/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/aforayintophotography/</loc>
+    <loc>https://singleplot.com/info/thoughts/crisis_of_our_century/</loc>
+  </url><url>
+    <loc>https://singleplot.com/posts/aforayintophotography/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://singleplot.com/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://singleplot.com/posts/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/info/about/</loc>
+    <loc>https://singleplot.com/info/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/bookshelf/</loc>
+    <loc>https://singleplot.com/info/bookshelf/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://singleplot.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/indices/</loc>
+    <loc>https://singleplot.com/indices/</loc>
   </url><url>
-    <loc>http://localhost:1313/indices/2023/</loc>
+    <loc>https://singleplot.com/indices/2023/</loc>
   </url><url>
-    <loc>http://localhost:1313/indices/2024/</loc>
+    <loc>https://singleplot.com/indices/2024/</loc>
   </url><url>
-    <loc>http://localhost:1313/indices/2025/</loc>
+    <loc>https://singleplot.com/indices/2025/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/resources/</loc>
+    <loc>https://singleplot.com/info/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://singleplot.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/thoughts/</loc>
+    <loc>https://singleplot.com/info/thoughts/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/travel/</loc>
+    <loc>https://singleplot.com/info/travel/</loc>
   </url>
 </urlset>

@@ -9,7 +9,7 @@ BookToc: false
 
 I've been trying to read more this year.
 
-I'm currently reading <span style="color: yellow;">The Old Man and the Sea</span> by Ernest Hemingway.
+I'm currently reading <span style="color: yellow;">Ghosts Of My Life: Writings on Depression, Hauntology and Lost Futures</span> by Mark Fisher.
 
 If you have any suggestions, send them my way.
 
@@ -20,9 +20,8 @@ If you have any suggestions, send them my way.
 - Things Fall Apart — Chinua Achebe
 - Slaughterhouse-Five — Kurt Vonnegut
 - The Hours — Michael Cunningham
+- The Old Man and the Sea - Ernest Hemingway
 
 **My backlog:**
 - I Am a Strange Loop — Douglas Hofstadter
-- Ghosts Of My Life: Writings on Depression, Hauntology and Lost Futures — Mark Fisher
 - The Plains — Gerald Murnane
-
