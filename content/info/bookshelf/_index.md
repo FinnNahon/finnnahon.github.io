@@ -1,11 +1,9 @@
 ---
 type: bookshelf
-title: "bookshelf"
+title: "books"
 BookToc: false
 ---
-# <span style="color: yellow;">bookshelf</span>
-
-<img src="/images/reading.png" width="400" height="200" alt="reading">
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">books</span>
 
 I've been trying to read more this year.
 

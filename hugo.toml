@@ -1,13 +1,13 @@
 baseURL = 'https://singleplot.com/'
 languageCode = 'en-us'
-title = "single plot"
+title = "single_plot"
 theme = 'hugo-book'
 
 [params]
     BookTheme = 'dark'
     BookSection = 'info'
-    BookSearch = false
     BookLogo = 'favicon.png'
+    BookSearch = false
 
 [markup.goldmark.renderer]
   unsafe = true

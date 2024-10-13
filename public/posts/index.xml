@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal on single plot</title>
-    <link>https://singleplot.com/posts/</link>
-    <description>Recent content in journal on single plot</description>
+    <title>journal on single_plot</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in journal on single_plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://singleplot.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a foray into photography</title>
-      <link>https://singleplot.com/posts/aforayintophotography/</link>
+      <link>http://localhost:1313/posts/aforayintophotography/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/posts/aforayintophotography/</guid>
+      <guid>http://localhost:1313/posts/aforayintophotography/</guid>
       <description>I am now a proud owner of a Fujifilm XT-5.&#xA;Whilst most of my shots have been mediocre at best, it is pretty hard to take a bad shot with it.&#xA;More to come.</description>
     </item>
   </channel>

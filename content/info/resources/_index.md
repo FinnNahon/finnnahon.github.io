@@ -4,8 +4,7 @@ title: "resources"
 BookToc: true
 ---
 
-# <span style="color: yellow;">resources</span>
-
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">resources</span>
 
 A select few resources that I've found interesting or useful, and you might too.
 

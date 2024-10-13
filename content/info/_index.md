@@ -4,6 +4,6 @@ bookFlatSection: true
 title: "info"
 ---
 
-# Information
+# Welcome?
 
-Why did you think to go to this page?
+Looks like you deleted the text after /info/ in the URL. I suggest you go back.

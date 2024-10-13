@@ -4,7 +4,7 @@ title: "travel"
 BookToc: false
 ---
 
-# <span style="color: yellow;">travel</span>
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">travel</span>
 
 I will be travelling across Asia, the Middle East and Africa, starting in December.
 

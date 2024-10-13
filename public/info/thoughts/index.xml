@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thoughts on single plot</title>
-    <link>https://singleplot.com/info/thoughts/</link>
-    <description>Recent content in thoughts on single plot</description>
+    <title>thoughts on single_plot</title>
+    <link>http://localhost:1313/info/thoughts/</link>
+    <description>Recent content in thoughts on single_plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://singleplot.com/info/thoughts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>positive technologies</title>
-      <link>https://singleplot.com/info/thoughts/humanism_technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/thoughts/humanism_technology/</guid>
-      <description>positive technologies&#xD;#&#xD;Like many, I find myself troubled by modern technology. It is easy to get caught up in these systems that are eroding our way of life, but I want to focus on the positive impacts of technology for a bit.&#xA;There are ways technology improves our lives, and they are worth recognizing.&#xA;Technology Positive Impact OpenStreetMap Provides accessible mapping data for everyone, enabling better navigation and community planning.</description>
-    </item>
-    <item>
-      <title>the crisis of our century</title>
-      <link>https://singleplot.com/info/thoughts/crisis_of_our_century/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/thoughts/crisis_of_our_century/</guid>
-      <description>&#xD;the crisis of our century&#xD;#&#xD;</description>
-    </item>
+    <atom:link href="http://localhost:1313/info/thoughts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

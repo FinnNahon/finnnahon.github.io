@@ -147,12 +147,77 @@
     font-style: italic;
   }
   
+  @font-face {
+    font-family: 'Segment-Regular';
+    src: url('/fonts/Segment-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Comico-Regular';
+    src: url('/fonts/Comico-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+  }
+
+
+  @font-face {
+    font-family: 'Terminal-Grotesque';
+    src: url('/fonts/Terminal-Grotesque.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Avara-Bold';
+    src: url('/fonts/Avara-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'NectoMono-Regular';
+  src: url('/fonts/NectoMono-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlteHaasGrotesk-Regular';
+  src: url('/fonts/AlteHaasGrotesk.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlteHaasGrotesk-Bold';
+  src: url('/fonts/AlteHaasGrotesk_Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'InputMono-Medium';
+  src: url('/fonts/InputMono-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'InputMono-Regular';
+  src: url('/fonts/InputMono-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 
 // Change the font here to change the fonts of various levels of title in Markdown
 // h1 is the main title of pages, and h2 is the site title
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Gambetta-Italic', sans-serif;
+    font-family: 'AlteHaasGrotesk-Bold', sans-serif;
 }
 
 // Change the font here to change the fonts of body text in Markdown

@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "itinerary"
 BookToc: true
 ---
-# <span style="color: yellow;">itinerary</span>
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">itinerary</span>
 
 I do have a vague intinerary, but **things change**, and quickly.
 

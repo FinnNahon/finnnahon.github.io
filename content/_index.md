@@ -1,10 +1,11 @@
 ---
 type: info
-custom_title: "single plot — home"
+custom_title: "single_plot — home"
 BookToc: false
 ---
 
-ㅤㅤ<img src="/images/olive_leaf.png" width="300" height="200" alt="Finn">
+<img src="/images/mountain.png" width="500" height="200" alt="Finn">
+
 
 Thanks for stopping by. Take a look around if you'd like.
 
