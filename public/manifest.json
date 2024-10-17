@@ -1,6 +1,6 @@
 {
-  "name": "single_plot",
-  "short_name": "single_plot",
+  "name": "single plot",
+  "short_name": "single plot",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

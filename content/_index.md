@@ -1,6 +1,6 @@
 ---
 type: info
-custom_title: "single_plot — home"
+custom_title: "single plot — home"
 BookToc: false
 ---
 

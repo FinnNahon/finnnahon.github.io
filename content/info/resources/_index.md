@@ -2,6 +2,7 @@
 type: resources
 title: "resources"
 BookToc: true
+draft: true
 ---
 
 <span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">resources</span>

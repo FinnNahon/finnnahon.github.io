@@ -1,6 +1,6 @@
 baseURL = 'https://singleplot.com/'
 languageCode = 'en-us'
-title = "single_plot"
+title = "single plot"
 theme = 'hugo-book'
 
 [params]
