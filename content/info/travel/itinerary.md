@@ -6,7 +6,7 @@ BookToc: true
 ---
 <span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">itinerary</span>
 
-I do have a vague intinerary, but **things change**, and quickly.
+The following is my rough itinerary, but like all things, they are bound to change.
 
 <!DOCTYPE html>
 <html lang="en">
