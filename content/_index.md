@@ -1,7 +1,7 @@
 ---
 type: info
 custom_title: "single plot — home"
-BookToc: true
+BookToc: false
 ---
 <!DOCTYPE html>
 <html lang="en">

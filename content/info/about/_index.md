@@ -1,7 +1,7 @@
 ---
 type: about
 title: "about me"
-BookToc: true
+BookToc: false
 ---
 
 <span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">about me</span>

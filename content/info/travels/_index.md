@@ -1,7 +1,7 @@
 ---
 type: travels
 title: "travels"
-BookToc: true
+BookToc: false
 ---
 <span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">travels</span>
 
@@ -18,7 +18,7 @@ BookToc: true
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
+            width: 80%;
             height: 100%;
             z-index: ;
             opacity: 0.1; /* Adjust the opacity as needed */
