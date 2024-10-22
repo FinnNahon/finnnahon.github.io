@@ -4,9 +4,11 @@ bookFlatSection: true
 title: "one bag philosophy"
 BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">one bag philosophy</span>
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">one bag philosophy</span>
 
-Onebagging is about travelling with only a single carry-on sized bag. It is about experiencing the place you're visiting without being weighed down by any excess.
+As the name implies, this philosophy is about travelling with a single carry-on sized bag that focuses on essential items only. 
+
+This way you can move about without being weighed down by any excess. I will be following this process throughout my journey.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -30,7 +32,7 @@ Onebagging is about travelling with only a single carry-on sized bag. It is abou
 </head>
 <body>
     <div class="container">
-        <img src="/images/rabbit.png" alt="Background Image" class="background-image">
+        <img src="/images/rabbit_white.png" alt="Background Image" class="background-image">
     </div>
 </body>
 </html>
@@ -46,7 +48,9 @@ Onebagging is about travelling with only a single carry-on sized bag. It is abou
 
 ## my personal one bag
 
-The following is what I will be packing in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for $100 cheaper). I should also note that due to my camera setup, I'm bringing more than most suggest.
+My will be packing the following in my bag of choice, the **Osprey Fairview 40L** (I could've gone with the Farpoint, but opted for the Fairview as I was able to get it for about $100 less). 
+
+I should also note that due to my camera setup, I'm bringing more than most suggest.
 
 {{< columns >}}
 ### Health & Hygiene

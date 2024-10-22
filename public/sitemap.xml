@@ -4,9 +4,9 @@
   <url>
     <loc>https://singleplot.com/info/</loc>
   </url><url>
-    <loc>https://singleplot.com/info/travel/itinerary/</loc>
+    <loc>https://singleplot.com/info/travels/itinerary/</loc>
   </url><url>
-    <loc>https://singleplot.com/info/travel/one_bag_philosophy/</loc>
+    <loc>https://singleplot.com/info/travels/one_bag_philosophy/</loc>
   </url><url>
     <loc>https://singleplot.com/info/resources/positive_technology/</loc>
   </url><url>
@@ -35,8 +35,6 @@
   </url><url>
     <loc>https://singleplot.com/tags/</loc>
   </url><url>
-    <loc>https://singleplot.com/info/travel/</loc>
-  </url><url>
-    <loc>https://singleplot.com/info/writings/</loc>
+    <loc>https://singleplot.com/info/travels/</loc>
   </url>
 </urlset>

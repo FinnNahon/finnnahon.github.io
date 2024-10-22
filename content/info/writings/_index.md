@@ -2,40 +2,14 @@
 type: writings
 title: "writings"
 BookToc: false
+draft: true
 ---
 
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">writings</span>
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">writings</span>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Behind Text</title>
-    <style>
-        .container {
-        }
-        .background-image {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 60%;
-            height: 100%;
-            z-index: ;
-            opacity: 0.1; /* Adjust the opacity as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="/images/tree.png" alt="Background Image" class="background-image">
-    </div>
-</body>
-</html>
+If I feel compelled to write something a little more long-form, I'll be posting it here on my site.
 
-I find myself ruminating on a bunch of things, so I post them here.
-
-Here's some other people's thoughts I've found amusing or thought-provoking:
+In the meantime, here's some other people's thoughts I've found amusing or thought-provoking:
 
 - [ribbonfarm - Premium Mediocre](https://www.ribbonfarm.com/2017/08/17/the-premium-mediocre-life-of-maya-millennial/)
 - [worrydream - What can a technologist do about climate change?](https://worrydream.com/ClimateChange)

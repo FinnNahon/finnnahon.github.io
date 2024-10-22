@@ -4,9 +4,9 @@ bookFlatSection: true
 title: "itinerary"
 BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">itinerary</span>
+<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">itinerary</span>
 
-The following is my rough itinerary, but like all things, they are bound to change.
+I will be travelling to the following countries, but my plans are bound to change.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -24,13 +24,13 @@ The following is my rough itinerary, but like all things, they are bound to chan
             width: 100%;
             height: 100%;
             z-index: ;
-            opacity: 0.5; /* Adjust the opacity as needed */
+            opacity: 0.1; /* Adjust the opacity as needed */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <img src="/images/plane.png" alt="Background Image" class="background-image">
+        <img src="/images/plane_white.png" alt="Background Image" class="background-image">
     </div>
 </body>
 </html>
@@ -55,11 +55,6 @@ The following is my rough itinerary, but like all things, they are bound to chan
 15. Kazakhstan
 16. Uzbekistan
 17. Tajikistan
-18. Azerbaijan
-19. Georgia
-20. Armenia
-21. Turkey
-22. Jordan
 
 <--->
 
@@ -80,6 +75,11 @@ The following is my rough itinerary, but like all things, they are bound to chan
 - Tunisia
 - Greece
 - South Africa
+- Azerbaijan
+- Georgia
+- Armenia
+- Turkey
+- Jordan
 
 <--->
 <--->

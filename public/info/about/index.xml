@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on single plot</title>
+    <title>about me on single plot</title>
     <link>https://singleplot.com/info/about/</link>
-    <description>Recent content in about on single plot</description>
+    <description>Recent content in about me on single plot</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://singleplot.com/info/about/index.xml" rel="self" type="application/rss+xml" />
