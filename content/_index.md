@@ -16,7 +16,7 @@ BookToc: true
             position: absolute;
             top: 0;
             left: 0;
-            width: 65%;
+            width: 500px;
             height: 100%;
             z-index: ;
             opacity: 0.2; /* Adjust the opacity as needed */
@@ -26,11 +26,14 @@ BookToc: true
 <body>
     <div class="container">
         <img src="/images/sparkle.webp" alt="Moving Sparkles" class="background-image">
-        <img src="/images/mountain_leaves.png" alt="Mountain and Leaves" class="background-image" style="opacity: 0.8;">
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        Thanks for stopping by. Take a look around if you'd like.<br><br>
-        I use this website to jot down my thoughts and share my travels.<br><br>
-        You can see what I am currently up to <a href="/posts" style="color: #F6EB61; text-decoration: none;">here.</a>
     </div>
 </body>
 </html>
+
+<img src="/images/mountain_leaves.png" alt="Mountain and Leaves" style="opacity: 0.8; width: 500px;">
+
+Thanks for stopping by. Take a look around if you'd like.
+
+I use this website to jot down my thoughts and share my travels.
+
+You can see what I am currently up to <a href="/posts" style="color: #F6EB61; text-decoration: none;">here.</a>
