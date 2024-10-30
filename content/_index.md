@@ -23,7 +23,7 @@ BookToc: false
             /* left: 0; /* Aligns with the left of the hover text */
             margin-top: 0.1em; /* Space between the texts */
             white-space: nowrap; /* Prevents the text from wrapping */
-            text-align: right;
+            text-align: center;
             width: 100%;
         }
         .hover-container:hover .reveal-text {
@@ -33,13 +33,11 @@ BookToc: false
 </head>
 <body>
     <div class="hover-container">
-        <span class="hover-text"><span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: red; font-size: 40px;">welcome to single plot*</span></span>
-        <span class="reveal-text"><span style="sans-serif; color: red;">* don't try to make sense of the name, <br>i don't know what it means either</span></span>
+        <span class="hover-text"><span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: red; font-size: 40px;">welcome*</span></span>
+        <span class="reveal-text"><span style="sans-serif; color: red;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>* don't try to make sense of the site's name, <br>i don't know what it means either</span></span>
     </div>
-        <br><img src="/images/la_planete_sauvage.png" alt="Mountain and Leaves" style="opacity: 1; width: 600px;">
 </body>
 </html>
-
 
 Thanks for stopping by. Take a look around if you'd like.
 
@@ -47,5 +45,4 @@ I use this website to jot down my thoughts and share my travels.
 
 You can see what I am currently up to <a href="/posts" style="color: #F6EB61; text-decoration: none;">here.</a>
 
-[comment]: <> (<span style="sans-serif; color: red;">* don't try to make sense of the name, I don't know what it means either</span>)
-
+<img src="/images/la_planete_sauvage.png" alt="Mountain and Leaves" style="opacity: 1; width: 600px;"><br>
