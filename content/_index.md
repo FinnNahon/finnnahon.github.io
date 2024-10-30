@@ -24,6 +24,7 @@ BookToc: false
             margin-top: 0.1em; /* Space between the texts */
             white-space: nowrap; /* Prevents the text from wrapping */
             text-align: center;
+            transform: translateX(-50%);
             width: 100%;
         }
         .hover-container:hover .reveal-text {
@@ -33,8 +34,8 @@ BookToc: false
 </head>
 <body>
     <div class="hover-container">
-        <span class="hover-text"><span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: red; font-size: 40px;">welcome*</span></span>
-        <span class="reveal-text"><span style="sans-serif; color: red;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>* don't try to make sense of the site's name, <br>i don't know what it means either</span></span>
+        <span class="hover-text"><span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #D22B2B; font-size: 40px;">welcome*</span></span>
+        <span class="reveal-text"><span style="sans-serif; color: #D22B2B;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>* don't try to make sense of the <br>site's name, i don't know what <br>it means either</span></span>
     </div>
 </body>
 </html>
