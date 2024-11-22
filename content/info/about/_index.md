@@ -1,12 +1,11 @@
 ---
 type: about
 title: "about me"
-BookToc: false
+BookToc: true
 ---
+# about me
 
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">about me</span>
-
-<img src="/images/myself.png" width="450" height="200" alt="Finn">
+<img src="/images/myself.jpg" width="250" height="200" alt="Finn">
  
 Hi, I'm Finn, a 29-y/o Melburnian set to embark on a year-long journey across much of Asia, the Middle East and possibly Africa. 
 

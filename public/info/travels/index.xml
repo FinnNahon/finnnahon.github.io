@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>travels on single plot</title>
-    <link>https://singleplot.com/info/travels/</link>
-    <description>Recent content in travels on single plot</description>
+    <title>travels on letterstamp</title>
+    <link>http://localhost:1313/info/travels/</link>
+    <description>Recent content in travels on letterstamp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://singleplot.com/info/travels/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info/travels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>itinerary</title>
-      <link>https://singleplot.com/info/travels/itinerary/</link>
+      <link>http://localhost:1313/info/travels/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travels/itinerary/</guid>
-      <description>itinerary&#xA;I will be travelling to the following countries, but my plans are bound to change.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;my current path&#xD;#&#xD;Indonesia Singapore China South Korea Japan Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan other possibilities&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece South Africa Azerbaijan Georgia Armenia Turkey Jordan </description>
+      <guid>http://localhost:1313/info/travels/itinerary/</guid>
+      <description>&#xD;itinerary&#xD;#&#xD;I will be travelling to the following countries, but my plans are bound to change.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;my current path&#xD;#&#xD;Indonesia Singapore China Japan South Korea Philippines Vietnam Cambodia Laos Thailand Malaysia India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan other possibilities&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece South Africa Azerbaijan Georgia Armenia Turkey Jordan </description>
     </item>
     <item>
       <title>one bag philosophy</title>
-      <link>https://singleplot.com/info/travels/one_bag_philosophy/</link>
+      <link>http://localhost:1313/info/travels/one_bag_philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://singleplot.com/info/travels/one_bag_philosophy/</guid>
-      <description>one bag philosophy&#xA;As the name implies, this philosophy is about travelling with a single carry-on sized bag that focuses on essential items only.&#xA;This way you can move about without being weighed down by any excess. I will be following this process throughout my journey.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;general practices&#xD;#&#xD;Travel light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;My will be packing the following in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for about $100 less).</description>
+      <guid>http://localhost:1313/info/travels/one_bag_philosophy/</guid>
+      <description>one bag philosophy&#xD;#&#xD;As the name implies, this philosophy is about travelling with a single carry-on sized bag that focuses on essential items only.&#xA;This way you can move about without being weighed down by any excess. I will be following this process throughout my journey.&#xA;&lt;!DOCTYPE html&gt;&#xD;Image Behind Text&#xD;general practices&#xD;#&#xD;Travel light Don&amp;rsquo;t pack your fears Only bring about a weeks worth of items Try to fit everything into a bag that is 25L-40L in size my personal one bag&#xD;#&#xD;My will be packing the following in my bag of choice, the Osprey Fairview 40L (I could&amp;rsquo;ve gone with the Farpoint, but opted for the Fairview as I was able to get it for about $100 less).</description>
     </item>
   </channel>
 </rss>

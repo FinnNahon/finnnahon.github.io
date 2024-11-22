@@ -5,7 +5,7 @@ BookToc: true
 draft: true
 ---
 
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">resources</span>
+# resources
 
 A select few resources that I've found interesting or useful, and you might too.
 

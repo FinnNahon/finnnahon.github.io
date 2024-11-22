@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "one bag philosophy"
 BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">one bag philosophy</span>
+# one bag philosophy
 
 As the name implies, this philosophy is about travelling with a single carry-on sized bag that focuses on essential items only. 
 

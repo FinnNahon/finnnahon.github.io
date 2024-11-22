@@ -2,9 +2,9 @@
 weight: 1
 bookFlatSection: true
 title: "itinerary"
-BookToc: false
+BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">itinerary</span>
+# itinerary
 
 I will be travelling to the following countries, but my plans are bound to change.
 
@@ -41,8 +41,8 @@ I will be travelling to the following countries, but my plans are bound to chang
 1. Indonesia
 2. Singapore
 3. China
-4. South Korea
-5. Japan
+4. Japan
+5. South Korea
 6. Philippines
 7. Vietnam
 8. Cambodia

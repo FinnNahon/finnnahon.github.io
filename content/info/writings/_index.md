@@ -5,7 +5,7 @@ BookToc: false
 draft: true
 ---
 
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">writings</span>
+# writings
 
 If I feel compelled to write something a little more long-form, I'll be posting it here on my site.
 

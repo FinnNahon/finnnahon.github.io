@@ -1,9 +1,9 @@
 ---
 type: travels
 title: "travels"
-BookToc: false
+BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">travels</span>
+# travels
 
 <!DOCTYPE html>
 <html lang="en">

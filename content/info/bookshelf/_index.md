@@ -1,9 +1,9 @@
 ---
 type: bookshelf
 title: "bookshelf"
-BookToc: false
+BookToc: true
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: #F6EB61; font-size: 40px;">bookshelf</span>
+# bookshelf
 
 <!DOCTYPE html>
 <html lang="en">

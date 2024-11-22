@@ -1,6 +1,6 @@
 {
-  "name": "single plot",
-  "short_name": "single plot",
+  "name": "letterstamp",
+  "short_name": "letterstamp",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

@@ -1,10 +1,10 @@
 baseURL = 'https://singleplot.com/'
 languageCode = 'en-us'
-title = "single plot"
+title = "letterstamp"
 theme = 'hugo-book'
 
 [params]
-    BookTheme = 'dark'
+    BookTheme = 'light'
     BookSection = 'info'
     BookLogo = 'favicon.png'
     BookSearch = false

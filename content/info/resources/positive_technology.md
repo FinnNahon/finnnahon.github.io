@@ -4,7 +4,7 @@ bookFlatSection: true
 title: "positive technology"
 BookToc: false
 ---
-<span style="font-family: 'AlteHaasGrotesk-Bold', sans-serif; color: yellow; font-size: 40px;">positive technology</span>
+# positive technology
 
 Instead of focusing on the corrosive side of technology, which is easy to do, I thought I'd highlight a few positive examples.
 
