@@ -1,4 +1,4 @@
-baseURL = 'https://singleplot.com/'
+baseURL = 'https://letterstamp.com/'
 languageCode = 'en-us'
 title = "letterstamp"
 theme = 'hugo-book'
