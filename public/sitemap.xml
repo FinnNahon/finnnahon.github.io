@@ -8,8 +8,6 @@
   </url><url>
     <loc>http://localhost:1313/info/travels/one_bag_philosophy/</loc>
   </url><url>
-    <loc>http://localhost:1313/info/resources/positive_technology/</loc>
-  </url><url>
     <loc>http://localhost:1313/posts/aforayintophotography/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,6 +30,8 @@
     <loc>http://localhost:1313/indices/2024/</loc>
   </url><url>
     <loc>http://localhost:1313/indices/2025/</loc>
+  </url><url>
+    <loc>http://localhost:1313/info/resources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>

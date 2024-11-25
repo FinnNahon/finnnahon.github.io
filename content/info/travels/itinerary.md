@@ -30,7 +30,7 @@ I will be travelling to the following countries, but my plans are bound to chang
 </head>
 <body>
     <div class="container">
-        <img src="/images/plane_white.png" alt="Background Image" class="background-image">
+        <img src="/images/plane_black.png" alt="Background Image" class="background-image">
     </div>
 </body>
 </html>

@@ -91,6 +91,41 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'KUPOLE';
+  src: url('/fonts/KUPOLE-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Revival';
+  src: url('/fonts/Revival.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PIZIUS';
+  src: url('/fonts/Berzulis-PIZIUS.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Manifont-Regular';
+  src: url('/fonts/Manifont-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linea';
+  src: url('/fonts/Linea.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 // Change the font here to change the fonts of various levels of title in Markdown
 // h1 is the main title of pages, and h2 is the site title
 
@@ -102,7 +137,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-    font-family: 'Banquise-Regular', sans-serif;
+  font-family: 'Linea', sans-serif;
 }
 
 // Change the font here to change the fonts of body text in Markdown

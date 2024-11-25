@@ -10,35 +10,6 @@ As the name implies, this philosophy is about travelling with a single carry-on 
 
 This way you can move about without being weighed down by any excess. I will be following this process throughout my journey.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Behind Text</title>
-    <style>
-        .container {
-        }
-        .background-image {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: ;
-            opacity: 0.1; /* Adjust the opacity as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="/images/rabbit_white.png" alt="Background Image" class="background-image">
-    </div>
-</body>
-</html>
-
-
-
 ## general practices
 
 - Travel light

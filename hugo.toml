@@ -6,7 +6,6 @@ theme = 'hugo-book'
 [params]
     BookTheme = 'light'
     BookSection = 'info'
-    BookLogo = 'favicon.png'
     BookSearch = false
 
 [markup.goldmark.renderer]

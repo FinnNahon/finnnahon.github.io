@@ -5,36 +5,9 @@ BookToc: true
 ---
 # bookshelf
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Behind Text</title>
-    <style>
-        .container {
-        }
-        .background-image {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: ;
-            opacity: 0.1; /* Adjust the opacity as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="/images/handbook.png" alt="Background Image" class="background-image">
-    </div>
-</body>
-</html>
-
 I've been trying to read more this year.
 
-I'm currently reading Ghosts Of My Life by Mark Fisher.
+I'm currently reading *Ghosts Of My Life* by Mark Fisher.
 
 If you have any suggestions, send them my way.
 
@@ -48,3 +21,5 @@ If you have any suggestions, send them my way.
 **My backlog:**
 - I Am a Strange Loop — Douglas Hofstadter
 - The Plains — Gerald Murnane
+
+<img src="/images/handbook.png" width="250" alt="Myself"/>

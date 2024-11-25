@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resources on single_plot</title>
+    <title>resources on letterstamp</title>
     <link>http://localhost:1313/info/resources/</link>
-    <description>Recent content in resources on single_plot</description>
+    <description>Recent content in resources on letterstamp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/info/resources/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>positive technology</title>
-      <link>http://localhost:1313/info/resources/positive_technology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/info/resources/positive_technology/</guid>
-      <description>positive technology&#xA;Instead of focusing on the corrosive side of technology, which is easy to do, I thought I&amp;rsquo;d highlight a few positive examples.&#xA;Technology Positive Impact OpenStreetMap Provides accessible mapping data for everyone, enabling better navigation and community planning. Signal Ensures secure and private communication, protecting user data and promoting safe conversations. Butterfly iQ Provides portable ultrasound technology that democratizes access to medical imaging, allowing healthcare providers to deliver timely care in underserved areas.</description>
-    </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 type: resources
 title: "resources"
 BookToc: true
-draft: true
+draft: false
 ---
 
 # resources
@@ -14,7 +14,6 @@ A select few resources that I've found interesting or useful, and you might too.
 - [ArtAsiaPacific](https://artasiapacific.com/): periodical covering contemporary art and culture from Asia, the Pacific and the Middle East.
 - [Fontshare](https://www.fontshare.com/): foundry of free fonts for both personal and commercial use.
 - [Frieze](https://www.frieze.com/): platform covering modern and contemporary art.
-- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/): an open-source font foundry.
 
 ## books
 
