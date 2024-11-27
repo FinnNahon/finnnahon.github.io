@@ -2,7 +2,7 @@
 type: resources
 title: "resources"
 BookToc: true
-draft: false
+draft: true
 ---
 
 # resources
@@ -41,7 +41,7 @@ A select few resources that I've found interesting or useful, and you might too.
 
 ## journalism & news
 
-- [Associated Press](https://apnews.com/): a leading news wire service known for balanced reporting and a history of Pulitzer Prizes.
+- [Associated Press](https://apnews.com/): a news wire service known for balanced reporting.
 - [bell¿ngcat](https://www.bellingcat.com/): investigative journalism group specializing in human rights, conflict zones, and fact-checking using open-source intelligence.
 - [Global Voices](https://globalvoices.org/): a community that highlights underrepresented voices and experiences often missing from mainstream media.
 - [Jacobin](https://jacobin.com/): socialist magazine offering progressive commentary on politics, economics, and culture.
@@ -54,7 +54,7 @@ A select few resources that I've found interesting or useful, and you might too.
 
 ## music
 
-- [AcclaimedMusic](https://www.acclaimedmusic.net/): a website that aggregates and compiles lists of the most critically acclaimed music albums and songs from various sources, such as critics' polls, magazine rankings, and music publications.
+- [AcclaimedMusic](https://www.acclaimedmusic.net/): a website that aggregates and compiles lists of critically acclaimed albums and songs from various sources, such as critics' polls, magazine rankings, and music publications.
 
 ## politics
 

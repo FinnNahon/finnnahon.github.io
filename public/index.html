@@ -5,17 +5,28 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="
+  
+  
+    welcome to letterstamp
+  
+
 Thanks for stopping by. Take a look around if you&rsquo;d like.
 I use this website to jot down my thoughts and share my travels.
-You can see what I am currently up to here.">
+You can see what I am currently up to here.
+
+As of 27/11/2024, I am in:
+
+
+">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/">
   <meta property="og:site_name" content="letterstamp">
   <meta property="og:title" content="letterstamp">
-  <meta property="og:description" content="Thanks for stopping by. Take a look around if you’d like.
+  <meta property="og:description" content="welcome to letterstampThanks for stopping by. Take a look around if you’d like.
 I use this website to jot down my thoughts and share my travels.
-You can see what I am currently up to here.">
+You can see what I am currently up to here.
+As of 27/11/2024, I am in:">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 <title>letterstamp — home</title>
@@ -69,42 +80,6 @@ https://github.com/alex-shpak/hugo-book
 
   
     <a href="/info/about/" class="">about</a>
-  
-
-          
-  <ul>
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/info/bookshelf/" class="">bookshelf</a>
-  
-
-          
-  <ul>
-    
-  </ul>
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="/info/resources/" class="">resources</a>
   
 
           
@@ -232,11 +207,43 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown book-article"><img src="/images/landscape.png">
+  <article class="markdown book-article"><div style="position: relative; display: inline-block; overflow: visible;">
+  <img src="/images/landscape.png" alt="Landscape" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #FF4433; font-family: 'Linea', sans-serif; font-size: 80px; font-weight: bold; white-space: nowrap;">
+    welcome to letterstamp
+  </div>
+</div>
 <p>Thanks for stopping by. Take a look around if you&rsquo;d like.</p>
 <p>I use this website to jot down my thoughts and share my travels.</p>
 <p>You can see what I am currently up to <a href="/posts" style="color: #FF7F50; text-decoration: none;">here.</a></p>
-</article>
+<br>
+<span style="text-align: right; display: block;"><ins>As of 27/11/2024, I am in:</ins></span>
+<div id="typewriter"></div>
+<script>
+    const sentence = "Melbourne, Australia.";
+    let index = 0;
+
+    function typeWriter() {
+        if (index < sentence.length) {
+            document.getElementById("typewriter").textContent += sentence.charAt(index);
+            index++;
+            setTimeout(typeWriter, 100); // Adjust the speed here (in milliseconds)
+        }
+    }
+
+    // Start the typewriter effect after the page is loaded
+    window.onload = typeWriter;
+</script>
+<style>
+    #typewriter {
+        font-family: 'Orbit-Regular', monospace; /* Typewriter-style font */
+        font-size: 15px; /* Size of the text */
+        text-align: right;
+        white-space: nowrap; /* Prevent line breaks */
+        overflow: hidden; /* Hide overflowing content */
+        color: #c970db; /* Text color green */
+    }
+</style></article>
  
       
 
