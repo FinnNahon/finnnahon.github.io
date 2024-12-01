@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-03-12
-linktitle: new camera gear
-title: new camera gear
+linktitle: some shiny new glass
+title: some shiny new glass
 weight: 10
 BookToc: true
 ---

@@ -2,41 +2,16 @@
 weight: 1
 bookFlatSection: true
 title: "itinerary"
-BookToc: true
+BookToc: false
 ---
 # itinerary
 
-I will be travelling to the following countries, but my plans are bound to change.
+The following is my vague trajectory that is subject to change:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Behind Text</title>
-    <style>
-        .container {
-        }
-        .background-image {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: ;
-            opacity: 0.1; /* Adjust the opacity as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="/images/plane_black.png" alt="Background Image" class="background-image">
-    </div>
-</body>
-</html>
+<img src="/images/map.png" width="600" alt="map" style="float:right; margin-right:10px;" />
 
 {{< columns >}}
-### my current path
+### current path
 
 1. Indonesia
 2. Singapore

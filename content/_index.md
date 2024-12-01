@@ -3,13 +3,7 @@ type: info
 custom_title: "letterstamp — home"
 BookToc: true
 ---
-<div style="position: relative; display: inline-block; overflow: visible;">
-  <img src="/images/landscape.png" alt="Landscape" style="width: 100%; height: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #FF4433; font-family: 'Linea', sans-serif; font-size: 4.5vw; font-weight: bold; white-space: nowrap;">
-    welcome to letterstamp
-  </div>
-</div>
-
+<img src="/images/landscape.png" alt="Landscape" style="width: 100%; height: auto;">
 
 Thanks for stopping by. Take a look around if you'd like.
 
