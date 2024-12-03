@@ -24,7 +24,7 @@ My will be packing the following in my bag of choice, the **Osprey Fairview 40L*
 I should also note that due to my camera setup, I'm bringing more than most suggest.
 
 {{< columns >}}
-### Health & Hygiene
+### Health/Hygiene
 - Toothbrush, toothpaste and floss
 - Beard trimmer and charger
 - First aid kit
@@ -49,7 +49,7 @@ I should also note that due to my camera setup, I'm bringing more than most sugg
 
 <--->
 
-### Clothing & accessories
+### Clothing and accessories
 - Sunglasses
 - Swim shorts
 - Longjohns

@@ -6,7 +6,7 @@ BookToc: false
 ---
 # itinerary
 
-The following is my vague trajectory that is subject to change:
+The following is my vague trajectory over the next year - keep in mind this could change very easily:
 
 <img src="/images/map.png" width="600" alt="map" style="float:right; margin-right:10px;" />
 

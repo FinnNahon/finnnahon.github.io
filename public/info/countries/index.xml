@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>countries on letterstamp</title>
+    <link>http://localhost:1313/info/countries/</link>
+    <description>Recent content in countries on letterstamp</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/info/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>indonesia</title>
+      <link>http://localhost:1313/info/countries/indonesia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/countries/indonesia/</guid>
+      <description>&lt;h1 id=&#34;indonesia&#34;&gt;&#xD;&#xA;  indonesia&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#indonesia&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Words go here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
