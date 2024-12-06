@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/info/travels/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>chronicle</title>
+      <link>http://localhost:1313/info/travels/chronicle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/info/travels/chronicle/</guid>
+      <description>&lt;h1 id=&#34;the-journey-so-far&#34;&gt;&#xD;&#xA;  the journey so far&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-journey-so-far&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
       <title>itinerary</title>
       <link>http://localhost:1313/info/travels/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
