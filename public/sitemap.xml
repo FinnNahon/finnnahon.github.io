@@ -8,11 +8,14 @@
   </url><url>
     <loc>http://localhost:1313/info/travels/one_bag_philosophy/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/and_so_the_trip_begins/</loc>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/some_shiny_new_glass/</loc>
     <lastmod>2024-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>

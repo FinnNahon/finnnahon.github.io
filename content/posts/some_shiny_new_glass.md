@@ -5,6 +5,7 @@ linktitle: some shiny new glass
 title: some shiny new glass
 weight: 10
 BookToc: true
+draft: true
 ---
 
 I am now in possession of a Fujifilm XT-5, which I will be using with a Fujifilm XF 16-55mm f2.8 zoom lens. 
