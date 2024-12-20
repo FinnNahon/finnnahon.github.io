@@ -3,7 +3,7 @@ type: info
 custom_title: "letterstamp — home"
 BookToc: true
 ---
-<img src="/images/landscape.png" alt="Landscape" style="width: 100%; height: auto;">
+<img src="/images/welcome_to_indonesia.png" alt="indonesia" style="width: 100%; height: auto;">
 
 Thanks for stopping by. Take a look around if you'd like.
 
@@ -12,12 +12,12 @@ I use this website to jot down my thoughts and share my travels.
 You can see what I am currently up to <a href="/posts" style="color: #FF7F50; text-decoration: none;">here.</a>
 
 <br>
-<span style="text-align: right; display: block;"><ins>As of 5/12/2024, I am in:</ins></span>
+<span style="text-align: right; display: block;"><ins>As of 20/12/2024, I am in:</ins></span>
 
 <div id="typewriter"></div>
 
 <script>
-    const sentence = "Bali, Indonesia.";
+    const sentence = "East Java, Indonesia.";
     let index = 0;
 
     function typeWriter() {

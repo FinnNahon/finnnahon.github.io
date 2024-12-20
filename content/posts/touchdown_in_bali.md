@@ -10,7 +10,7 @@ draft: false
 
 ## the flight
 
-After a rather busy pre-trip month in Melbourne, we both made it to Melbourne Airport, bags packed and ready to go. No real hiccups at the airport, thankfully. After having a final goodbye glass of Carlton, we hopped onto the plane and began the 6-hour flight to Bali.
+After a rather busy pre-trip month in Melbourne, we both made it to Melbourne Airport, bags packed and ready to go. No real hiccups at the airport, thankfully. After having a final goodbye pint of Carlton, we hopped onto the plane and began the 6-hour flight to Bali.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="/images/on_the_plane.jpg" width="550px" alt="On The Plane">
@@ -25,7 +25,7 @@ The view of the landscape over South Australia and the Northern Territory was pr
 
 ## the airport
 
-I Gusti Ngurah Rai Airport was bit of a wakeup call as to where we were - immediately we were being harassed by locals and I had made the mistake of trusting one of the airport guides (who was behind customs, mind you) to take us through security. We ended up giving him an oversized tip for his 'help' in carrying our bags about 30 metres. Lesson learnt. After trying to connect to our roaming data, we gave up and took one of the many drivers at the airport up on his offer to drive us to our hotel. It was 10.30pm and we were tired and just wanted to get to our room. The drive there was fairly effortless, and we checked in with no issues.
+I Gusti Ngurah Rai Airport was bit of a wakeup call as to where we were - immediately we were being harassed by locals and I had made the mistake of trusting one of the airport guides (who was behind customs, mind you) to take us through security. We ended up giving him an oversized tip for his 'help' in carrying our bags about 30 metres. Lesson learnt. After trying to connect to our roaming data, we gave up and took one of drivers at the airport up on his offer to drive us to our hotel. It was 10.30pm and we were tired and just wanted to get to our room. The drive there was fairly effortless, and we checked in with no issues.
 
 ## the first evening
 
