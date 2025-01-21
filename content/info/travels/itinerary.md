@@ -13,9 +13,23 @@ The following is my vague trajectory over the next year - keep in mind this coul
 {{< columns >}}
 ### current path
 
-1. Indonesia
-2. Singapore
+1. ~~Indonesia~~
+    * ~~Kuta~~
+    * ~~Uluwatu~~
+    * ~~Ubud~~
+    * ~~Medewi~~
+    * ~~Canggu~~
+    * ~~Banyuwangi~~
+    * ~~Yogyakarta~~
+    * ~~Jakarta~~
+2. ~~Singapore~~
 3. China
+    * ~~Hong Kong~~
+    * ~~Macau~~
+    * ~~Guangzhou~~
+    * ~~Chongqing~~
+    * ~~Xi'an~~
+    * Shanghai
 4. Japan
 5. South Korea
 6. Philippines

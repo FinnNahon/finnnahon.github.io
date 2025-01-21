@@ -92,3 +92,139 @@ Ryan from Secret SurfCamp came and picked us up in Canggu and we began the long 
 ## 20/12/2024
 
 Woke up surprisingly early today and decided to get some work done on my website. Checked out at 11.30am and both Jade and myself have decided to take it slow as we are preparing for our 13 hour bus trip at 4.55pm that will be taking us to Yogyakarta.
+
+# 21/12/2024
+
+The bus journey was long and arduous and quite uncomfortable. The bus would stop constantly for more stops and other travellers would get on, as well as local sellers selling their food and knick-knacks. The bus had no bathroom so we had to use the bathroom at the stops - but no worries, it has a smoking section at the back! I held the bus up once by taking too long in the bathroom, much to the dismay of Jade who had to apologise to the people on the bus. I also had a cigarette in the back of the bus and got locked in as the handle wasn't working properly, and attempted to have a conversation with a local man who couldn't speak English. It was a cool bus ride when you were looking out the window as the other buses passing by would have their funny custom lights on - a common one was the front lights looking like blinking eyes. After getting off the bus, we made our way to our accom in Yogyakarta and setup camp.
+
+After setting up camp, we went out to the main street in Yogya (called Malioboro) and found a local street food joint that was cooking food in the open-air. Jade had suggested this place as he found it in a video he was watching and it was quite yum! I ended up having some kind of turmeric noodle soup. We then checked out a place that had a lot of old Indonesian artifacts, as well as a multi-room horror scene that we walked through that was honestly quite spooky. 
+
+# 22/12/2024
+
+Sadly we had to leave Yogyakarta this day (due to time constraints) and we hopped on a 6-hour train to Jakarta, which was an absolute breeze compared to our bus trip earlier. It was nice to see the local landscape during this trip. We then arrived in Jakarta, and made our way to our hostel. I attempted to find us some dinner nearby down some dark alleys but sadly the place we wanted was closed so we wound up going elsewhere.
+
+# 23/12/2024
+
+We went to Taman Shud today, which was an unreal place that has sections devoted to each region of Indonesia. We took the cable car first, checked out the Komodo dragons (as well as crocodiles, snakes, and more) and visited the Disneyland-esque fairytale castle they had which was run-down. We decided to navigate around it and climbed up some stairs and we weren't even sure if we were allowed to be there. Nonetheless we did this and got some funny pictures. We also went into their admittedly impressive bird enclosure and saw some insane looking animals - including some very regal pigeons.
+
+In the evening, we became friends with a German woman called Aimee in the smokers section of our hostel, and we were served some shots of gin and vodka by someone who worked at the hostel. He decided to take myself, Jade and Aimee to the Chinatown section of Jakarta, where old Chinese people were singing what appeared to be Chinese oldies. They wanted us to get up and perform but we were far too sober and shy to give it a crack. When that shut, we went to another karaoke place and did karaoke there with the locals, and Jade sang 99 Luftballoons with Aimee.
+
+# 24/12/2024
+
+Today we didn't get up to a lot - grabbed some food in the morning, walked around a bit but we were mostly gettign ready to catch our flight that evening to Singapore. We then did catch the flight, which was pretty easy all things considered, and crossed in Christmas Day whilst on the flight. We then made our way to our hostel in the old town of Singapore (on Joo Chiat Road). We walked the streets to find some food but didn't have much luck, but noticed that a lot of the places on our street were karaoke places.
+
+# 25/12/2024
+
+On our first proper day in Singapore, we became friends with one of the workers at our hostel called Zym and organised a plan in the evening to do some karaoke. He said the karaoke on our street is mainly for locals and they've got some strange buy-drinks-for-girls setup so we organised to go somewhere in the city. We went for a walk in the evening to the main street in Singapore to see the Christmas lights and caught a Ecuadorian band playing Christmas tunes with their traditional flute instruments. We then went to karaoke which was OK but the drinks were very expensive, and the karaoke ended up costing somewhere around the value of $80, easily making it the most expensive karaoke I've ever been to. Merry Christmas, I suppose.
+
+# 26/12/2024
+
+Today we checked out Gardens by the Bay, and walked along the 'treetops' of the metal trees, as well as visited the Cloud Forest. We could also see the Marina Bay Sands building in the background but did not visit. We were impressed by the trains, which are completely autonomous and have no driver. You can see through the front of the carriage to view the tunnel approaching.
+
+# 27/12/2024
+
+We visited the Singapore Zoo and checked out all the animals they had on offer, including elephants, chimps, baboons, giraffes and more. Standard zoo fare really, but an impressive place in its scope.
+
+# 28/12/2024
+
+Today was the day we were leaving for Hong Kong, so we mostly got ready to leave and made our way to the airport. Whilst there, we walked around the airport as it is apparently one of the best in the world. They have a huge mall in the middle with a large circular waterfall, as well as a butterfly enclosure. After landing in Hong Kong, we made our way to our hostel, checked in, then got some food nearby. We were perplexed by the porcelain bowls we were handed when we ordered some beer, but quickly learned its a traditional way to drink there as you put it in the bowl. We then wanted to have a drink, so we went to a bar nearby called Bar East, a small smoky bar that had karaoke and darts. The people working there were very happy to see us, and chatted to us excitedly in broken English.
+
+# 29/12/2024
+
+We walked around Hong Kong, taking in the sights and streets of the city. We walked through Hong Kong Park, then made our way to a dai pai dong to eat some local food. The place was very cool, and you could see the chefs cooking outside on their extremely hot woks at a quick pace for their multiple customers.
+
+# 30/12/2024
+
+The Peak
+
+# 31/12/2024
+
+Today was the day for New Years. First, we checked into our new hotel room in the Chungking Mansions which was an experience. As expected, our room was quite small and not very well put together, but hey! It was not that bad. Our 'reception' was in another part of the building (in part A) and our room was in section D. 
+
+We then decided to head out to make our way to the bay to watch the fireworks, which was incredibly difficult as you can imagine. 7 million people all trying to do the same thing. We brought a bunch of alcohol that we got at 7-11 thankfully. We were cordoned off into different sections as a crowd, and slowly moved in closer and closer to the bay. It took a good 1-2 hours just to get close, and by the end we couldn't even really see them as our view was obstructed by a building. It was still a fun time in the crowd, and we had this one woman basically go through the crowd with us as she appeared to be on her own. If a spot opened up, she would say 'go go go' for us to push through.
+
+After the fireworks, I really needed to go to the bathroom so I was desperate and ran up some malls stairs (that were off) and waited in line for a toilet that was in a room that was clearly only meant for mall staff. I was jumping around waiting to go in. After finally making it in, I declared it the best piss of my life.
+
+We then made our way to Lan Kwai Fong (LKF) which was absolutely PUMPING with people, and quite hectic. I was quite drunk at this point and a little overwhelmed by it all, and trying to meet up with a group of travellers in HK. We went to Maggie Choo's briefly, had a little dance, then left to go find our people somewhere else, but with no luck. We drank a beer drinks at some of the other bars, but I wasn't in the best mood as I couldn't find the group, and I found some of the people in LKF obnoxious. Eventually, we called it at like 5am and made our way back to the Chungking Mansions.
+
+# 01/01/2025
+
+We woke up very hungover from New Years in our room in the Chungking Mansions, and decided to have an easy day. We played Donkey Kong Country on the little TV in the corner and chilled out.
+
+# 02/01/2025
+
+Jade and I moved to our new hostel today as our time in the Chungking Mansions was up. An easy move all up.
+
+I met up with someone called Yamis who is a local Hongkonger and we met at a bookshop called Book Punch. Felt comfortable with her pretty quickly, then made our way to a cool bar nearby called Bound. Turns out she's a fan of the bar, and she knows some of the people there. We then had a few cigarettes and drinks and talked about life in Hong Kong, Melbourne, music, et al. and then decided to go for a walk through the streets. She would point out certain things about the buildings and life in Hong Kong. She would note the neon signs that are 'real' and 'fake' (I assume is based on LCD vs gas powered) and she noted that for all the people that hang their clothes outside on the clothesline - they really do just hope it doesn't fall. We then got a late night coffee, which I ordered in Cantonese with the encouragement of Yamis. We then had to say goodbye eventually, and I left her around 2-3am to catch a late night bus back home.
+
+# 03/01/2025
+
+Today we went to Tim Ho Wan's, a place known for its yum cha, and had some dishes with our tea. I had chicken legs for the first time - they weren't too bad, a bit chewy and a little annoying to eat, but the taste itself is fine. We also had dumplings, of course. I then went to go to M+ museum with someone called Amy and saw the I. M. Pai exhibit (as well as the regular exhibits) and had a nice time. Afterwards, I met up with Jade and we made our way to a restaurant in Lan Kwai Fong. Had some abalone and misread the menu so ended up paying quite a bit for it - makes sense, as it is normally expensive. Jade and I then went to meet up with Yamis at a club called Minh Club, a cool smaller club that had an alternative feel to it. We got admittedly quite drunk, and I went outside with Yamis regularly to the street, where we kissed. Jade soon joined us after the club closed, and we went for a walk along the streets. Yamis was quite drunk and making fun of Jade, hiding behind me and then calling him 'weird'. She was going a bit turbo, and she kept biting him and pushing him, which was very funny to watch. We eventually made our way to the trams which had begun running again as it was around 5am in the morning. I gave Yamis a kiss goodbye and Jade and I made our way back to the hostel.
+
+# 04/01/2025
+
+ We then went to a bar called Kowloon Taproom and had a few beers watching the Chelsea v Crystal Palace game which sadly ended in a 1-1 draw. We met up with Yamis again this evening and she took us to a restaurant on Temple Street called 'Spicy Crab', where we ordered a multitude of dishes. This included some kind of congealed blood soup, garlic-chilli-prawns, battered fish and a Hong Kong version of what seemed to be pork chops. Jade then left us and Yamis took me to the riverside near the M+ museum and we looked at the Hong Kong skyline whilst we kissed and talked. She was sad I had to leave, and said she 'shouldn't know me' but is happy she did. We then walked a long distance to the late night bus to my hostel, and she accompanied me there, allowing me to attempt to sleep on her shoulder as was quite tired. We got to the front of my hostel, and we shared a final kiss goodbye.
+
+# 05/01/2025
+
+Went and met up with someone called Heart who was from the Philippines and we checked out a few cool bars, including Bar Leone. I was impressed with the martini I had there - little did I know it is considered the 2nd best bar in the world? I stayed the night with her, then made my way back to the hostel in the early morning.
+
+# 06/01/2025
+
+Bus to Macau from Hong Kong
+
+# 07/01/2025
+
+Checked out the casinos
+
+# 08/01/2025
+
+Bus from Macau to Zhuhai, then train to Guangzhou
+Check in Lazy Gaga in Guangzhou
+
+# 09/01/2025
+
+Checked out main street in Guangzhou
+Walked to Pearl River
+
+# 10/01/2025
+
+Bought clothes on main street
+
+# 11/01/2025
+
+Train from Guangzhou to Zhangjiajae
+
+# 12/01/2025
+
+Zhangjiajae National Park
+
+# 13/01/2025
+
+Tianmen Mountain
+
+# 14/01/2025
+
+Train from Zhangjiajae to Chongqing
+Hayong Cave
+
+# 15/01/2025
+
+Lining train station
+Multi-story building
+
+# 16/01/2025
+
+# 17/01/2025
+
+# 18/01/2025
+
+# 19/01/2025
+
+# 20/01/2025
+
+Went and visited the Giant Goose Pagoda and walked around the gardens surrounding it, in what was a relatively relaxing today. Packed up our things and left for our overnight train from Xi'an Railway Station that was leaving at 9pm.
+
+# 21/01/2025
+
+Arrived in Shanghai at midday after our arduous overnight train which was not relaxing to say the least. We managed to check in to our hostel, then went and grabbed some easy noodles before returning to our hostel to wash some clothes and take a well-deserved nap.

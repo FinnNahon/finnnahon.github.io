@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-12-05
-linktitle: touchdown in bali
-title: touchdown in bali
+linktitle: touchdown
+title: touchdown
 weight: 10
 BookToc: true
 draft: false
