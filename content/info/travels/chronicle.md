@@ -105,7 +105,7 @@ Sadly we had to leave Yogyakarta this day (due to time constraints) and we hoppe
 
 # 23/12/2024
 
-We went to Taman Shud today, which was an unreal place that has sections devoted to each region of Indonesia. We took the cable car first, checked out the Komodo dragons (as well as crocodiles, snakes, and more) and visited the Disneyland-esque fairytale castle they had which was run-down. We decided to navigate around it and climbed up some stairs and we weren't even sure if we were allowed to be there. Nonetheless we did this and got some funny pictures. We also went into their admittedly impressive bird enclosure and saw some insane looking animals - including some very regal pigeons.
+We went to Taman Mini today, which was an unreal place that has sections devoted to each region of Indonesia. We took the cable car first, checked out the Komodo dragons (as well as crocodiles, snakes, and more) and visited the Disneyland-esque fairytale castle they had which was run-down. We decided to navigate around it and climbed up some stairs and we weren't even sure if we were allowed to be there. Nonetheless we did this and got some funny pictures. We also went into their admittedly impressive bird enclosure and saw some insane looking animals - including some very regal pigeons.
 
 In the evening, we became friends with a German woman called Aimee in the smokers section of our hostel, and we were served some shots of gin and vodka by someone who worked at the hostel. He decided to take myself, Jade and Aimee to the Chinatown section of Jakarta, where old Chinese people were singing what appeared to be Chinese oldies. They wanted us to get up and perform but we were far too sober and shy to give it a crack. When that shut, we went to another karaoke place and did karaoke there with the locals, and Jade sang 99 Luftballoons with Aimee.
 
@@ -220,6 +220,8 @@ Multi-story building
 # 18/01/2025
 
 # 19/01/2025
+
+Woke up and lo-and-behold, Ms. Wang has knocked on our room door and is wanting us to leave together to go to the Terracotta Warriors.
 
 # 20/01/2025
 

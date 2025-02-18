@@ -27,6 +27,7 @@ The following is my vague trajectory over the next year - keep in mind this coul
     * ~~Hong Kong~~
     * ~~Macau~~
     * ~~Guangzhou~~
+    * ~~Zhangjiejae~~
     * ~~Chongqing~~
     * ~~Xi'an~~
     * Shanghai
