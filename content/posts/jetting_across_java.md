@@ -21,6 +21,8 @@ After arriving in Yogyakarta, we sadly only had one day to enjoy the city so we 
 
 Afterwards, we went into this 'history' museum which was more a collection of assorted Indonesian artifacts, many of which didn't strike me as authentic. The museum also had an unrelated walk-through multi-room horror scene which was honestly more unnerving than expected.
 
+## taman mini
+
 The next day, Jade and I caught the train to Jakarta, despite many Indonesians warning us about it. We wanted to see what was happening in the capital, with its population of 10+ million people. Our first day we made sure to visit the attraction that we were most curious about - Taman Mini. Taman Mini is a large park that shows off what Indonesian daily life and culture is like in each of its provinces (26 or so in 1975 when the park was built), with a section for each province displaying varying architecture, clothing, dance, food, traditions, etc. There is also an IMAX in the park, as well as *fifteen* different museums. Oh, and there is also a bird park. And komodo dragons. It's an unreal place.
 
 <figure style="display: inline-block; text-align: center;">
@@ -79,6 +81,8 @@ Something that was particularly strange was their Disney-esque castle they had, 
   <img src="https://live.staticflickr.com/65535/54279756745_e6d3644eae_k.jpg" width="750px" alt="Castle Inside">
   <figcaption style="display: block; text-align: center;">The unkempt inside of the castle.</figcaption>
 </figure>
+
+## karaoke in chinatown
 
 Later that evening, we got back to our hostel and befriended a German woman called Aimee, who was also doing a trip across Indonesia. As we were chatting, one of the managers of the hostel started talking to us and offered us shots of vodka and gin. After making sure these shots weren't some kind of home-made concoction, we had a few shots and soon he was pestering us to come with him to karaoke. 
 
