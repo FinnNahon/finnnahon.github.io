@@ -8,8 +8,6 @@ BookToc: true
 draft: false
 ---
 
-## one island, many towns
-
 We have now been travelling for two weeks. <ins>Here's where we've ended up so far:<ins>
 
 <img src="/images/bali_map.png" alt="map" width="750px"/>
@@ -36,15 +34,15 @@ Bali is very different from the rest of Indonesia in that it is majority Hindu, 
 
 ## the kuta experience
 
-Our first two nights were spent in Kuta, which I had been warned about as the place **not** to be. We did find it a little overwhelming, and the streets were not the most fun to walk down, mostly due to the constant hawking by the locals. Our hotel was nice though, and the pool was nice to swim in during the hot 30C+ days.
+Our first two nights were spent in Kuta, which I had been warned about as the place **not** to be. We did find it a little overwhelming, and the streets were not the most fun to walk down, mostly due to the constant hawking by the locals. Our hotel was nice though, and the pool was refreshing to swim in during the hot 30C+ days.
 
 ## three nights in uluwatu
 
-We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island. It was much more relaxed here, and much more green with plenty of flora and fauna. We stayed at a placed called Uluwatu Made Guesthouse which was run by a sweet older man. We mostly kept to ourselves, had swims in the pool and walked around the local streets.
+We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island. It was relaxed here, and much more green with plenty of flora and fauna. We stayed at a placed called Uluwatu Made Guesthouse which was run by a sweet older man. We mostly kept to ourselves, had swims in the pool and walked around the local streets.
 
 ### checking out savaya
 
-Determined to see the 'best club in Asia', we popped in on a Friday night to see what all the fuss was about. Surprisingly, there were very few people. A little disappointed, we decided to get drunk and just swim around taking pictures. The view friom the cube bar is pretty astonishing, and the venue itself felt quite sophisticated (as much as a club can be) so I can see why it would be a good place to visit when people actually show up.
+Determined to see the 'best club in Asia', we popped in on a Friday night to see what all the fuss was about. Surprisingly, there were very few people. A little disappointed, we decided to get drunk and just swim around taking pictures. The view from the cube bar is pretty astonishing, and the venue itself felt quite sophisticated so I can see why it would be a good place to visit when people actually show up.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221864418_8f0ec36747_h.jpg" width="750px" alt="Savaya Ocean View">
@@ -58,12 +56,12 @@ Determined to see the 'best club in Asia', we popped in on a Friday night to see
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221863858_8558021ad6_h.jpg" width="750px" alt="Savaya Pool">
-  <figcaption style="display: block; text-align: center;">Thinkin' thoughts in the pool.</figcaption>
+  <figcaption style="display: block; text-align: center;">One of our pictures from the 'photoshoot'.</figcaption>
 </figure>
 
 ## venturing into ubud
 
-After three days in Uluwatu, we decided to trek up to Ubud in the centre of the island. As I suspected, Ubud ended up being one of our favourite places in Bali as it was less touristy (although still quite so) and it was much more lush. There was less of a focus on a party lifestyle, and more of a focus on wellness and visiting the surrounding nature. That being said, we ended up besting all the other travellers in our hostel's beer drinking competition.
+After three days in Uluwatu, we decided to trek up to Ubud in the centre of the island. As I suspected, Ubud ended up being one of our favourite places in Bali as it was quite lush and cool. There was less of a focus on a party lifestyle, and more of a focus on wellness and visiting the surrounding nature. That being said, we ended up besting all the other travellers in our hostel's beer drinking competition.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221640316_5fe4a8cda3_k.jpg" width="750px" alt="Drinking Tally">
@@ -88,7 +86,7 @@ The path soon turned into a road where we could see some ricefields with some lo
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54215201615_beac693baa_k.jpg" width="750px" alt="Shakas at the Ricefields">
-  <figcaption style="display: block; text-align: center;">I suppose ricefields inspires some shakas.</figcaption>
+  <figcaption style="display: block; text-align: center;">I suppose ricefields inspire some shakas.</figcaption>
 </figure>
 
 We were hoping to have a swim at Jungle Fish, a bar along the ridge walk, but once we arrived we were told we needed to commit a minimum spend for drinks before we had a dip so we opted to just eat some food instead.
@@ -138,7 +136,7 @@ Many farmers using the subak system do not need to use fertilisers or pesticides
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54215189895_5e06ed14cd_k.jpg" width="750px" alt="Tegallalang Ricefields">
-  <figcaption style="display: block; text-align: center;">Did anyone ask for another picture of rice? No? Well here you are.</figcaption>
+  <figcaption style="display: block; text-align: center;">Did anyone ask for another picture of rice? No?</figcaption>
 </figure>
 
 <figure style="display: inline-block; text-align: center;">
@@ -191,9 +189,9 @@ The coffee is also a complete gimmick and it did not taste any better than a reg
 
 After many days in Ubud, we decided we wanted to get away from the popular spots and made the 3-hour car ride to a small town called Medewi, on the west coast of the island. Here, locals greeted us just to say hello, and the general atmosphere of the town felt relaxed and laidback. The town is known for surfing, and in particular for having the island's longest continuous left-hand point break (this is a surfing term that I only learnt recently). Naturally, we decided to get some surf lessons from the locals, despite not having surfed in 20+ years.
 
-Surfing is hard work, and I could definitely feel it in my body afterwards, particularly my shoulders. My eyes also stung from the salt water, desipte these setbacks I did manage to stand on the board for about a second before jumping off. We also made the mistake of choosing what is considered a intermediate-to-expert level beach, so that's on us. Had a great time though.
+Surfing is hard work, and I could definitely feel it in my body afterwards, particularly my shoulders. My eyes also stung from the salt water. Despite   these setbacks I did manage to stand on the board for about a second before jumping off. We also made the mistake of choosing what is considered an intermediate-to-expert level beach, so that's on us. Had a great time though.
 
-In the evening, we had dinner at a local warung and I had a very fresh lobster dinner that had been caught that morning by a local fisherman.
+In the evening, we had dinner at a local warung and I had a fresh lobster dinner that had been caught that morning by a local fisherman.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54222033565_38fe1b9a4f_k.jpg" width="750px" alt="Fresh Lobster">
@@ -224,7 +222,7 @@ We decided to return to the business of Bali's inner west coast and settled in C
   <figcaption style="display: block; text-align: center;">The sunset at Canggu Beach after the rain had cleared up.</figcaption>
 </figure>
 
-## catching the ferry to east java (farewell bali)
+## catching the ferry to east java
 
 After having spent two weeks in Bali, we felt it was time to move on, and so we decided to drive up to Gilimanuk Port to catch the ferry across to Java. Apparently not many tourists do this as every single passenger was a local, and we definitely got some looks. The ferry took about an hour to cross the bay.
 
