@@ -6,7 +6,7 @@ BookToc: false
 ---
 # itinerary
 
-The following is my vague trajectory over the next year - keep in mind this could change very easily:
+The following is my vague trajectory over the next year. I'll cross out countries and cities as I visit them.
 
 <img src="/images/map.png" width="600" alt="map" style="float:right; margin-right:10px;" />
 
@@ -23,21 +23,63 @@ The following is my vague trajectory over the next year - keep in mind this coul
     * ~~Yogyakarta~~
     * ~~Jakarta~~
 2. ~~Singapore~~
-3. China
+3. ~~China~~
     * ~~Hong Kong~~
     * ~~Macau~~
     * ~~Guangzhou~~
     * ~~Zhangjiejae~~
     * ~~Chongqing~~
     * ~~Xi'an~~
-    * Shanghai
-4. Japan
-5. South Korea
-6. Philippines
-7. Vietnam
-8. Cambodia
-9. Laos
+    * ~~Shanghai~~
+    * ~~Zhouzhuang~~
+    * ~~Beijing~~
+4. ~~Japan~~
+    * ~~Tokyo~~
+    * ~~Myoko~~
+    * ~~Kyoto~~
+    * ~~Osaka~~
+    * ~~Kobe~~
+5. ~~South Korea~~
+    * ~~Seoul~~
+    * ~~Gyeongju~~
+    * ~~Busan~~
+6. ~~Philippines~~
+    * ~~Manila~~
+    * ~~Coron~~
+    * ~~El Nido~~
+    * ~~Boracay~~
+    * ~~Cebu City~~
+    * ~~Moalboal~~
+7. ~~Vietnam~~
+    * ~~Ho Chi Minh City~~
+    * ~~Can Tho~~
+    * ~~Sa Dec~~
+    * ~~Chau Doc~~
+    * ~~Da Lat~~
+    * ~~Hoi An~~
+    * ~~Da Nang~~
+    * ~~Hue~~
+    * ~~Phong Nha~~
+    * ~~Ninh Binh~~
+    * ~~Hanoi~~
+    * ~~Ha Long Bay~~
+    * ~~Ha Giang~~
+    * ~~Sa Pa~~
+8. ~~Cambodia~~
+    * ~~Phnom Penh~~
+    * ~~Siem Reap~~
+    * ~~Battambang~~
+    * ~~Kampot~~
+    * ~~Kep~~
+    * ~~Koh Rong Sanleom~~
+9. ~~Laos~~
+    * ~~Luang Prabang~~
+    * ~~Vang Vieng~~
+    * ~~Vientiane~~
 10. Thailand
+    * ~~Udon Thani~~
+    * ~~Chiang Mai~~
+    * Pai
 11. Malaysia
 12. India
 13. Nepal

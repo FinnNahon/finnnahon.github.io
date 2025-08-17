@@ -1,48 +1,44 @@
 ---
 author: "Finn"
 date: 2024-12-20
-linktitle: two weeks in bali, indonesia
-title: two weeks in bali, indonesia
+linktitle: the emerald of the equator
+title: the emerald of the equator
 weight: 10
 BookToc: true
 draft: false
 ---
 
-We have now been travelling for two weeks. <ins>Here's where we've ended up so far:<ins>
+Starting off our trip, we spent a leisurely two weeks in Bali. You can see where we visited below.
 
 <img src="/images/bali_map.png" alt="map" width="750px"/>
 
-## understanding the local culture & religion
+## kuta
 
-One of the first things we did was learn some basic phrases in both Bahasa Indonesian and Balinese. We felt a little guilty not using the locals language and ordering everything in English. 
+We started in Kuta as it was closest to the airport. As expected, Kuta was not very nice. A lot of concrete and it suffers from overtourism.
 
-First we learnt *terima kasih*, which is Indonesian for thank you, and shortly after we decided to learn some more local phrases, and thus we started using both *om swastiastu* (a Balinese greeting that translates roughly to 'may god bless you') and *suksma* (which is Balinese for thank you). Maybe it's just my perception, but the locals eyes seemed to light up a little bit more when addressing them in their own language.
+## uluwatu
 
-Something I kept noticing when we were walking down the street were these little collections of herbs and incense in the front of houses and shops. I learnt that these are called **Canang Sari**, which is a daily offering made by Balinese Hindus and it is an integral part of their religion and considered the most important form of prayer. It appears the 'recipe' of these offerings varies, but at its core features a combination of coconut leaves, tobacco, betel nuts, lime, gambier, flowers, incense and a small offering of food.
+We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island. It was relaxed here, and much more green with plenty of flora and fauna. We stayed here for three days at a place called Uluwatu Made Guesthouse which was run by a sweet older man. We mostly kept to ourselves, had swims in the pool and walked around the local streets.
+
+### canang sari
+
+As I would walk along Bali's streets, I kept noticing little collections of herbs and incense in the front of houses and shops. I learnt that these are called **Canang Sari**, which is a daily offering made by Balinese Hindus and it is an integral part of their religion and considered the most important form of prayer. It appears the 'recipe' of these offerings varies, but at its core features a combination of coconut leaves, tobacco, betel nuts, lime, gambier, flowers, incense and a small offering of food.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54215037398_3d2388857c_k.jpg" width="750px" alt="Canang Sari">
   <figcaption style="display: block; text-align: center;">A couple Canang Sari strewn across the ground.</figcaption>
 </figure>
 
-Bali is very different from the rest of Indonesia in that it is majority Hindu, whereas most of the population (~87% according to the Ministry of Home Affairs) follows Islam. There's a long history as to why this is, which I won't be going into.
+Bali is very different from the rest of Indonesia in that it is majority Hindu, whereas most of the population (~87% according to the Ministry of Home Affairs) follows Islam.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="/images/bali_religion.png" width="750px" alt="Campuhan Ridge Walk">
   <figcaption style="display: block; text-align: center;">A map detailing the various religions of Indonesia.</figcaption>
 </figure>
 
-## the kuta experience
+### 'the best club in asia'
 
-Our first two nights were spent in Kuta, which I had been warned about as the place **not** to be. We did find it a little overwhelming, and the streets were not the most fun to walk down, mostly due to the constant hawking by the locals. Our hotel was nice though, and the pool was refreshing to swim in during the hot 30C+ days.
-
-## three nights in uluwatu
-
-We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island. It was relaxed here, and much more green with plenty of flora and fauna. We stayed at a placed called Uluwatu Made Guesthouse which was run by a sweet older man. We mostly kept to ourselves, had swims in the pool and walked around the local streets.
-
-### checking out savaya
-
-Determined to see the 'best club in Asia', we popped in on a Friday night to see what all the fuss was about. Surprisingly, there were very few people. A little disappointed, we decided to get drunk and just swim around taking pictures. The view from the cube bar is pretty astonishing, and the venue itself felt quite sophisticated so I can see why it would be a good place to visit when people actually show up.
+We visited Savaya, which is touted as one of Asia's best clubs. Surprisingly, there were very few people. The view from the cube bar is pretty astonishing, and the venue itself felt quite sophisticated.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221864418_8f0ec36747_h.jpg" width="750px" alt="Savaya Ocean View">
@@ -56,12 +52,12 @@ Determined to see the 'best club in Asia', we popped in on a Friday night to see
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221863858_8558021ad6_h.jpg" width="750px" alt="Savaya Pool">
-  <figcaption style="display: block; text-align: center;">One of our pictures from the 'photoshoot'.</figcaption>
+  <figcaption style="display: block; text-align: center;">Contemplating why I spent $30 on an near empty club.</figcaption>
 </figure>
 
-## venturing into ubud
+## ubud
 
-After three days in Uluwatu, we decided to trek up to Ubud in the centre of the island. As I suspected, Ubud ended up being one of our favourite places in Bali as it was quite lush and cool. There was less of a focus on a party lifestyle, and more of a focus on wellness and visiting the surrounding nature. That being said, we ended up besting all the other travellers in our hostel's beer drinking competition.
+After three days in Uluwatu, we decided to travel up to Ubud in the centre of the island. As I suspected, Ubud ended up being one of our favourite places in Bali as it was quite lush and cool. There was less of a focus on a party lifestyle, and more of a focus on wellness and visiting the surrounding nature. That being said, we ended up besting all the other travellers in our hostel's beer drinking competition.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221640316_5fe4a8cda3_k.jpg" width="750px" alt="Drinking Tally">
@@ -70,11 +66,11 @@ After three days in Uluwatu, we decided to trek up to Ubud in the centre of the 
 
 ### campuhan ridge walk
 
-One of the first things we did was go for a walk up the Campuhan Ridge Walk which was conveniently close to our hostel. We were sweating copiously during the trail as walking uphill & 32C weather with 80%+ humidity makes for a difficult time. It was a surprisingly short walk, but pleasant nonetheless.
+One of the first things we did was go for a walk up the Campuhan Ridge Walk.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54215043959_78f3e85176_k.jpg" width="750px" alt="Campuhan Ridge Walk">
-  <figcaption style="display: block; text-align: center;">Jade taking some steps along the Campuhan Ridge Walk.</figcaption>
+  <figcaption style="display: block; text-align: center;">It's a simple trail, but anything is difficult in humid 30C+ weather.</figcaption>
 </figure>
 
 The path soon turned into a road where we could see some ricefields with some local farmers hard at work.
@@ -89,8 +85,6 @@ The path soon turned into a road where we could see some ricefields with some lo
   <figcaption style="display: block; text-align: center;">I suppose ricefields inspire some shakas.</figcaption>
 </figure>
 
-We were hoping to have a swim at Jungle Fish, a bar along the ridge walk, but once we arrived we were told we needed to commit a minimum spend for drinks before we had a dip so we opted to just eat some food instead.
-
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54214805916_90eb504b5f_k.jpg" width="750px" alt="Jungle Fish">
   <figcaption style="display: block; text-align: center;">Exhausted and ready for food.</figcaption>
@@ -98,7 +92,7 @@ We were hoping to have a swim at Jungle Fish, a bar along the ridge walk, but on
 
 ### the tegallalang ricefields
 
-One of my favourite things we saw in Ubud were the Tegallalang Ricefields, which are these sprawling, layered ricefields that are rather beautiful to look at.
+One of my favourite things we saw in Ubud were the Tegallalang Ricefields, which are these sprawling, layered ricefields unique to Bali.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54213898112_59abb9955c_k.jpg" width="750px" alt="Tegallalang Ricefields">
@@ -172,22 +166,9 @@ Like many other tourists, we visited the **Pura Tirta Empul**, and ended up donn
   <figcaption style="display: block; text-align: center;">It was cold.</figcaption>
 </figure>
 
-### trying out the local coffee
-
-Bali is known for its coffee, and we had the opportunity to taste the many varieties as we were taken to a small coffee plantation whilst on a tour - this included avocado, ginger and durian coffee. We also tasted *kopi luwak*, a type of coffee that is made from coffee beans digested by a civet (a small mongoose-like animal), but it left a bad taste in my mouth (pun intended) as the animals are clearly not treated well.
-
-The visit to the plantation was an unexpected stop from our tour guide as it was not in the official list of activities, and I do not think I would have sought out kopi luwak if not for this surprise.
-
-The coffee is also a complete gimmick and it did not taste any better than a regular cup of coffee.
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54220725737_b3bf4a24bd_h.jpg" width="750px" alt="Coffee Variants of Bali">
-  <figcaption style="display: block; text-align: center;">Taste-testing the various coffees and teas.</figcaption>
-</figure>
-
 ## surfing in medewi
 
-After many days in Ubud, we decided we wanted to get away from the popular spots and made the 3-hour car ride to a small town called Medewi, on the west coast of the island. Here, locals greeted us just to say hello, and the general atmosphere of the town felt relaxed and laidback. The town is known for surfing, and in particular for having the island's longest continuous left-hand point break (this is a surfing term that I only learnt recently). Naturally, we decided to get some surf lessons from the locals, despite not having surfed in 20+ years.
+After many days in Ubud, we decided we wanted to get away from the popular spots and made the 3-hour car ride to a small town called Medewi, on the west coast of the island. Here, locals greeted us just to say hello, and the general atmosphere of the town felt relaxed and laidback. The town is known for surfing, and in particular for having the island's longest continuous left-hand point break. Naturally, we decided to get some surf lessons from the locals, despite not having surfed in 20+ years.
 
 Surfing is hard work, and I could definitely feel it in my body afterwards, particularly my shoulders. My eyes also stung from the salt water. Despite   these setbacks I did manage to stand on the board for about a second before jumping off. We also made the mistake of choosing what is considered an intermediate-to-expert level beach, so that's on us. Had a great time though.
 
@@ -200,7 +181,7 @@ In the evening, we had dinner at a local warung and I had a fresh lobster dinner
 
 ## seeing friends in canggu
 
-We decided to return to the business of Bali's inner west coast and settled in Canggu. Here, we managed to catch up with two friends we had made in Ubud, and we all visited Tanah Lot (a temple in the ocean) together.
+We decided to return to the business of Bali's inner west coast and settled in Canggu. Here, we managed to catch up with two friends we had made in Ubud, and we all visited Tanah Lot together.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221864893_859e826ba2_h.jpg" width="750px" alt="Jade, Mely and Gianpa at Tanah Lot">
@@ -224,7 +205,7 @@ We decided to return to the business of Bali's inner west coast and settled in C
 
 ## catching the ferry to east java
 
-After having spent two weeks in Bali, we felt it was time to move on, and so we decided to drive up to Gilimanuk Port to catch the ferry across to Java. Apparently not many tourists do this as every single passenger was a local, and we definitely got some looks. The ferry took about an hour to cross the bay.
+After having spent two weeks in Bali, we felt it was time to move on, and so we decided to drive up to Gilimanuk Port to catch the ferry across to Java The ferry took about an hour to cross the bay.
 
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54221867254_3e71a68ac5_h.jpg" width="750px" alt="The Ferry">
@@ -246,4 +227,80 @@ After having spent two weeks in Bali, we felt it was time to move on, and so we 
   <figcaption style="display: block; text-align: center;">The strange look of the ferry interior.</figcaption>
 </figure>
 
-All in all, its been a busy two weeks and we've had our fun - we will be making our way across Java to visit both Yogyakarta and Jakarta soon. See ya later Bali.
+## java
+
+So, we're in Java. We started off spending a night in the coastal town of Banyuwangi. The next day, we hopped onto an 13-hour overnight bus from Banyuwangi to Yogyakarta, as the train tickets were all sold out.
+
+## yogyakarta
+
+After arriving in Yogyakarta, we sadly only had one day to enjoy the city so we ventured to Malioboro Street which is one of the main pedestrian streets in the city and ended up at a road-side warung. I ended up getting a chicken and vegetable noodle soup dish that had a strong turmeric flavour. 
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279754920_c825d36e42_k.jpg" width="750px" alt="Turmeric Dish">
+  <figcaption style="display: block; text-align: center;">The delicious turmeric dish from the streetside warung.</figcaption>
+</figure>
+
+### taman mini
+
+The next day, Jade and I caught the train to Jakarta, despite many locals warning us about it. 
+
+Our first day we made sure to visit the attraction that we were most curious about - Taman Mini. Taman Mini is a large park that shows off what Indonesian daily life and culture is like in each of its provinces (26 or so in 1975 when the park was built), with a section for each province displaying varying architecture, clothing, dance, food, traditions, etc. There is also an IMAX in the park, as well as *fifteen* different museums. Oh, and there is also a bird park. And komodo dragons. It's an unreal place.
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279572398_e0c62d9ff8_k.jpg" width="750px" alt="Cable Car">
+  <figcaption style="display: block; text-align: center;">The first of many cable cars.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54278446362_7711beef86_k.jpg" width="750px" alt="Province Example">
+  <figcaption style="display: block; text-align: center;">Just one of the many provinces shown off in the park.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279330386_3401d7bdd7_k.jpg" width="750px" alt="Two Birds">
+  <figcaption style="display: block; text-align: center;">Sometimes friendship is about tolerance.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279574863_932203534b_k.jpg" width="750px" alt="Komodo Dragon">
+  <figcaption style="display: block; text-align: center;">You're a long way from Komodo Island, pal.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279575689_fae38c9240_k.jpg" width="750px" alt="Komodo Dragon">
+  <figcaption style="display: block; text-align: center;">King of the Komodos.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279571824_e54a63941d_k.jpg" width="750px" alt="Cockatoo">
+  <figcaption style="display: block; text-align: center;">A familiar face.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279324081_f95f6d400d_k.jpg" width="750px" alt="Tower">
+  <figcaption style="display: block; text-align: center;">Every city has a tower like this, it seems.</figcaption>
+</figure>
+
+Something that was particularly strange was their Disney-esque castle they had, which had cracked tiles and was quite run down, but also seemed to the main attraction of the park? The doors on the front were locked, but we were curious so we walked around the back of the castle and managed to find some stairs to go up into the building.
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279331386_08a6ea3e41_k.jpg" width="750px" alt="Castle Side">
+  <figcaption style="display: block; text-align: center;">'We have Disneyland at home.'</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279576394_4135fbbf8f_k.jpg" width="750px" alt="Castle Front">
+  <figcaption style="display: block; text-align: center;">King of the castle! King of the castle!</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279577978_76d89aac75_k.jpg" width="750px" alt="Castle Top">
+  <figcaption style="display: block; text-align: center;">Certainly didn't feel like we were meant to be here.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54279756745_e6d3644eae_k.jpg" width="750px" alt="Castle Inside">
+  <figcaption style="display: block; text-align: center;">The unkempt inside of the castle.</figcaption>
+</figure>
+
+On the 24th, we caught our flight from Jakarta to Singapore and bid adieu to Indonesia, and we ended up crossing over into Christmas whilst on the plane.
