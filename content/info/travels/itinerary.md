@@ -8,7 +8,7 @@ BookToc: false
 
 The following is my vague trajectory over the next year. I'll cross out countries and cities as I visit them.
 
-<img src="/images/map.png" width="600" alt="map" style="float:right; margin-right:10px;" />
+<img src="/images/map.png" width="550" alt="map" style="float:right; margin-right:10px;" />
 
 {{< columns >}}
 ### current path
@@ -76,11 +76,17 @@ The following is my vague trajectory over the next year. I'll cross out countrie
     * ~~Luang Prabang~~
     * ~~Vang Vieng~~
     * ~~Vientiane~~
-10. Thailand
+10. ~~Thailand~~
     * ~~Udon Thani~~
     * ~~Chiang Mai~~
-    * Pai
+    * ~~Pai~~
+    * ~~Mae Hong Son~~
+    * ~~Mae Sariang~~
+    * ~~Bangkok~~
+    * ~~Kanchanaburi~~
+    * ~~Koh Tao~~
 11. Malaysia
+    * ~~Kuala Lumpur~~
 12. India
 13. Nepal
 14. Kyrgyzstan
