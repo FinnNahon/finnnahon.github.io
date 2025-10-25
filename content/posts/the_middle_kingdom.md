@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2025-02-07
-linktitle: the land of the dragon
-title: the land of the dragon
+linktitle: the middle kingdom
+title: the middle kingdom
 weight: 10
 BookToc: true
 draft: true

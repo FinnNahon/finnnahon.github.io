@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://letterstamp.com/info/</loc>
+    <loc>http://localhost:1313/info/</loc>
   </url><url>
-    <loc>https://letterstamp.com/info/travels/itinerary/</loc>
+    <loc>http://localhost:1313/info/travels/itinerary/</loc>
   </url><url>
-    <loc>https://letterstamp.com/posts/the_las_vegas_of_asia/</loc>
+    <loc>http://localhost:1313/posts/the_las_vegas_of_asia/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/posts/all_aboard_the_honkers_express/</loc>
+    <loc>http://localhost:1313/posts/all_aboard_the_honkers_express/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/posts/the_little_red_dot/</loc>
+    <loc>http://localhost:1313/posts/the_little_red_dot/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/posts/the_emerald_of_the_equator/</loc>
+    <loc>http://localhost:1313/posts/the_emerald_of_the_equator/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://letterstamp.com/info/about/</loc>
+    <loc>http://localhost:1313/info/about/</loc>
   </url><url>
-    <loc>https://letterstamp.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://letterstamp.com/indices/</loc>
+    <loc>http://localhost:1313/indices/</loc>
   </url><url>
-    <loc>https://letterstamp.com/indices/2023/</loc>
+    <loc>http://localhost:1313/indices/2023/</loc>
   </url><url>
-    <loc>https://letterstamp.com/indices/2024/</loc>
+    <loc>http://localhost:1313/indices/2024/</loc>
   </url><url>
-    <loc>https://letterstamp.com/indices/2025/</loc>
+    <loc>http://localhost:1313/indices/2025/</loc>
   </url><url>
-    <loc>https://letterstamp.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://letterstamp.com/info/travels/</loc>
+    <loc>http://localhost:1313/info/travels/</loc>
   </url>
 </urlset>
