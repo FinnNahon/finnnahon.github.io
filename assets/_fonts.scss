@@ -1,76 +1,4 @@
 @font-face {
-    font-family: 'Switzer-Regular';
-    src: url('/fonts/Switzer-Regular.woff2') format('woff2');
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Switzer-Semibold';
-    src: url('/fonts/Switzer-Semibold.woff2') format('woff2');
-    font-weight: 600;
-    font-display: swap;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Terminal-Grotesque';
-    src: url('/fonts/Terminal-Grotesque.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-  }
-
-@font-face {
-  font-family: 'AlteHaasGrotesk-Regular';
-  src: url('/fonts/AlteHaasGrotesk.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'AlteHaasGrotesk-Bold';
-  src: url('/fonts/AlteHaasGrotesk_Bold.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Gaila';
-  src: url('/fonts/Berzulis-GAILA-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Banquise-Regular';
-  src: url('/fonts/Banquise-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Credible-Regular';
-  src: url('/fonts/Credible-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'RegStandard';
-  src: url('/fonts/RegStandard.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Luculent';
-  src: url('/fonts/Luculent.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: 'Orbit-Regular';
   src: url('/fonts/Orbit-Regular.woff2') format('woff2');
   font-weight: normal;
@@ -78,57 +6,15 @@
 }
 
 @font-face {
-  font-family: 'Pescante';
-  src: url('/fonts/Pescante-Normal.woff2') format('woff2');
-  font-weight: normal;
+  font-family: 'Barlowfold';
+  src: url('/fonts/Barlowfold.otf') format('opentype');
+  font-weight: 1000;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'BBBPoppins';
-  src: url('/fonts/BBBPoppinsTN-DisplaySemiBold.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'KUPOLE';
-  src: url('/fonts/KUPOLE-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Revival';
-  src: url('/fonts/Revival.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'PIZIUS';
-  src: url('/fonts/Berzulis-PIZIUS.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Manifont-Regular';
-  src: url('/fonts/Manifont-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Linea';
-  src: url('/fonts/Linea.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Pencerio';
-  src: url('/fonts/Pencerio-Hairline.woff2') format('woff2');
+  font-family: 'Manifont';
+  src: url('/fonts/Manifont.woff') format('woff');
   font-weight: 1000;
   font-style: normal;
 }
@@ -137,14 +23,16 @@
 // h1 is the main title of pages, and h2 is the site title
 
 h1 {
-  font-family: 'Banquise-Regular', sans-serif;
-  font-size: 40px;
-  color: #FF7F50;
-  background-color: #CCCCFF;
+  font-family: 'Manifont', sans-serif;
+  font-size: 60px;
+  color: #dc143c;
+  /* background-color: #CCCCFF; --> */
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Linea', sans-serif;
+  font-family: 'Manifont', sans-serif;
+  style: bold;
+  color: #dc143c;
 }
 
 // Change the font here to change the fonts of body text in Markdown
