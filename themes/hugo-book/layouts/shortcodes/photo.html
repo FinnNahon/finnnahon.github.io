@@ -1,0 +1,12 @@
+<figure style="display: block; text-align: center;">
+    <img 
+      src="https://pub-83a0bd00762e482982332aba028a7139.r2.dev/{{ .Get 0 }}" 
+      width="{{ .Get 1 | default "750px" }}" 
+      alt="{{ .Get 2 | default "photo" }}"
+      style="display: block; margin: auto;"
+      loading="lazy"
+    >
+    {{ if .Get 3 }}
+      <figcaption style="display: block; text-align: center;">{{ .Get 3 }}</figcaption>
+    {{ end }}
+  </figure>

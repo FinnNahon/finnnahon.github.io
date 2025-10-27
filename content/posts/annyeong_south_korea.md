@@ -12,6 +12,109 @@ South Korea.
 
 ## seoul
 
+### bukchon hanok village
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596265246_a73204ecbb_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Cute houses amongst the chaos that is Seoul.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596459269_ff0e21bf74_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">I wonder how many of the people living here are annoyed at the tourists.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596481103_cf17c8988e_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Strong contrast between the village and the city.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54595392147_24cdf90f4f_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Many of the houses have heavy wooden doors.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596459619_5ee09cac57_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Very well maintained.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596572690_16be3ec8f8_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">A freaky little horse detailing.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596459324_3376350b8d_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">On the outskirts of the village.</figcaption>
+</figure>
+
+### protest outside the constitutional court
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596571705_34e5f23cf1_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Traditionally dressed people amongst the protest outside the constitutional court.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596480018_fe9bd7c155_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Turns out this protest was **in support of** the now-impeached president. Yikes.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596479908_8f68f02bde_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">A pretty cramped space.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596459179_361681122e_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">All in all, a relatively peaceful protest nonetheless.</figcaption>
+</figure>
+
+## suwon
+
+### hwaseong fortress
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596571025_8ae10c2b84_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Path next to the Hwaseong Fortress wall.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54595390697_1a40fa9b67_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Gate on the path.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596264246_070c04cd1a_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">"Anything over here?"</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596458749_dc0e8a649b_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Another path.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596458639_999d67fd59_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Trees line the path.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54595390412_429e8cf425_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">A command post along the wall.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596571270_7aa71344b3_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">The Suwon skyline.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596264016_6eda1d04ac_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;"> Jwaigmun Gate at Hwaseong Haenggung Palace.</figcaption>
+</figure>
+
 ## gyeongju
 
 <figure style="display: inline-block; text-align: center;">
@@ -82,6 +185,11 @@ South Korea.
 </figure>
 
 ## busan
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596580080_28f700e15c_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Elvis didn't die, he just moved to South Korea.</figcaption>
+</figure>
 
 ### gamcheon culture village
 
@@ -200,4 +308,26 @@ South Korea.
 <figure style="display: inline-block; text-align: center;">
   <img src="https://live.staticflickr.com/65535/54596465284_c1aace3fb8_b.jpg" width="750px" alt="GBTB">
   <figcaption style="display: block; text-align: center;">You really are entering her world.</figcaption>
+</figure>
+
+### haedong yonggungsa temple
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596489303_6c73f0ca35_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Temple by the sea.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596467974_42066111ae_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Stacked stones by the beach.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596580870_3d28c56bcc_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">Candles inside the temple.</figcaption>
+</figure>
+
+<figure style="display: inline-block; text-align: center;">
+  <img src="https://live.staticflickr.com/65535/54596489003_b22ab52a4f_b.jpg" width="750px" alt="GBTB">
+  <figcaption style="display: block; text-align: center;">On the train out to the temple.</figcaption>
 </figure>
