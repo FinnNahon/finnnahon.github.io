@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>letterstamp</title>
-    <link>https://letterstamp.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on letterstamp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://letterstamp.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>itinerary</title>
-      <link>https://letterstamp.com/info/travels/itinerary/</link>
+      <link>http://localhost:1313/info/travels/itinerary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/info/travels/itinerary/</guid>
+      <guid>http://localhost:1313/info/travels/itinerary/</guid>
       <description>&#xD;itinerary&#xD;#&#xD;The following is my vague trajectory over the next year. I&amp;rsquo;ll cross out countries and cities as I visit them.&#xA;current path&#xD;#&#xD;Indonesia Kuta Uluwatu Ubud Medewi Canggu Banyuwangi Yogyakarta Jakarta Singapore China Hong Kong Macau Guangzhou Zhangjiejae Chongqing Xi&amp;rsquo;an Shanghai Zhouzhuang Beijing Japan Tokyo Myoko Kyoto Osaka Kobe South Korea Seoul Gyeongju Busan Philippines Manila Coron El Nido Boracay Cebu City Moalboal Vietnam Ho Chi Minh City Can Tho Sa Dec Chau Doc Da Lat Hoi An Da Nang Hue Phong Nha Ninh Binh Hanoi Ha Long Bay Ha Giang Sa Pa Cambodia Phnom Penh Siem Reap Battambang Kampot Kep Koh Rong Sanleom Laos Luang Prabang Vang Vieng Vientiane Thailand Udon Thani Chiang Mai Pai Mae Hong Son Mae Sariang Bangkok Kanchanaburi Koh Tao Malaysia Kuala Lumpur India Nepal Kyrgyzstan Kazakhstan Uzbekistan Tajikistan other possibilities&#xD;#&#xD;Egypt Cote d&amp;rsquo;Ivoire Bangladesh Morocco Zambia Algeria Botswana Oman Namibia Senegal Tanzania Zimbabwe Tunisia Greece South Africa Azerbaijan Georgia Armenia Turkey Jordan </description>
     </item>
     <item>
       <title>the las vegas of asia</title>
-      <link>https://letterstamp.com/posts/the_las_vegas_of_asia/</link>
+      <link>http://localhost:1313/posts/the_las_vegas_of_asia/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_las_vegas_of_asia/</guid>
+      <guid>http://localhost:1313/posts/the_las_vegas_of_asia/</guid>
       <description>We took the bus across the Lingding and Jiuzhou channels into nearby Macau to see what Asia&amp;rsquo;s gambling mecca was like.&#xA;impressive landmark replicas&#xD;#&#xD;The displays of extravagant wealth are pretty intense here, and no matter where you look, you can see a casino looming in the distance. They have replicas of many world landmarks, including Big Ben and the Eiffel Tower.&#xA;The Londoner.&#xD;Inside the Londoner.&#xD;Replica Eiffel tower outside the Parisian.</description>
     </item>
     <item>
       <title>all aboard the honkers express</title>
-      <link>https://letterstamp.com/posts/all_aboard_the_honkers_express/</link>
+      <link>http://localhost:1313/posts/all_aboard_the_honkers_express/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/all_aboard_the_honkers_express/</guid>
+      <guid>http://localhost:1313/posts/all_aboard_the_honkers_express/</guid>
       <description>Four days was enough in Singapore, now we&amp;rsquo;re in Hong Kong. The city is chaotic, noisy, dirty and overwhelming. There are countless flashing neon signs, bikes and cars everywhere. I love it.&#xA;A curved building in the center of Hong Kong.&#xD;Sunshine down a walkway.&#xD;Neon sign for &#34;Mee &amp; Gees&#34;, a famous thriftshop.&#xD;A light-adorned boat on the Hong Kong River.&#xD;Thumbs up for the Star Ferry.&#xD;building with bamboo&#xD;#&#xD;Hong Kong construction workers scaffold their buildings using bamboo, a practice that is apparently unique to this part of the world and is by turn much prettier than rusty poles of steel.</description>
     </item>
     <item>
       <title>the little red dot</title>
-      <link>https://letterstamp.com/posts/the_little_red_dot/</link>
+      <link>http://localhost:1313/posts/the_little_red_dot/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_little_red_dot/</guid>
+      <guid>http://localhost:1313/posts/the_little_red_dot/</guid>
       <description>We spent four days in Singapore, which is sometimes referred to by its nickname the little red dot. I found it to be a clean, safe city that lacks spontaneity, but is an efficient marvel.&#xA;gardens by the bay&#xD;#&#xD;We visited Gardens by the Bay, the cornerstone of Singapore&amp;rsquo;s tourism industry, which is a must-see if you&amp;rsquo;re visiting the city.&#xA;Gardens by the Bay.&#xD;The metal branches of the trees.</description>
     </item>
     <item>
       <title>the emerald of the equator</title>
-      <link>https://letterstamp.com/posts/the_emerald_of_the_equator/</link>
+      <link>http://localhost:1313/posts/the_emerald_of_the_equator/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_emerald_of_the_equator/</guid>
+      <guid>http://localhost:1313/posts/the_emerald_of_the_equator/</guid>
       <description>Starting off our trip, we spent a leisurely two weeks in Bali. You can see where we visited below.&#xA;kuta&#xD;#&#xD;We started in Kuta as it was closest to the airport. As expected, Kuta was not very nice. A lot of concrete and it suffers from overtourism.&#xA;uluwatu&#xD;#&#xD;We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island.</description>
     </item>
     <item>
       <title>Posts from 2023</title>
-      <link>https://letterstamp.com/indices/2023/</link>
+      <link>http://localhost:1313/indices/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/indices/2023/</guid>
+      <guid>http://localhost:1313/indices/2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2024</title>
-      <link>https://letterstamp.com/indices/2024/</link>
+      <link>http://localhost:1313/indices/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/indices/2024/</guid>
+      <guid>http://localhost:1313/indices/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts from 2025</title>
-      <link>https://letterstamp.com/indices/2025/</link>
+      <link>http://localhost:1313/indices/2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/indices/2025/</guid>
+      <guid>http://localhost:1313/indices/2025/</guid>
       <description></description>
     </item>
   </channel>

@@ -35,6 +35,65 @@ Vietnam.
 {{< photo "vietnam/ha_long_bay/limestone_islands.jpg" "width" "alt" "caption" >}}
 {{< photo "vietnam/ha_long_bay/ocean_liners.jpg" "width" "alt" "caption" >}}
 
+## ha giang
+
+{{< photo "vietnam/ha_giang/after_having_lunch.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/another_behind_shot.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/around_the_bikes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/behind_two_bikes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/bike_and_buffalo.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/cheeky_peace_sign.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/chess_game.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/chess_game_2.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/child_by_road.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/child_on_road.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/child_on_rollerskates.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/corn.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/daisy_posing.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/different_modes_of_transport.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/easyrider_on_road.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/final_road.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/forest.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/goats_galore.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape_2.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape_3.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape_4.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape_5.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/ha_giang_landscape_6.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/hackysack.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/house_amongst_hills.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/jade_on_back_of_bike.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/jade_riding.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/jade_vietnam_flag.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/kid_on_rocks_posing.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/kids_on_rocks.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/llloyd_hammock.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/lloyd_on_bike.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/lloyd_on_bike_2.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/lloyd_smiling.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/man_on_motorbike.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/more_and_more_landscapes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/more_landscapes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/more_spines.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/motorbikes_parked_again.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/on_the_road_again.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/oueno_on_bike.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/parked_motorbikes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/parked_motorbikes_2.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/road_with_truck.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/rock_stop.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/round_the_corner.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/round_the_corner_2.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/running_kid.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/sitting_on_chairs.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/spines_of_ha_giang.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/squad_on_bikes.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/the_squad.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/washing_cloth.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/woman_on_bike.jpg" "width" "alt" "caption" >}}
+{{< photo "vietnam/ha_giang/woman_posing.jpg" "width" "alt" "caption" >}}
+
 ## hanoi
 
 {{< photo "vietnam/hanoi/contrasting_shadows.jpg" "width" "alt" "caption" >}}
