@@ -12,298 +12,129 @@ Japan.
 
 ## tokyo
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596465483_43cd3ccb65_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Harajuku sign.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596465483_43cd3ccb65_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Jade on the street.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596465158_925c038cb5_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Man walking on the street.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596556830_f0634d21a1_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Mount Fuji seen from atop a skyscraper.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596442954_1ef18f01c3_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Omoide Yokocho.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596443979_3574388d49_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Neon lights.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596248096_42b24fd05f_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">All the Sumo participants.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596556050_0557bc6806_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Oscar looking pensive in a noodle shop.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596248181_a9828060d8_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Sumo stadium.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596247791_0302976944_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">"Fight!"</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596462813_2f109cd08e_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Another shot of the Sumo stadium.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596246291_d051b1044c_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Streets of Tokyo.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596462273_536333c2f6_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Another Tokyo street.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596246841_1f6184f103_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">One of the many arcades.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596246836_0858dbf744_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Some serious game playing.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596441564_d0cbba78a6_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Another view of the arcade.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596553720_6b3a2aa77f_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Winter in Japan.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596461883_c6b58bf208_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Colourful signs litter the cityscape.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596245731_05e3cb2b98_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Shibuya Crossing.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595372352_6fe85243b2_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A wider shot of the Shibuya Crossing.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596246151_f314554a72_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A cute flower shop in the middle of Harajuku.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596245616_9e4cae6eac_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Art gallery.</figcaption>
-</figure>
-
-## myoko
+{{< photo "japan/tokyo/design_festa_gallery.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/fire_engine.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/harajuku_sign.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/jade_and_maxi.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/mount_fuji.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/neon_sign.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho_5.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/omoide_yokocho_6.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/oscar_ramen_shop.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/shibuya_crossing.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/shibuya_crossing_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/stylish_man_tokyo.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_5.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_6.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/sumo_wrestling_7.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/taito_hey.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/taito_hey_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/taito_hey_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_building_art.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_flower_shop.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_neon_lights.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_streets.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_streets_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_streets_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_streets_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/tokyo/tokyo_traffic.jpg" "width" "alt" "caption" >}}
 
 ## kyoto
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596470403_b59c9531a7_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Fushimi Inari.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596253891_b25db59bf1_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Kiyomizu-dera.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596254456_aa59d18cc5_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A wooden shrine.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596561615_7aef4bc1f4_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Kiyomizu-dera amongst the mountains.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596448164_3db6c2924b_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Incense bowl.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596254126_e4eec7983e_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A cute traditionally dressed couple.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596560960_1a34b59282_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Kyoto's Golden Palace.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596562085_b87b0d5a74_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Note the interesting thatch work of the roofs.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596448369_f9b3e4d643_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A grey heron.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596468763_869e086c33_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The squad.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596253106_756df2d3d2_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A smiley Maxi.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596253106_756df2d3d2_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A smiley Maxi.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596449219_eb0018bc88_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Fushimi Inari tunnel.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596560220_2fa1a5afcf_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A Zen garden.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596446449_670cfce46c_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">More rocks at the Zen garden.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595379262_45368d6e00_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A building at the Zen garden.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596467798_7f12cb9f6b_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A restaurant within the Zen garden.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596467698_a18897bbcc_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Zen garden plant.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595379377_7da31eaa14_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A woman getting in touch with her Zen side.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596468293_e11e12f72f_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Note the carefully marked lines.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595380012_35a5ffb278_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Oscar and his beanie.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596447004_6c0518b020_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Old Palace in Kyoto.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595379872_b20432e6fa_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Kyoto streets.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595380012_35a5ffb278_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Oscar and his beanie.</figcaption>
-</figure>
+{{< photo "japan/kyoto/fushimi_inari_tunnel.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/fushimi_inari_tunnel_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/fushimi_inari_tunnel_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera_building.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera_couple.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera_spire.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera_spire_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kiyomizu_dera_steam_pot.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto/kiyomizu_dera.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto/ryoanji_zen_garden.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_golden_palace.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_park_bird_in_tree.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_park_oscar.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_park_oscar_maxi_jade.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_park_oscar_maxi_jade_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/kyoto_streets.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/nijo_castle_ninomaru_palace.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_5.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_6.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/kyoto/ryoanji_zen_garden_7.jpg" "width" "alt" "caption" >}}
 
 ## osaka
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596451709_5cfb7cbdca_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Umbrellas in the Osaka rain.</figcaption>
-</figure>
+{{< photo "japan/osaka/dotonbori.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_angry_chef.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_crab.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_neon_signs.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_octopus.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night_5.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/dotonbori_streets_at_night_6.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_10.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_5.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_6.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_7.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_8.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/mittera_kaikan_9.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/osaka/osaka_cars.jpg" "width" "alt" "caption" >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596564570_83d2c9e8b2_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Dotonbori lights.</figcaption>
-</figure>
+## mobile photos
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596257251_43c447cdf1_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Umbrellas in the Osaka rain, pt 2.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596564760_15572d7028_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Late night lighting.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596565925_6c6599de57_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Graffiti.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595384542_1b007cb1f8_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Late nights in Osaka.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596565160_7607c49e34_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Approaching the business that is Dotonburi's main centre.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596565075_5e60c103bf_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Angry.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596257826_711a05377b_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Crabby.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596472533_f2bd8d8aaf_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Ahoy! Takoyaki ahead.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595383757_470191cfb2_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Visual overload.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596256901_a81c5d79ca_b.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The main street.</figcaption>
-</figure>
+{{< photo "japan/mobile_photos/" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/ace_of_spades_bar.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/cars_in_snow.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/final_day_myoko.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/heavy_snow.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/jade_alex_and_alesha_skiing.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/jade_skiing.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/jade_stacking.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/jade_with_deer.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/japan_bar.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/japan_bar_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/main_street_myoko.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/myoko_squad.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/osaka_castle.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_hands_up.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_skiing.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_skiing_landscape.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_skiing_landscape_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_snowbeard.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/oscar_wow_face.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/planet_1_cinema.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/sake_drums.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/ski_shoes.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/skiing_selfie.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowed_in_house.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowed_in_selfie.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowstorm.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowstorm_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowstorm_3.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowstorm_4.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowy_bus.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowy_landscape.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowy_town.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/snowy_town_2.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/squad_on_the_train.jpg" "width" "alt" "caption" >}}
+{{< photo "japan/mobile_photos/sword_museum.jpg" "width" "alt" "caption" >}}

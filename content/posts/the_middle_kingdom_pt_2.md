@@ -8,7 +8,106 @@ BookToc: true
 draft: true
 ---
 
-It was time to tackle one of the largest and most exciting countries on our journey, the People's Republic of China. We began by entering mainland china via Gongbei Port in Zhuhai before making our way to Guangzhou.
+part 2.
+
+## xi'an
+
+{{< photo "china/xi'an/terracotta_warriors.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/terracotta_warriors_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/terracotta_warriors_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_10.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_11.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_12.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_13.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_4.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_5.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_6.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_7.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_8.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_9.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_railway_station.jpg" "width" "alt" "caption" >}}
+
+## shanghai
+
+{{< photo "china/shanghai/shanghai_bund_jade.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_bund_old_building.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_old_street.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_old_street_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_old_street_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_old_street_4.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_old_street_5.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_oriental_pearl.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_oriental_pearl_jade.jpg" "width" "alt" "caption" >}}
+
+## zhouzhuang
+
+{{< photo "china/zhouzhuang/zhouzhuang_bike.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_boats.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_boats_multiple.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_boats_multiple_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_bridge.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_river.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_river_boat.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_woman_in_boat.jpg" "width" "alt" "caption" >}}
+{{< photo "china/zhouzhuang/zhouzhuang_woman_in_boat_2.jpg" "width" "alt" "caption" >}}
+
+## beijing
+
+{{< photo "china/beijing/beijing_park.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_park_lanterns.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_10.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_11.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_12.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_13.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_14.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_4.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_5.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_6.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_7.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_8.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/beijing_summer_palace_9.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/fish_plate.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_10.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_11.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_12.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_13.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_14.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_15.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_16.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_17.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_18.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_4.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_5.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_6.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_7.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_8.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_9.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_sunset.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_sunset_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_hall_of_supreme_harmony.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_hall_of_supreme_harmony_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/the_long_corridor.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_2.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_3.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_4.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_5.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_6.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_7.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/tiananmen_square_tour_8.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/zhengyangmen.jpg" "width" "alt" "caption" >}}
+{{< photo "china/beijing/zhengyangmen_2.jpg" "width" "alt" "caption" >}}
+
+<!--
 
 ## xi'an
 
@@ -418,3 +517,5 @@ It was time to tackle one of the largest and most exciting countries on our jour
   <img src="https://live.staticflickr.com/65535/54596450073_7fec970bd3_b.jpg" width="750px" alt="GBTB">
   <figcaption style="display: block; text-align: center;">Child lost in aisle 4.</figcaption>
 </figure>
+
+-->
