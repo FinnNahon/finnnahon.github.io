@@ -7,198 +7,103 @@ weight: 10
 BookToc: true
 draft: false
 ---
+
 Four days was enough in Singapore, now we're in Hong Kong. The city is chaotic, noisy, dirty and overwhelming. There are countless flashing neon signs, bikes and cars everywhere. I love it.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336161075_e58400b6e6_k.jpg" width="750px" alt="Hong Kong Street Building">
-  <figcaption style="display: block; text-align: center;">A curved building in the center of Hong Kong.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/hong_kong_streets_5_small.jpg" "width" "curved building" "A curved building in the center of Hong Kong." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335971843_5a82694971_k.jpg" width="750px" alt="Jade Walking in Light">
-  <figcaption style="display: block; text-align: center;">Sunshine down a walkway.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/hong_kong_streets_small.jpg" "width" "alt" "Sprawling." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336160760_db73d00c86_k.jpg" width="750px" alt="Mee & Gees">
-  <figcaption style="display: block; text-align: center;">Neon sign for "Mee & Gees", a famous thriftshop.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/hong_kong_streets_2_small.jpg" "width" "alt" "Many of the buildings look aged, in a way I appreciate the look of." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335973853_4bf31daacf_k.jpg" width="750px" alt="Boat on Hong Kong River">
-  <figcaption style="display: block; text-align: center;">A light-adorned boat on the Hong Kong River.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/hong_kong_streets_4_small.jpg" "width" "alt" "You'll see alot of these red taxis around." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336160945_97035fc28f_k.jpg" width="750px" alt="Jade on Star Ferry">
-  <figcaption style="display: block; text-align: center;">Thumbs up for the Star Ferry.</figcaption>
-</figure>
+{{< photo "hong_kong/light_walk_small.jpg" "width" "alt" "Sunshine down a walkway." >}}
+
+{{< photo "hong_kong/mee_and_gees_small.jpg" "width" "alt" "Neon sign for Mee and Gees, a famous thriftshop." >}}
+
+{{< photo "hong_kong/boat_on_victoria_harbour_small.jpg" "width" "alt" "A light-adorned boat on the Hong Kong River." >}}
+
+{{< photo "hong_kong/jade_on_star_ferry_small.jpg" "width" "alt" "Thumbs up for the Star Ferry." >}}
 
 ## building with bamboo
 
 Hong Kong construction workers scaffold their buildings using bamboo, a practice that is apparently unique to this part of the world and is by turn much prettier than rusty poles of steel. It's also a sustainable practice, since bamboo grows incredibly fast and is a strong, reliable material.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334868962_a5e611d999_c.jpg" width="750px" alt="Hong Kong Street Building">
-  <figcaption style="display: block; text-align: center;">A building with bamboo scaffolding.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/hong_kong_streets_3_small.jpg" "width" "alt" "Absolute patchwork." >}}
 
 ## dai pai dongs
 
 We visited a few *dai pai dongs*, which is a type of open-air food stall that is famous in Hong Kong. Sadly, only 17 dai pai dongs still exist as the government is no longer issuing new licenses.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335741786_151d0f7ee8_k.jpg" width="750px" alt="Myself at the Dai Pai Dong">
-  <figcaption style="display: block; text-align: center;">Enjoying a beer at a Dai Pai Dong.</figcaption>
-</figure>
+{{< photo "hong_kong/finn_dai_pai_dong_small.jpg" "width" "finn" "Enjoying a beer at a Dai Pai Dong." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335739036_7150234cdd_b.jpg" width="750px" alt="Jade at Dai Pai Dong">
-  <figcaption style="display: block; text-align: center;">Yanis, who graciously took us out to eat.</figcaption>
-</figure>
+{{< photo "hong_kong/jade_dang_pai_dong_small.jpg" "width" "jade" "Just before we ordered too much food." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334835602_cfa8ff3e68_k.jpg" width="750px" alt="Jade at Dai Pai Dong">
-  <figcaption style="display: block; text-align: center;">Just before we ordered too much food.</figcaption>
-</figure>
+{{< photo "hong_kong/yanis_dai_pai_dong_small.jpg" "width" "yanis" "Yanis, who graciously took us out to eat." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336194135_a2512ccbbe_c.jpg" width="750px" alt="Dai Pai Dong Food">
-  <figcaption style="display: block; text-align: center;">The food in question.</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/dai_pai_dong_food_small.jpg" "width" "dai pai dong food" "The food in question." >}}
 
 ## lantau island
 
 We visited Lantau Island and took the cable car across to the island to see the Big Buddha.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336162650_7f3b329c61_k.jpg" width="750px" alt="Giant Buddha">
-  <figcaption style="display: block; text-align: center;">The Big Buddha.</figcaption>
-</figure>
+{{< photo "hong_kong/lantau_island_cable_car_small.jpg" "width" "cable car" "Some excited waves." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336162565_ed76a507ba_k.jpg" width="750px" alt="Hong Kong Cable Car">
-  <figcaption style="display: block; text-align: center;">Some excited waves.</figcaption>
-</figure>
+{{< photo "hong_kong/lantau_island_cable_car_2_small.jpg" "width" "lantau island" "The view of Lantau Island from the cable car." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336162380_5ce9d7c98d_k.jpg" width="750px" alt="Hong Kong Cable Car 2">
-  <figcaption style="display: block; text-align: center;">The view of Lantau Island from the cable car.</figcaption>
-</figure>
+{{< photo "hong_kong/lantau_island_cable_car_3_small.jpg" "width" "lantau island" "Another view of Lantau Island from the cable car." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335741256_09975be04a_k.jpg" width="750px" alt="Hong Kong Cable Car 3">
-  <figcaption style="display: block; text-align: center;">Another view of Lantau Island from the cable car.</figcaption>
-</figure>
+{{< photo "hong_kong/lantau_island_cable_car_4_small.jpg" "width" "misty road" "Road into mist." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336162265_e6e5738aa8_k.jpg" width="750px" alt="Hong Kong Cable Car 4">
-  <figcaption style="display: block; text-align: center;">Road into mist.</figcaption>
-</figure>
+{{< photo "hong_kong/the_big_buddha_small.jpg" "width" "big buddha" "The Big Buddha." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336162090_3cc3dc2997_k.jpg" width="750px" alt="Hong Kong Temple">
-  <figcaption style="display: block; text-align: center;">Po Lin Monastery.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_small.jpg" "width" "alt" "Po Lin Monastery." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335973008_b48719c9df_k.jpg" width="750px" alt="Hong Kong Temple 2">
-  <figcaption style="display: block; text-align: center;">Five sitting Buddhas.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_2_small.jpg" "width" "buddhas" "Five sitting Buddhas." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334836552_1132979778_k.jpg" width="750px" alt="Hong Kong Temple 4">
-  <figcaption style="display: block; text-align: center;">Thousands of little Buddha figurines.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_8_small.jpg" "width" "monastery room" "View of the room." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335960194_fe022da199_k.jpg" width="750px" alt="Hong Kong Temple 5">
-  <figcaption style="display: block; text-align: center;">Just one of the little Buddhas.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_3_small.jpg" "width" "ornate roof" "The ornate design of the monastery's roof." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335960274_36da84ec4b_k.jpg" width="750px" alt="Hong Kong Temple 6">
-  <figcaption style="display: block; text-align: center;">A Buddha holding a dharmachakra.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_4_small.jpg" "width" "buddha figures" "Thousands of little Buddha figurines." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335740531_81955a8aa9_k.jpg" width="750px" alt="Hong Kong Temple 7">
-  <figcaption style="display: block; text-align: center;">The ornate design of the temple's roof.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_5_small.jpg" "width" "little buddha" "Just one of the little Buddhas." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335741171_634e35fb86_k.jpg" width="750px" alt="Hong Kong Temple 3">
-  <figcaption style="display: block; text-align: center;">Impossibly detailed.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_6_small.jpg" "width" "buddha" "A Buddha holding a dharmachakra." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335740601_f4574b63ba_k.jpg" width="750px" alt="Hong Kong Temple 8">
-  <figcaption style="display: block; text-align: center;">How the ceiling appears above the Buddhas.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336161080_deca19d85e_k.jpg" width="750px" alt="Hong Kong Temple 9">
-  <figcaption style="display: block; text-align: center;">Under scaffolding of the temple's roof.</figcaption>
-</figure>
+{{< photo "hong_kong/po_lin_monastery_9_small.jpg" "width" "roof" "Under scaffolding of the temple's roof." >}}
 
 ## the peak tram and city skyline
 
 We took the famous peak tram up to see Hong Kong's skyline as sunset set over the city.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334835192_eef6a83d58_k.jpg" width="750px" alt="Lookout Silhouettes">
-  <figcaption style="display: block; text-align: center;">Sunset on top of Hong Kong Island.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_small.jpg" "width" "alt" "Sunset silhouettes on top of Hong Kong Island." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335959234_37d3d85fb2_k.jpg" width="750px" alt="Skyscraper">
-  <figcaption style="display: block; text-align: center;">View of the city after taking the Peak Tram.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_3_small.jpg" "width" "hong kong viewpoint" "View of the city after taking the Peak Tram." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334835197_32cbcdcb36_k.jpg" width="750px" alt="Skyscraper 2">
-  <figcaption style="display: block; text-align: center;">Hong Kong's skyline.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_2_small.jpg" "width" "alt" "Skyscrapers as far as the eye can see." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334835132_20fde7131a_k.jpg" width="750px" alt="Skyscraper Sunset">
-  <figcaption style="display: block; text-align: center;">A deep orange sunset from the other side of Hong Kong Island.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_4_small.jpg" "width" "sunset" "A deep orange sunset from the other side of Hong Kong Island." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335970923_7b8d6fee79_k.jpg" width="750px" alt="Skyscraper 3">
-  <figcaption style="display: block; text-align: center;">The International Commerce Centre (background) and Central Plaza Building (foreground).</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_5_small.jpg" "width" "skyscrapers" "The International Commerce Centre (background) and Central Plaza Building (foreground)." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335739051_b5886622cb_k.jpg" width="750px" alt="Skyscraper 4">
-  <figcaption style="display: block; text-align: center;">Another angle of Hong Kong's skyline.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_6_small.jpg" "width" "alt" "Another angle of the cityscape." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54334834992_ff33fdbf33_k.jpg" width="750px" alt="Skyscraper 5">
-  <figcaption style="display: block; text-align: center;">Skyscrapers as far at the eye can see.</figcaption>
-</figure>
+{{< photo "hong_kong/sky_terrace_428_7_small.jpg" "width" "alt" "It's mind-boggling how dense this place is." >}}
 
 ## M+ art museum
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335741986_bbd36f554d_k.jpg" width="750px" alt="Art">
-  <figcaption style="display: block; text-align: center;">A metal sculpture in the M+ art museum.</figcaption>
-</figure>
+{{< photo "hong_kong/m_plus_museum_art_piece_small.jpg" "width" "art piece" "A metal sculpture in the M+ art museum." >}}
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54335961564_6e3485c084_k.jpg" width="750px" alt="Art 2">
-  <figcaption style="display: block; text-align: center;">A hyper-realistic figure of an old man.</figcaption>
-</figure>
+{{< photo "hong_kong/m_plus_museum_art_piece_2_small.jpg" "width" "art piece" "A hyper-realistic figure of an old man." >}}
 
 ## new year's eve
 
 We spent NYE crammed against thousands of other people near the pier, and we didn't even get to see the fireworks due to our spot in the crowd. We all had fun anyhow.
 
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54336004968_11d7609c24_c.jpg" width="750px" alt="NYE">
-  <figcaption style="display: block; text-align: center;">Happy New Years!</figcaption>
-</figure>
+{{< photo "hong_kong/mobile_photos/new_years_eve_small.jpg" "width" "alt" "Cramped." >}}
+
+{{< photo "hong_kong/mobile_photos/new_years_eve_2_small.jpg" "width" "crowd" "Happy New Years!" >}}
 
 Time for us to make our way to Asia's gambling mecca, Macau.
