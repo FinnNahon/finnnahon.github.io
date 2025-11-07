@@ -4,8 +4,6 @@
   <url>
     <loc>https://letterstamp.com/info/</loc>
   </url><url>
-    <loc>https://letterstamp.com/info/travels/itinerary/</loc>
-  </url><url>
     <loc>https://letterstamp.com/posts/the_las_vegas_of_asia/</loc>
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,6 +28,8 @@
   </url><url>
     <loc>https://letterstamp.com/indices/</loc>
   </url><url>
+    <loc>https://letterstamp.com/info/itinerary/</loc>
+  </url><url>
     <loc>https://letterstamp.com/indices/2023/</loc>
   </url><url>
     <loc>https://letterstamp.com/indices/2024/</loc>
@@ -37,7 +37,5 @@
     <loc>https://letterstamp.com/indices/2025/</loc>
   </url><url>
     <loc>https://letterstamp.com/tags/</loc>
-  </url><url>
-    <loc>https://letterstamp.com/info/travels/</loc>
   </url>
 </urlset>

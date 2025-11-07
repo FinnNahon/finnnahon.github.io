@@ -7,7 +7,6 @@ weight: 10
 BookToc: true
 draft: false
 ---
-
 So it begins. First stop, Indonesia.
 
 {{< photo "indonesia/mobile_photos/flight_to_bali_small.jpg" "width" "clouds" "View from the airplane." >}}

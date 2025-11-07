@@ -19,6 +19,20 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'SpaceNotoriousRounded';
+  src: url('/fonts/SpaceNotoriousRounded.otf') format('opentype');
+  font-weight: 1000;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Der75';
+  src: url('/fonts/der75.otf') format('opentype');
+  font-weight: 1000;
+  font-style: normal;
+}
+
 // Change the font here to change the fonts of various levels of title in Markdown
 // h1 is the main title of pages, and h2 is the site title
 

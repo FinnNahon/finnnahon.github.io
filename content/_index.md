@@ -7,31 +7,43 @@ BookToc: true
 <img src="/images/tree.png" alt="Image" style="display: relative; margin: 0 auto; width: 80%;"> -->
 
 <div style="position: relative; text-align: center;">
-  <img src="/images/house.png" alt="Image"
-       style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);
-              width: 50%; z-index: 0; opacity: 0.8;">
-  <p class="responsive-text shimmer"
-     style="position: relative; z-index: 1; margin: 0;">
-    for a brief moment, i am back in melbourne
+  <div style="position: relative; width: 30%; margin: 0 auto;">
+    <img src="/images/a_dithered.gif" alt="Image"
+         style="width: 100%; height: auto; opacity: 0.8; display: block;">
+  </div>
+  <p class="responsive-text-2"
+     style="position: absolute; top: 0; left: 0; right: 0; z-index: 1; margin: 0;">
+    <span style="color: #dc143c ;">I AM BACK IN MELBOURNE</span>
   </p>
-  <div style="position: relative; z-index: 2; margin-top: calc(20% + 1em); text-align: center;">
-    <p style="margin: 0;">i've returned home temporarily for some <br>ear issues that require medical attention.<br> i will be posting more after that's sorted.<br><br>in the meantime, checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a> <br><br>
+    <p class="responsive-text shimmer"
+     style="position: absolute; top: 0; left: 0; right: 0; z-index: 0; margin: 15;">
+    <span style="color: #0c1c1dff ;"><br><br>*temporarily</span>
+  </p>
+  <div style="position: relative; z-index: 2; margin-top: 1em; text-align: center;">
+    <p style="margin: 0;">i've returned home temporarily for some <br>ear issues that require medical attention.<br> i will be posting more after that's sorted.<br><br>in the meantime, checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a>
   </div>
 </div>
 
 
 <style>
-  /* Default styles for larger screens */
   .responsive-text {
-    font-family: 'Manifont', sans-serif;
-    font-size: 60px;
+    font-family: 'Der75', sans-serif;
+    font-size: 50px;
     margin-bottom: 40px;
     color: #dc143c;
+    transform: rotate(4deg);
+    padding-left: 300px;
+  }
+
+  .responsive-text-2 {
+    font-family: 'Der75', sans-serif;
+    font-size: 60px;
+    margin-bottom: 40px;
+    color: #000000ff;
     transform: rotate(-3deg);
     padding-left: 10px;
   }
 
-  /* Shimmer effect */
   .shimmer {
     background: linear-gradient(
       to right,
@@ -55,9 +67,12 @@ BookToc: true
     }
   }
 
-  /* Mobile-specific styles */
   @media (max-width: 600px) {
     .responsive-text {
+      padding-left: 20px;
+      font-size: 35px;
+    }
+    .responsive-text-2 {
       padding-left: 20px;
       font-size: 35px;
     }

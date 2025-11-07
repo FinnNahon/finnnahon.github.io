@@ -5,7 +5,7 @@ BookToc: true
 ---
 # about
 
-<img src="/images/moi.png" width="250" alt="Myself" style="float:left; margin-right:20px; padding-bottom: 20px;" /> Hi, I'm Finn, a 30-y/o Melburnian who writes things sometimes. Mostly about my hobbies.
+<img src="/images/myself.jpg" width="250" alt="Myself" style="float:left; margin-right:20px; padding-bottom: 20px;" /> Hi, I'm Finn, a 30-y/o Melburnian who writes things sometimes. Mostly about my hobbies.
 
 I also chronicle my travels here, which you'll see posts about from time to time.
 
