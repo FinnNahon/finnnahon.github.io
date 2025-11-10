@@ -10,6 +10,14 @@ draft: true
 
 Laos.
 
+## bus to laos
+
+{{< photo "laos/mobile_photos/bus_to_laos_small.jpg" "width" "alt" "caption" >}}
+{{< photo "laos/mobile_photos/bus_to_laos_2_small.jpg" "width" "alt" "caption" >}}
+{{< photo "laos/mobile_photos/bus_to_laos_3_small.jpg" "width" "alt" "caption" >}}
+{{< photo "laos/mobile_photos/bus_to_laos_4_small.jpg" "width" "alt" "caption" >}}
+{{< photo "laos/mobile_photos/bus_to_laos_5_small.jpg" "width" "alt" "caption" >}}
+
 ## luang prabang
 
 {{< photo "laos/luang_prabang/tree_top_cafe_at_kuang_si_waterfall_small.jpg" "width" "alt" "caption" >}}
@@ -28,7 +36,7 @@ Laos.
 {{< photo "laos/vang_vieng/horkham_viewpoint_pegasus_small.jpg" "width" "alt" "caption" >}}
 {{< photo "laos/vang_vieng/king_kong_small.jpg" "width" "alt" "caption" >}}
 {{< photo "laos/vang_vieng/jade_climbing_to_horkham_viewpoint_small.jpg" "width" "alt" "caption" >}}
-
+{{< photo "laos/mobile_photos/the_dog_express_small.jpg" "width" "alt" "caption" >}}
 
 ## vientiane
 
@@ -43,12 +51,3 @@ Laos.
 {{< photo "laos/vientiane/pha_that_luang_stupa_2_small.jpg" "width" "alt" "caption" >}}
 {{< photo "laos/vientiane/shadows_at_pha_that_luang_small.jpg" "width" "alt" "caption" >}}
 {{< photo "laos/vientiane/wat_that_luang_tai_temple_ceiling_small.jpg" "width" "alt" "caption" >}}
-
-## mobile photos
-
-{{< photo "laos/mobile_photos/bus_to_laos_small.jpg" "width" "alt" "caption" >}}
-{{< photo "laos/mobile_photos/bus_to_laos_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "laos/mobile_photos/bus_to_laos_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "laos/mobile_photos/bus_to_laos_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "laos/mobile_photos/bus_to_laos_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "laos/mobile_photos/the_dog_express_small.jpg" "width" "alt" "caption" >}}
