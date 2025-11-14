@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-12-20
-linktitle: the emerald of the equator
-title: the emerald of the equator
+linktitle: the emerald of the equator (indonesia)
+title: the emerald of the equator (indonesia)
 weight: 10
 BookToc: true
 draft: false

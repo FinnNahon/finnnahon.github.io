@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2024-12-29
-linktitle: the little red dot
-title: the little red dot
+linktitle: the little red dot (singapore)
+title: the little red dot (singapore)
 weight: 10
 BookToc: true
 draft: false

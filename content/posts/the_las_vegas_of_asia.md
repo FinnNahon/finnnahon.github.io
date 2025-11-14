@@ -1,8 +1,8 @@
 ---
 author: "Finn"
 date: 2025-01-06
-linktitle: the las vegas of asia
-title: the las vegas of asia
+linktitle: the las vegas of asia (macau)
+title: the las vegas of asia (macau)
 weight: 10
 BookToc: true
 draft: false

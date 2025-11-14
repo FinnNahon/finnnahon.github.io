@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>journal on letterstamp</title>
-    <link>https://letterstamp.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in journal on letterstamp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://letterstamp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>the las vegas of asia</title>
-      <link>https://letterstamp.com/posts/the_las_vegas_of_asia/</link>
+      <title>the middle kingdom (china) pt. 2</title>
+      <link>http://localhost:1313/posts/the_middle_kingdom_pt_2/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the_middle_kingdom_pt_2/</guid>
+      <description>So we carry on. After finishing up in Chongqing, we hopped on a train to our next destination, Xi&amp;rsquo;an.&#xA;xi&amp;rsquo;an&#xD;#&#xD;Xi&amp;rsquo;an is most famous for its terracotta warriors that were discovered in 1974, amongst a few other attractions. This is not to say it is a small city, as it still boasts about 12 million people. Nowhere is small in China.&#xA;xi&amp;rsquo;an city wall&#xD;#&#xD;Our first attraction was actually the Xi&amp;rsquo;an City wall, which we chose to spend the entire day walking around.</description>
+    </item>
+    <item>
+      <title>the middle kingdom (china) pt. 1</title>
+      <link>http://localhost:1313/posts/the_middle_kingdom_pt_1/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the_middle_kingdom_pt_1/</guid>
+      <description>It was time to tackle one of the largest and most exciting countries on our journey, the People&amp;rsquo;s Republic of China. We began by entering mainland china via Gongbei Port in Zhuhai before making our way to Guangzhou.&#xA;guangzhou&#xD;#&#xD;We spent a few days in Guangzhou exploring the streets, particularly the streets surrounding Shangxiajiu Pedestratian Street, as there were many fashion shops for seemingly &amp;lsquo;boutique&amp;rsquo; labels.&#xA;Twilight sun hitting the concrete.</description>
+    </item>
+    <item>
+      <title>the las vegas of asia (macau)</title>
+      <link>http://localhost:1313/posts/the_las_vegas_of_asia/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_las_vegas_of_asia/</guid>
+      <guid>http://localhost:1313/posts/the_las_vegas_of_asia/</guid>
       <description>We took the bus across the Lingding and Jiuzhou channels into nearby Macau to see what Asia&amp;rsquo;s gambling mecca was like.&#xA;impressive landmark replicas&#xD;#&#xD;The displays of extravagant wealth are pretty intense here, and no matter where you look, you can see a casino looming in the distance. They have replicas of many world landmarks, including Big Ben and the Eiffel Tower.&#xA;The Londoner.&#xD;Inside the Londoner.&#xD;Replica Eiffel tower outside the Parisian.</description>
     </item>
     <item>
-      <title>all aboard the honkers express</title>
-      <link>https://letterstamp.com/posts/all_aboard_the_honkers_express/</link>
+      <title>honkers (hong kong)</title>
+      <link>http://localhost:1313/posts/honkers/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/all_aboard_the_honkers_express/</guid>
+      <guid>http://localhost:1313/posts/honkers/</guid>
       <description>Four days was enough in Singapore, now we&amp;rsquo;re in Hong Kong. The city is chaotic, noisy, dirty and overwhelming. There are countless flashing neon signs, bikes and cars everywhere. I love it.&#xA;A curved building in the center of Hong Kong.&#xD;Sprawling.&#xD;Many of the buildings look aged, in a way I appreciate the look of.&#xD;You&amp;#39;ll see alot of these red taxis around.&#xD;Sunshine down a walkway.&#xD;Neon sign for Mee and Gees, a famous thriftshop.</description>
     </item>
     <item>
-      <title>the little red dot</title>
-      <link>https://letterstamp.com/posts/the_little_red_dot/</link>
+      <title>the little red dot (singapore)</title>
+      <link>http://localhost:1313/posts/the_little_red_dot/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_little_red_dot/</guid>
+      <guid>http://localhost:1313/posts/the_little_red_dot/</guid>
       <description>We spent four days in Singapore, which is sometimes referred to by its nickname the little red dot. I found it to be a clean, safe city that lacks spontaneity, but is an efficient marvel.&#xA;gardens by the bay&#xD;#&#xD;We visited Gardens by the Bay, the cornerstone of Singapore&amp;rsquo;s tourism industry, which is a must-see if you&amp;rsquo;re visiting the city.&#xA;Gardens by the Bay.&#xD;The metal branches of the trees.</description>
     </item>
     <item>
-      <title>the emerald of the equator</title>
-      <link>https://letterstamp.com/posts/the_emerald_of_the_equator/</link>
+      <title>the emerald of the equator (indonesia)</title>
+      <link>http://localhost:1313/posts/the_emerald_of_the_equator/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://letterstamp.com/posts/the_emerald_of_the_equator/</guid>
+      <guid>http://localhost:1313/posts/the_emerald_of_the_equator/</guid>
       <description>So it begins. First stop, Indonesia.&#xA;View from the airplane.&#xD;To start off, we spent a leisurely two weeks in Bali. You can see where we visited below.&#xA;kuta&#xD;#&#xD;We started in Kuta as it was closest to the airport. As expected, Kuta was not very nice. A lot of concrete and it suffers from overtourism.&#xA;uluwatu&#xD;#&#xD;We decided to leave Kuta for somewhere more peaceful and settled on Uluwatu, down in the southern part of the island.</description>
     </item>
   </channel>

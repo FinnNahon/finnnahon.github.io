@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>itinerary on letterstamp</title>
-    <link>https://letterstamp.com/info/itinerary/</link>
+    <link>http://localhost:1313/info/itinerary/</link>
     <description>Recent content in itinerary on letterstamp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://letterstamp.com/info/itinerary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/info/itinerary/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

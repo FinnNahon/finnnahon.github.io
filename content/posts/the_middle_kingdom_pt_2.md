@@ -1,563 +1,192 @@
 ---
 author: "Finn"
 date: 2025-02-09
-linktitle: the middle kingdom pt. 2
-title: the middle kingdom, pt. 2
+linktitle: the middle kingdom (china) pt. 2
+title: the middle kingdom (china) pt. 2
 weight: 10
 BookToc: true
-draft: true
+draft: false
 ---
 
-part 2.
+So we carry on. After finishing up in Chongqing, we hopped on a train to our next destination, Xi'an.
 
 ## xi'an
 
-### terracotta warriors
-
-{{< photo "china/mobile_photos/terracotta_warriors_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/terracotta_warriors_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/terracotta_warriors_3_small.jpg" "width" "alt" "caption" >}}
+Xi'an is most famous for its terracotta warriors that were discovered in 1974, amongst a few other attractions. This is not to say it is a small city, as it still boasts about 12 million people. Nowhere is small in China.
 
 ### xi'an city wall
 
-{{< photo "china/xi'an/xian_city_wall_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_6_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_7_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_8_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_9_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_11_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_12_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/xi'an/xian_city_wall_13_small.jpg" "width" "alt" "caption" >}}
+Our first attraction was actually the Xi'an City wall, which we chose to spend the entire day walking around. We may have underestimated how long this would take, as the length to walk around the entire wall is about 14kms.
 
-### goose pagoda
-
-{{< photo "china/mobile_photos/xian_goose_pagoda_small.jpg" "width" "alt" "caption" >}}
+{{< photo "china/xi'an/xian_city_wall_3_small.jpg" "width" "city wall" "This is just one side of the wall." >}}
+{{< photo "china/xi'an/xian_city_wall_4_small.jpg" "width" "museum" "One of the museums you can visit whilst walking along the wall." >}}
+{{< photo "china/xi'an/xian_city_wall_small.jpg" "width" "couple" "Many couples were dressed up for photoshoots." >}}
+{{< photo "china/xi'an/xian_city_wall_2_small.jpg" "width" "apartments" "It's a funny contrast between the ancient wall and the modern apartments." >}}
+{{< photo "china/xi'an/xian_city_wall_6_small.jpg" "width" "kid biking" "Many tourists had the option to ride their bike along the path." >}}
+{{< photo "china/xi'an/xian_city_wall_7_small.jpg" "width" "cyclists" "A couple of cyclists." >}}
+{{< photo "china/xi'an/xian_city_wall_8_small.jpg" "width" "city wall" "The walls we see here were constructed during the Ming Dynasty in the 14th century." >}}
+{{< photo "china/xi'an/xian_city_wall_9_small.jpg" "width" "tourist photoshoot" "More tourists preparing for photoshoots." >}}
+{{< photo "china/xi'an/xian_city_wall_11_small.jpg" "width" "woman wall" "A traditionally dressed woman looking out during dusk." >}}
+{{< photo "china/xi'an/xian_city_wall_12_small.jpg" "width" "city wall building night" "A city wall building at nightfall." >}}
+{{< photo "china/xi'an/xian_city_wall_13_small.jpg" "width" "wall night" "The wall was almost as busy at night as during the day." >}}
 
 ### live house experience
 
-{{< photo "china/mobile_photos/xian_live_house_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/jade_live_house_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/xian_live_house_group_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/xian_live_house_rapper_small.jpg" "width" "alt" "caption" >}}
+Whilst staying at our admittedly odd hostel in Xi'an, we ended up becoming friends with this middle aged Chinese woman who was staying at the same hostel. Whilst it was quite hard to have a conversation as she didn't speak English, we communicated enough to the point where she wanted to take us out to see some live music.
+
+Initially, we agreed as we thought it'd be nice to go to a nearby bar to see some music, but boy did we not know what she had in store for us.
+
+We showed up to the front of a place called a 'live house' in the city centre, where there were hundreds of people rushing in and out of the building, and it appeared to be more of a full blown concert than some local music. After she argued with one of the staff at the venue, she took us inside for us to find a large crowd all sitting at seats facing a big stage.
+
+{{< photo "china/mobile_photos/xian_live_house_small.jpg" "width" "livehouse patrons" "All the livehouse patrons." >}}
+
+This was basically a battle of the bands, but for boy and girl groups performing what sounded like c-pop. People would wave their noodles if they liked a band, and would keep it down if they weren't a fan.
+
+{{< photo "china/mobile_photos/xian_live_house_group_small.jpg" "width" "boyband" "A performing boyband." >}}
+{{< photo "china/mobile_photos/jade_live_house_small.jpg" "width" "alt" "Jade admiring the show." >}}
+{{< photo "china/mobile_photos/xian_live_house_rapper_small.jpg" "width" "rap duo" "A Chinese rap duo." >}}
+
+A pretty insane and unexpected night. Pretty surreal.
+
+### terracotta warriors
+
+The next morning, the same woman from the night before knocked on our door to take us to the terracotta warriors. This wasn't really something we agreed to do with her, but she wouldn't take no for an answer. 
+
+Once we arrived, she tried to arrange a tour guide for us, but the tour guide only spoke Chinese. The woman we were with was incredibly stubborn and wanted to try to find another tour guide despite us saying that we didn't want one. Eventually, we had to make the call and just walk in without her.
+
+Anyway. Here's some photos of what we saw.
+
+{{< photo "china/mobile_photos/terracotta_warriors_small.jpg" "width" "terracotta army" "An impressive army for the afterlife." >}}
+{{< photo "china/mobile_photos/terracotta_warriors_2_small.jpg" "width" "terracotta army" "To think this wasn't discovered until 50 years ago." >}}
+{{< photo "china/mobile_photos/terracotta_warriors_3_small.jpg" "width" "terracotta warrior" "One of the better preserved warriors." >}}
+
+### giant wild goose pagoda
+
+One our final day in Xi'an, we made a stop to the Giant Wild Goose Pagoda, which was built in 704.
+
+{{< photo "china/mobile_photos/xian_goose_pagoda_small.jpg" "width" "goose pagoda" "Ta da." >}}
 
 ### xi'an railway station
 
-{{< photo "china/xi'an/xian_railway_station_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/nuclear_plant_small.jpg" "width" "alt" "caption" >}}
+It was then time to head off to the metropolis of Shanghai. Off to the station with us.
+
+{{< photo "china/xi'an/xian_railway_station_small.jpg" "width" "xian railway" "Xi'an Railway Station." >}}
+{{< photo "china/mobile_photos/nuclear_plant_small.jpg" "width" "nuclear reactor" "Some nuclear reactors we saw on the way." >}}
 
 ## shanghai
+
+I am not sure how I feel about Shanghai. I was ready to be wowed, but it didn't quite strike me as other Chinese cities have. That being said, there are some nice sights to see if you're there for a few days.
 
 ### the bund & the oriental pearl
 
-{{< photo "china/shanghai/shanghai_bund_jade_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_bund_old_building_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_oriental_pearl_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_oriental_pearl_jade_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/oriental_pearl_small.jpg" "width" "alt" "caption" >}}
+{{< photo "china/shanghai/shanghai_bund_jade_small.jpg" "width" "huangpu river" "Jade along the Huangpu River." >}}
+{{< photo "china/shanghai/shanghai_bund_old_building_small.jpg" "width" "municipal govt building" "The Municipal Government Building in the Bund." >}}
+{{< photo "china/shanghai/shanghai_oriental_pearl_small.jpg" "width" "oriental pearl" "The magnificent Oriental Pearl." >}}
+{{< photo "china/shanghai/shanghai_oriental_pearl_jade_small.jpg" "width" "jade and the pearl" "Chuffed to see the Pearl." >}}
+{{< photo "china/mobile_photos/oriental_pearl_small.jpg" "width" "oriental pearl" "The Oriental Peark beckons." >}}
 
 ### shanghai old street
 
-{{< photo "china/shanghai/shanghai_old_street_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_old_street_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_old_street_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_old_street_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/shanghai/shanghai_old_street_5_small.jpg" "width" "alt" "caption" >}}
+We visited Yuyuan Old Street, which is in the Old City area of Shanghai. We wound up there in the early evening, just as the 'Yu Garden Light Show' was starting. This was a celebration of the Chinese New Year, which featured many lanterns and lit up balloon-like figures.
+
+{{< photo "china/shanghai/shanghai_old_street_small.jpg" "width" "shanghai lights" "Lights above the street." >}}
+{{< photo "china/shanghai/shanghai_old_street_2_small.jpg" "width" "crowd lights" "Busy crowds below the lights." >}}
+{{< photo "china/shanghai/shanghai_old_street_3_small.jpg" "width" "deer" "A light up deer on the water." >}}
+{{< photo "china/shanghai/shanghai_old_street_4_small.jpg" "width" "lantern garden" "An artificial lantern garden." >}}
 
 ## zhouzhuang water town
 
-{{< photo "china/zhouzhuang/zhouzhuang_boats_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_boats_multiple_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_woman_in_boat_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_woman_in_boat_2_small.jpg" "width" "alt" "caption" >}}\
-{{< photo "china/zhouzhuang/zhouzhuang_boats_multiple_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_bike_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_river_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_bridge_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/zhouzhuang_river_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/zhouzhuang/zhouzhuang_river_boat_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/century_egg_small.jpg" "width" "alt" "caption" >}}
+To get away from the hustle and bustle of Shanghai, we made a trip to Zhouzhuang, a water town that has been likened to Venice.
+
+{{< photo "china/zhouzhuang/zhouzhuang_boats_small.jpg" "width" "boats" "You can take a journey around the town in the blue-topped boats." >}}
+{{< photo "china/zhouzhuang/zhouzhuang_boats_multiple_2_small.jpg" "width" "boats" "Boats at rest." >}}
+{{< photo "china/zhouzhuang/zhouzhuang_woman_in_boat_2_small.jpg" "width" "canal" "A woman traversing down a canal." >}}\
+{{< photo "china/zhouzhuang/zhouzhuang_bike_small.jpg" "width" "bike" "A bike leaning against the wall." >}}
+{{< photo "china/zhouzhuang/zhouzhuang_bridge_small.jpg" "width" "stone bridge" "One of the many stone bridges throughout the town." >}}
+{{< photo "china/mobile_photos/zhouzhuang_river_small.jpg" "width" "pretty town" "Quite pretty." >}}
+{{< photo "china/mobile_photos/century_egg_small.jpg" "width" "century egg" "I had to have it again - some tasty century egg with chillies for breakfast." >}}
 
 ## beijing
 
-{{< photo "china/mobile_photos/beijing_flag_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_park_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_park_lanterns_small.jpg" "width" "alt" "caption" >}}
+Finally, we've made it. The capital of China.
+
+{{< photo "china/mobile_photos/beijing_flag_small.jpg" "width" "beijing flag" "It was about 0 degrees when this photo was taken." >}}
 
 ### the summer palace
 
-{{< photo "china/beijing/beijing_summer_palace_6_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_8_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_9_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_14_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_11_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_7_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_long_corridor_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/fish_plate_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/beijing_summer_palace_13_small.jpg" "width" "alt" "caption" >}}
+One of my favourite places (probably tied with the Great Wall) was the Summer Palace, which is a huge complex of gardens, ancient buildings and lakes. 
+
+There's a lot to take in here, and it was a little difficult to get around on the day as there was a strong breeze and the temperature was under freezing. 
+
+{{< photo "china/beijing/beijing_summer_palace_6_small.jpg" "width" "sign" "I guess there's always someone who tries." >}}
+{{< photo "china/beijing/beijing_summer_palace_8_small.jpg" "width" "tower of buddhist incense" "In the distance, you can see the Tower of Buddhist Incense." >}}
+{{< photo "china/beijing/beijing_summer_palace_9_small.jpg" "width" "tower of buddhist incense" "The Tower of Buddhist Incense." >}}
+{{< photo "china/beijing/beijing_summer_palace_14_small.jpg" "width" "tower of buddhist incense" "Looming." >}}
+{{< photo "china/beijing/beijing_summer_palace_small.jpg" "width" "longevity mountain" "One of of the structure inside Longevity Mountain." >}}
+{{< photo "china/beijing/beijing_summer_palace_3_small.jpg" "width" "tourists" "It wouldn't be a tourist attraction without the dress-ups." >}}
+{{< photo "china/beijing/beijing_summer_palace_5_small.jpg" "width" "pier" "The pier going out into the frozen lake." >}}
+{{< photo "china/beijing/beijing_summer_palace_11_small.jpg" "width" "bridge" "The Seventeen-Arch Bridge." >}}
+{{< photo "china/beijing/the_long_corridor_small.jpg" "width" "long corridor" "People walking down The Long Corridor." >}}
+{{< photo "china/beijing/fish_plate_small.jpg" "width" "sad fish plate" "An amusingly sad fish on one of the antique plates." >}}
+{{< photo "china/beijing/beijing_summer_palace_13_small.jpg" "width" "bench break" "Someone taking a break on a bench." >}}
 
 ### the birds nest
 
-{{< photo "china/mobile_photos/birds_nest_stadium_small.jpg" "width" "alt" "caption" >}}
+Popped over to the Bird's Nest, just to look at it I guess.
+
+{{< photo "china/mobile_photos/birds_nest_stadium_small.jpg" "width" "birds nest" "Take me back to 2008?" >}}
 
 ### peking duk meal
 
-{{< photo "china/mobile_photos/peking_duk_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/mobile_photos/sea_cucumber_small.jpg" "width" "alt" "caption" >}}
+We needed to eat some Peking Duk whilst in Beijing, so we settled on getting a table at Siji Minfu. This proved more difficult than we expected. We showed up in the late afternoon, and were given a ticket to put us in the line for a table. 
+
+We looked at our ticket number and quickly realised we would be waiting a long time. We asked a staff member and they told us we may need to come back in 4-5 hours. 
+
+We went outside, had a cigarette, and just as we were about to leave to go somewhere else, a kind man came out and gave us his ticket that he had gotten in the morning. He made out that his family weren't going to be able to make it, and we thanked him. All in all, we only had to wait 15 minutes!
+
+Once inside, we ordered a range of things, but of course the Peking Duk was the standout.
+
+{{< photo "china/mobile_photos/peking_duk_small.jpg" "width" "peking duk" "Delicious." >}}
+{{< photo "china/mobile_photos/sea_cucumber_small.jpg" "width" "sea cucumber" "A very strange thing called a sea cucumber. Apparently it's a fancy delicacy, but we found it quite boring to eat." >}}
 
 ### the great wall (mutianyu section)
 
-{{< photo "china/beijing/the_great_wall_mutianyu_12_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_11_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_10_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_14_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_15_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_16_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_17_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_18_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_6_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_7_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_8_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_9_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_sunset_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_great_wall_mutianyu_sunset_2_small.jpg" "width" "alt" "caption" >}}
+Mao Zedong apparently once said 'He who has not climbed the Great Wall is not a true man'. Well, I can now say I have finally achieved manhood.
+
+Myself, Jade and Sam (a fellow Australian we become friends with from our hostel) took the bus to the Mutianyu section of the Great Wall, one of the best preserved sections of the wall. It was a cold day, but that didn't bother us too much. What bothered us was just how steep and snaking the wall turned out to be. Take a look for yourself.
+
+{{< photo "china/beijing/the_great_wall_mutianyu_12_small.jpg" "width" "great wall" "Yes, it's that steep." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_5_small.jpg" "width" "great wall" "Our legs were jelly afterwards." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_4_small.jpg" "width" "great wall" "'Fuck, we gotta climb that?'" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_small.jpg" "width" "great wall" "The wall amongst the hills." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_3_small.jpg" "width" "great wall" "The snaking path." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_10_small.jpg" "width" "bunny ears" "Classic." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_9_small.jpg" "width" "jade" "Unimpressed." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_15_small.jpg" "width" "great wall" "It's a lot of.. wall." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_16_small.jpg" "width" "great wall" "'What's down there?'" >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_17_small.jpg" "width" "great wall" "Expect to walk for a few hours." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_18_small.jpg" "width" "crow on camera" "If this isn't an omen, I don't know what is." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_6_small.jpg" "width" "great wall" "This was a mild crowd. The beginning was a near crush." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_7_small.jpg" "width" "great wall" "Another picture of the wall. You're welcome." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_sunset_small.jpg" "width" "pink sun" "The pink sun on the horizon." >}}
+{{< photo "china/beijing/the_great_wall_mutianyu_sunset_2_small.jpg" "width" "sunset" "Sunset on the wall." >}}
 
 ### tiananmen square
 
-{{< photo "china/beijing/zhengyangmen_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/zhengyangmen_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/the_hall_of_supreme_harmony_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_6_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_8_small.jpg" "width" "alt" "caption" >}}
-{{< photo "china/beijing/tiananmen_square_tour_7_small.jpg" "width" "alt" "caption" >}}
-
-
-<!--
-
-## xi'an
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54422173425_f360ecb2a9_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Terracotta horses.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421787111_5b9a37ab7f_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Terracotta remnants.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54422035843_19cb882e57_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Terracotta warriors.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54422034708_97ba97951b_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Xi'an Train Station.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421979859_297c16240a_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Posing for a photoshoot.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421786151_b606ee38c2_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Skyscrapers rise above the old wall.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54422033253_1debefdccb_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The wall extends for a while.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421979954_4d220a4c81_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Kids ride their rented bikes along the path.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54422171190_7027a2063f_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Something more important calls his attention.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421977739_77c02f5d14_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A photographer makes some important last minute alterations.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421785666_424af6ac3e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">One of the temples at the middle points of each of the walls.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421980894_4f9ff3f69a_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">View of the temple from front on.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421978309_34e4481064_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Night time calls for temple lights.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421978414_8aceb52ef7_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Night time calls for temple lights, vol. 2.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421784151_dbb86395a5_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A traditionally dressed woman looks over the city center.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54421980829_8ff223d3d7_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Tourists walk along the wall during peak season.</figcaption>
-</figure>
-
-## shanghai
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596532820_828136e383_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Jade at The Bund.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595352182_e025f174bf_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Shanghai Pudong Development Bank.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596440238_7fd02b4413_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">"We found the Oriental Pearl!"</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596531710_efd10f91ae_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Oriental Pearl in question.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596532655_049371b839_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Shanghai Old Street.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596532425_b301a8fce4_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">One of the many light up balloons on show.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595352152_0b5f6d065e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Some kind of majestic deer.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596531810_59b0aeacf0_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Beautiful lights and lanterns.</figcaption>
-</figure>
-
-## zhouzhuang
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596423554_2b7bcfa753_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Woman rowing her boat.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596537675_e2453269a8_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A boat resting on the water.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595357032_0c730cb42d_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Row, row, row your boat.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596424079_e9a3cfc352_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A little bridge.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596536875_fb95848cfb_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Night time rowing.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595357267_79f5e4d7fb_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A resting bike.</figcaption>
-</figure>
-
-## beijing
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596544990_076d507af9_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">A walk in the park.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596431689_1c62ca824e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Would it be China without a few lanterns?</figcaption>
-</figure>
-
-### the great wall
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596455968_800becc86b_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Crowds on the wall.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596547335_576042133f_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Sorry in advance for all the wall pictures to come.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596547250_2a75bd38cd_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Wow! Another wall!</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596434264_d3eac90137_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">"Fuck, we gotta climb all that?"</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596434474_0c2ef9bd9e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">What "Fuck, we gotta climb all that?" was in response to.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596547195_7b5b63500e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The wall amongst the hills.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595366752_8c9406b3f7_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">It got pretty steep.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596454228_df85fe27fb_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">"Anybody down there?"</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596239011_d6dbb30308_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Sam is not phased.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595365732_a804042d88_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Rolling hills.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595365717_1bb5324025_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Curvy.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595366257_5e7995cb9c_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Look at that line.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595366252_de41d6f861_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Like a snake.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596433324_c4d7281b29_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Finn, it's cold.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596454763_25e77489c3_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Classic.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595364967_b7d53f3338_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Is this an omen?</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596432049_2007e034e8_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The setting sun.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596543550_b98efe6012_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The setting sun, again!</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596238221_98c755be9e_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Ancient.</figcaption>
-</figure>
-
-### the summer palace
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595364402_ee39018eb0_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">At one point do I stop taking pictures of old buildings?</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596431339_fe567c11ab_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">More traditional garb donners.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596430779_ec473162ed_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Summer Palace from across the frozen lake.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596431119_97a8601a69_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">I'm sure it's used when it's warm.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596544310_6f7ccbcb72_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Just in case you were thinking about it.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596237041_c79d141729_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Another old building.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596430749_e0b600ef6c_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">So many tourists.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596452188_ccf9892e12_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Historical depiction of fish depression in plate form.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596431229_34670f19fb_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Thar she is.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596451813_9d6c04b807_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">We've all got a bridge to cross.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596236236_0df113a795_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">And I guess this one's as good as any.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596235461_09bf01c642_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Thar she is, again.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595362842_44bdc74863_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Long Corridor.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595362807_0b6bcc7e0d_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Looming.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596235806_b35b278ba3_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Some brief respite from the crowds.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596451673_7c04e78833_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">I've been spotted!</figcaption>
-</figure>
-
-### tiananmen square
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596235276_8b0458bb4d_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Zhengyangmen, a historic gate.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596428459_20024746e4_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Mother and daughter on a casual outing.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596428829_766c1d5954_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">I wonder what hot goss is being discussed here.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596234876_1010009783_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">The Hall of Supreme Harmony.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596542030_9effdc0992_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">How harmonious.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596450468_2574340a20_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">"How much for your soul?"</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596429304_f2357a6c82_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Portait of the big man himself.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595362237_8e43699633_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Big Brother.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54595362042_46d7746375_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">I need to step up my hat game.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596541745_476ee2ba27_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Zhangyenmen Gate.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596428559_1cf8ed2253_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">You won't get this done at your local barber.</figcaption>
-</figure>
-
-<figure style="display: inline-block; text-align: center;">
-  <img src="https://live.staticflickr.com/65535/54596450073_7fec970bd3_b_small.jpg" width="750px" alt="GBTB">
-  <figcaption style="display: block; text-align: center;">Child lost in aisle 4.</figcaption>
-</figure>
-
--->
+No trip to China is complete with a visit to Tiananmen Square. 
+
+We took a guided tour, which helped us skip a lot of the lines. Our tour guide was quite amusing, but Jade and I were quite tired and cold so it was hard to take in all the historical information he was imparting to us.
+
+{{< photo "china/beijing/zhengyangmen_small.jpg" "width" "gate" "Zhengyangmen Gate." >}}
+{{< photo "china/beijing/zhengyangmen_2_small.jpg" "width" "gate" "Zhengyangmen Gate from the other side." >}}
+{{< photo "china/beijing/tiananmen_square_tour_small.jpg" "width" "mao" "There he is!" >}}
+{{< photo "china/beijing/tiananmen_square_tour_4_small.jpg" "width" "china" "China." >}}
+{{< photo "china/beijing/the_hall_of_supreme_harmony_small.jpg" "width" "hall of supreme harmony" "The Hall of Supreme Harmony." >}}
+{{< photo "china/beijing/tiananmen_square_tour_2_small.jpg" "width" "walking women" "A walk and talk." >}}
+{{< photo "china/beijing/tiananmen_square_tour_3_small.jpg" "width" "man and woman" "'How much for your soul?'" >}}
+{{< photo "china/beijing/tiananmen_square_tour_5_small.jpg" "width" "tiananmen outfits" "Many of the outfits were quite impressive." >}}
+{{< photo "china/beijing/tiananmen_square_tour_6_small.jpg" "width" "mother and daughter" "Presumably mother and daughter." >}}
+{{< photo "china/beijing/tiananmen_square_tour_8_small.jpg" "width" "hair" "Interesting hair arrangements." >}}
+{{< photo "china/beijing/tiananmen_square_tour_7_small.jpg" "width" "alt" "A child dressed up in traditional garb." >}}
+
+And that's it! Our journey to the middle kingdom has come to an end. Next, we're off to Japan.
