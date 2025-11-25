@@ -1,24 +1,30 @@
 ---
 author: "Finn"
 date: 2025-05-04
-linktitle: philippines
-title: philippines
+linktitle: pearl of the orient seas (philippines)
+title: pearl of the orient seas (philippines)
 weight: 10
 BookToc: true
 draft: true
 ---
 
-Philippines.
+Our first stop in the Philippines was Manila, the capital city. A sprawling metropolis, it was quite built up, chaotic and not exactly the loveliest place. However, we were only there for a few days as it's often used a launchpad before heading to other parts of the country.
 
 ## manila
 
-{{< photo "philippines/manila/boat_worker_small.jpg" "width" "alt" "caption" >}}
-{{< photo "philippines/manila/emergency_boat_small.jpg" "width" "alt" "caption" >}}
-{{< photo "philippines/manila/looking_at_the_ocean_small.jpg" "width" "alt" "caption" >}}
-{{< photo "philippines/manila/manila_ferry_small.jpg" "width" "alt" "caption" >}}
-{{< photo "philippines/manila/sunset_on_the_way_to_coron_small.jpg" "width" "alt" "caption" >}}
+After a couple of days loitering around Manila, we hopped on an overnight ferry to Coron, our first true destination.
+
+{{< photo "philippines/manila/boat_worker_small.jpg" "width" "ferry worker" "A ferry worker taking a break." >}}
+{{< photo "philippines/manila/emergency_boat_small.jpg" "width" "emergency raft" "An emergency raft." >}}
+{{< photo "philippines/manila/looking_at_the_ocean_small.jpg" "width" "before nightfall on ferry" "Just before nightfall." >}}
+{{< photo "philippines/manila/manila_ferry_small.jpg" "width" "ferry rooftop" "On the rooftop of the ferry." >}}
+{{< photo "philippines/manila/sunset_on_the_way_to_coron_small.jpg" "width" "sunset" "Sunset." >}}
+
+The ferry ride was over 15 hours long, but it was honestly not that rough of a ride as we got to sleep for a large portion of it. During the evening, I checked out the back of the ship and found a performance hall with some singers covering pop classics and ended up dancing with a bunch of other travellers!
 
 ## coron & el nido
+
+
 
 {{< photo "philippines/coron_and_el_nido/boat_squad_small.jpg" "width" "alt" "caption" >}}
 {{< photo "philippines/coron_and_el_nido/boat_tour_feast_small.jpg" "width" "alt" "caption" >}}
