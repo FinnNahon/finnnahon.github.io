@@ -4,6 +4,15 @@
   <url>
     <loc>http://localhost:1313/info/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/the_land_of_the_blue_dragon_pt_1/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the_land_of_the_blue_dragon_pt_2/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pearl_of_the_orient_seas/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/ilha_formosa/</loc>
     <lastmod>2025-04-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,7 +41,7 @@
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>1995-01-01T00:00:00+00:00</lastmod>
