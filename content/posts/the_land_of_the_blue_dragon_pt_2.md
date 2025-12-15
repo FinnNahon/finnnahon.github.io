@@ -1,14 +1,12 @@
 ---
 author: "Finn"
-date: 2025-07-29
+date: 2025-07-27
 linktitle: the land of the blue dragon (vietnam) pt. 2
 title: the land of the blue dragon (vietnam) pt. 2
 weight: 10
 BookToc: true
 draft: true
 ---
-
-
 
 ## da lat
 

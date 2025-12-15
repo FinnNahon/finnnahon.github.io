@@ -1,11 +1,11 @@
 ---
 author: "Finn"
-date: 2025-07-27
+date: 2025-05-20
 linktitle: the land of the blue dragon (vietnam) pt. 1
-title: the land of the blue dragon (vietnam) pt. 1s
+title: the land of the blue dragon (vietnam) pt. 1
 weight: 10
 BookToc: true
-draft: true
+draft: false
 ---
 
 We've made it to 'Nam.
@@ -14,7 +14,7 @@ It's good to be back, and it has been interesting revisiting this city that I ha
 
 ## ho chi minh city
 
-We spent one of our first evenings in the city going on a food tour. Whilst it was an enjoyable time, it was a little underwhelming as they showed us foods we were both already quite familiar with - bun bo hue, rice paper rolls, banh mi. The highlight for me were these leaf wrapped meat rolls which was paired with a delicious peanut satay-like sauce.
+We spent one of our first evenings in the city going on a food tour. Whilst it was an enjoyable time, it was a little underwhelming as they showed us foods we were both already quite familiar with - bun bo hue, rice paper rolls, banh mi. The highlight for me were these leaf wrapped meat rolls which were paired with a delicious peanut satay-like sauce.
 
 {{< photo "vietnam/mobile_photos/hcmc_food_tour_small.jpg" "width" "food tour final meal" "The final meal on the tour." >}}
 
@@ -104,72 +104,97 @@ As part of our floating market tour, we stopped off at a local noodle factory.
 
 ### rice paper making
 
-{{< photo "vietnam/mobile_photos/rice_paper_making_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_2_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_6_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_5_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_4_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_paper_making_7_small.jpg" "width" "alt" "caption" >}}
+On this same tour, we were taken to a rice paper factory where we learnt how to prepare rice paper, run them through a flattening machine and dry them on some sun racks.
+
+{{< photo "vietnam/mobile_photos/rice_paper_making_3_small.jpg" "width" "local cooking" "A local cooking the rice paper over steam." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_6_small.jpg" "width" "alt" "Laying the freshly cooked rice paper out onto the drying rack." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_5_small.jpg" "width" "alt" "Ready for the sun." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_4_small.jpg" "width" "alt" "Where they're all laid out." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_7_small.jpg" "width" "alt" "Ready to roll." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_small.jpg" "width" "spinning the wheel" "My turn to spin the wheel." >}}
+{{< photo "vietnam/mobile_photos/rice_paper_making_2_small.jpg" "width" "spinning the wheel" "Jade's turn to spin the wheel." >}}
 
 ### rice wine brewing shed
 
-{{< photo "vietnam/mobile_photos/rice_wine_factory_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_wine_factory_3_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/rice_wine_factory_2_small.jpg" "width" "alt" "caption" >}}
+We got to see how rice wine or 'happy water' is prepared.
+
+{{< photo "vietnam/mobile_photos/rice_wine_factory_small.jpg" "width" "rice wine machine" "This is the entire setup." >}}
+{{< photo "vietnam/mobile_photos/rice_wine_factory_3_small.jpg" "width" "alt" "Heating up the fermented rice.   " >}}
+{{< photo "vietnam/mobile_photos/rice_wine_factory_2_small.jpg" "width" "alt" "The distilled rice wine is then slowly dripped into this plastic bottle on the other end." >}}
 
 ### tofu shop
 
-{{< photo "vietnam/mobile_photos/tofu_factory_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/tofu_factory_2_small.jpg" "width" "alt" "caption" >}}
+We also got to observe a shop preparing fresh tofu.
+
+{{< photo "vietnam/mobile_photos/tofu_factory_2_small.jpg" "width" "tofu water" "Ms Ha mixing some tofu water." >}}
+{{< photo "vietnam/mobile_photos/tofu_factory_small.jpg" "width" "tofu workers" "The long tofu blocks being prepped by the workers." >}}
 
 ## sa dec
 
+Our next stop along the Mekong was to visit Sa Dec, a town known for its flower farms.
+
 ### staying in a flower farm
 
-{{< photo "vietnam/sa_dec/entrance_to_the_flower_farm_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_accomodation_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_buildings_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/walkways_above_the_water_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/blue_wheelbarrow_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_greenhouse_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_neighbours_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/flower_farm_selfie_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/sunset_over_the_flower_farm_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/ixora_flower_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/ixora_flowers_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/jackfruits_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/rows_of_juniper_plants_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/tarp_pathway_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/wheelbarrows_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/resident_flower_farm_cat_small.jpg" "width" "alt" "caption" >}}
+We stayed at Maison en Bambou Phong-Le Vent, a homestay right in the middle of a bunch of flower farms, which was a perfect way to get immersed in what the town is known for.
+
+{{< photo "vietnam/sa_dec/entrance_to_the_flower_farm_small.jpg" "width" "entrance bridge" "The motorbike entrance bridge." >}}
+{{< photo "vietnam/sa_dec/flower_farm_small.jpg" "width" "ferns" "One the farms specialised in ferns." >}}
+{{< photo "vietnam/sa_dec/flower_farm_accomodation_small.jpg" "width" "house" "Our house for two nights." >}}
+{{< photo "vietnam/sa_dec/flower_farm_buildings_small.jpg" "width" "farm buildings" "Assorted buildings around the farm." >}}
+{{< photo "vietnam/sa_dec/walkways_above_the_water_small.jpg" "width" "pathways" "To get between parts of the farm and homestay, you had to walk over walkways suspended above water." >}}
+{{< photo "vietnam/sa_dec/blue_wheelbarrow_small.jpg" "width" "workstation" "One of the workstations, I guess." >}}
+{{< photo "vietnam/sa_dec/flower_farm_greenhouse_small.jpg" "width" "greenhouse" "A greenhouse in the distance." >}}
+{{< photo "vietnam/sa_dec/flower_farm_neighbours_small.jpg" "width" "neighbours yard" "The neighbours yard." >}}
+{{< photo "vietnam/sa_dec/flower_farm_selfie_small.jpg" "width" "selfie" "A selfie." >}}
+{{< photo "vietnam/sa_dec/sunset_over_the_flower_farm_small.jpg" "width" "blue house" "Blue house at sunset." >}}
+{{< photo "vietnam/sa_dec/ixora_flowers_small.jpg" "width" "ixora coccinea" "An ixora coccinea plant." >}}
+{{< photo "vietnam/sa_dec/ixora_flower_small.jpg" "width" "ixora coccinea" "Close-up." >}}
+{{< photo "vietnam/sa_dec/jackfruits_small.jpg" "width" "jackfruits" "A few jackfruits." >}}
+{{< photo "vietnam/sa_dec/rows_of_juniper_plants_small.jpg" "width" "alt" "This was just one farm. I've read estimates of there being up to 1500 families each growing their own flowers for sale." >}}
+{{< photo "vietnam/sa_dec/tarp_pathway_small.jpg" "width" "tarp" "Tarp." >}}
+{{< photo "vietnam/sa_dec/wheelbarrows_small.jpg" "width" "wheelbarrows" "Wheelbarrows." >}}
+{{< photo "vietnam/sa_dec/resident_flower_farm_cat_small.jpg" "width" "cat" "Resident cat." >}}
 
 ### xeo quyt forest
 
-{{< photo "vietnam/sa_dec/motorbike_ferry_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/jade_walking_through_xeo_quyt_forest_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/overgrown_xeo_quyt_forest_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/xeo_quyt_forest_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/xeo_quyt_forest_bunker_sign_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/xeo_quyt_forest_greenery_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/fishtail_palm_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/jade_amongst_green_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/leaves_in_water_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/light_on_green_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/light_on_leaf_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/log_in_green_water_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/upsied_down_boat_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/xeo_quyt_forest_friends_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/sa_dec/xeo_quyt_forest_friends_2_small.jpg" "width" "alt" "caption" >}}
+We visited the Xeo Quyt Forest for a day, which is a 52-hectare mangrove forest that also has a history of being a base used by the Vietnamese during the Vietnam war.
+
+We drove our motorbikes there, and had to hop across the Mekong river on a ferry.
+
+{{< photo "vietnam/sa_dec/motorbike_ferry_small.jpg" "width" "motorbike ferry" "Taking a motorbike on a ferry wasn't on my bingo card, that's for sure." >}}
+{{< photo "vietnam/sa_dec/jade_walking_through_xeo_quyt_forest_small.jpg" "width" "jade walking forest" "Jade walking through the forest." >}}
+{{< photo "vietnam/sa_dec/overgrown_xeo_quyt_forest_small.jpg" "width" "lush" "Lush." >}}
+{{< photo "vietnam/sa_dec/xeo_quyt_forest_small.jpg" "width" "vietnam war relics" "I couldn't quite figure out what these were for. I think they were Vietnam war related." >}}
+{{< photo "vietnam/sa_dec/xeo_quyt_forest_bunker_sign_small.jpg" "width" "bunker sign" "A bunker sign." >}}
+{{< photo "vietnam/sa_dec/xeo_quyt_forest_greenery_small.jpg" "width" "nature" "Relatively untouched nature." >}}
+{{< photo "vietnam/sa_dec/fishtail_palm_small.jpg" "width" "fishtail palm" "A hanging fishtail palm." >}}
+{{< photo "vietnam/sa_dec/jade_amongst_green_small.jpg" "width" "jade" "Couldn't be happier." >}}
+{{< photo "vietnam/sa_dec/leaves_in_water_small.jpg" "width" "leaves and sticks" "Some leaves and sticks in water." >}}
+{{< photo "vietnam/sa_dec/light_on_green_small.jpg" "width" "sun spot" "A little bit of shine touching the floaters." >}}
+{{< photo "vietnam/sa_dec/light_on_leaf_small.jpg" "width" "sun saying hello" "The sun saying hello." >}}
+{{< photo "vietnam/sa_dec/log_in_green_water_small.jpg" "width" "log in green" "Log in green." >}}
+{{< photo "vietnam/sa_dec/upsied_down_boat_small.jpg" "width" "boatman" "The boatman is not in." >}}
+{{< photo "vietnam/sa_dec/xeo_quyt_forest_friends_small.jpg" "width" "friends" "A few friends we made as we were leaving." >}}
+{{< photo "vietnam/sa_dec/xeo_quyt_forest_friends_2_small.jpg" "width" "friends" "Peace!" >}}
 
 ## chau doc
 
+Our final stop along the Vietnam Mekong was the town Chau Doc, right near the border with Cambodia.
+
+Whilst here, Jade and I become friends with a guy called Rob who also happened to live in Fitzroy North, only minutes away from where me and Jade's previous sharehouse was. Pretty crazy coincidence. 
+
+It was good to chat shit with him and talk about how Queen's Parade (a street in Clifton Hill) is a pretty crap place to go out. We talked about home for a little while, and he told us he was ending his journey soon and heading back home to start a family with his partner. A nice little surprised on the border.
+
 ### tra su cajuput forest
 
-{{< photo "vietnam/chau_doc/jade_portrait_on_mekong_delta_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/chau_doc/lotus_bulb_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/chau_doc/plants_in_tra_su_cajuput_forest_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/chau_doc/tra_su_cajuput_forest_boat_ride_small.jpg" "width" "alt" "caption" >}}
-{{< photo "vietnam/mobile_photos/beer_in_chau_doc_small.jpg" "width" "alt" "caption" >}}
+The main draw near Chau Doc is the Tra Su Cajuput Forest, which is a huge ecosystem spanning 850 hectares which plenty of waterways to take boats down.
+
+{{< photo "vietnam/chau_doc/jade_portrait_on_mekong_delta_small.jpg" "width" "boat tour" "Merrily we roll along." >}}
+{{< photo "vietnam/chau_doc/lotus_bulb_small.jpg" "width" "lotus plants" "Lotus plants along the water." >}}
+{{< photo "vietnam/chau_doc/plants_in_tra_su_cajuput_forest_small.jpg" "width" "lotus plants" "Some more lotus plants." >}}
+{{< photo "vietnam/chau_doc/tra_su_cajuput_forest_boat_ride_small.jpg" "width" "lotus bulb" "A lotus bulb." >}}
+
+{{< photo "vietnam/mobile_photos/beer_in_chau_doc_small.jpg" "width" "having beer" "An evening beer at the Victoria Chau Doc Hotel. There were many mosquitoes." >}}
+
+Finally, we had to make the call to take a boat up the river into Cambodia. We'll be back soon enough to continue our second leg of Vietnam.
 
