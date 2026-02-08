@@ -18,7 +18,7 @@ BookToc: true
   </p> -->
 
   <div style="position: relative; z-index: 2; margin-top: 1em; text-align: center;">
-    <p style="margin: 0;">I am currently in Udaipur.<br><br>I am slowly updating my website again whilst making my way through the subcontitent of India. <br><br>Feel free to checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a><br><br>✧ ✧ ✧
+    <p style="margin: 0;">I am currently in Udaipur.<br><br>I am slowly updating my website again whilst making my way through the subcontinent of India. <br><br>Feel free to checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a><br><br>✧ ✧ ✧
   </div>
 </div>
 
