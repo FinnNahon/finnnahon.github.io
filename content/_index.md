@@ -7,36 +7,34 @@ BookToc: true
 <img src="/images/tree.png" alt="Image" style="display: relative; margin: 0 auto; width: 80%;"> -->
 
 <div style="position: relative; text-align: center;">
-  <div style="position: relative; width: 30%; margin: 0 auto;">
-    <img src="/images/a_dithered.gif" alt="Image"
-         style="width: 100%; height: auto; opacity: 0.8; display: block;">
-  </div>
-  <p class="responsive-text-2"
-     style="position: absolute; top: 0; left: 0; right: 0; z-index: 1; margin: 0;">
-    <span style="color: #dc143c ;">I AM BACK IN MELBOURNE</span>
-  </p>
-    <p class="responsive-text shimmer"
-     style="position: absolute; top: 0; left: 0; right: 0; z-index: 0; margin: 15;">
-    <span style="color: #0c1c1dff ;"><br><br>*temporarily</span>
-  </p>
+  <div style="position: relative; width: 80%; margin: 0 auto;">
+    <img src="/images/panipuri.jpg" alt="Image"
+         style="width: 100%; height: auto; opacity: 1; display: block;">
+  
+  <!--
+  <p class="responsive-text"
+     style="position: absolute; top: 0; left: 0; right: 0; z-index: 0; margin: 0;">
+    <span style="color: rgb(12, 95, 16) ;"><br><br>on the move</span>
+  </p> -->
+
   <div style="position: relative; z-index: 2; margin-top: 1em; text-align: center;">
-    <p style="margin: 0;">i've returned home temporarily for some <br>ear issues that require medical attention.<br> i will be posting more after that's sorted.<br><br>in the meantime, checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a>
+    <p style="margin: 0;">I am currently in Udaipur.<br><br>I am slowly updating my website again whilst making my way through the subcontitent of India. <br><br>Feel free to checkout my previous<a href="/posts" style="text-decoration: none; color: #dc143c;"> journal entries.</a><br><br>✧ ✧ ✧
   </div>
 </div>
 
 
 <style>
   .responsive-text {
-    font-family: 'Der75', sans-serif;
-    font-size: 50px;
+    font-family: 'Manifont', sans-serif;
+    font-size: 20px;
     margin-bottom: 40px;
     color: #dc143c;
-    transform: rotate(4deg);
-    padding-left: 300px;
+    transform: rotate(3deg);
+    padding-left: 140px;
   }
 
   .responsive-text-2 {
-    font-family: 'Der75', sans-serif;
+    font-family: 'Barlowfold', sans-serif;
     font-size: 60px;
     margin-bottom: 40px;
     color: #000000ff;
@@ -47,10 +45,10 @@ BookToc: true
   .shimmer {
     background: linear-gradient(
       to right,
-      #dc143c 0%,
-      #ff758c 20%,
-      #dc143c 40%,
-      #dc143c 100%
+      #d47406 0%,
+      #b57f42 20%,
+      #d47406 40%,
+      #d47406 100%
     );
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

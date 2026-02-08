@@ -1,14 +1,14 @@
 ---
 author: "Finn"
 date: 2025-09-30
-linktitle: thailand
-title: thailand
+linktitle: the land of smiles (thailand)
+title: the land of smiles (thailand)
 weight: 10
 BookToc: true
 draft: true
 ---
 
-Thailand.
+After spending some time in Laos, we crossed the border from Laos into Thailand, arriving first in Udon Thani, one of the bigger cities in the north-east Isaan region of Thailand.
 
 ## chiang mai
 

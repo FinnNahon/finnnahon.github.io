@@ -85,14 +85,35 @@ The following is my vague trajectory over the next year. I'll cross out countrie
     * ~~Bangkok~~
     * ~~Kanchanaburi~~
     * ~~Koh Tao~~
-11. Malaysia
+11. ~~Myanmar~~
+    * ~~Yangon~~
+12. Malaysia
     * ~~Kuala Lumpur~~
-12. India
-13. Nepal
-14. Kyrgyzstan
-15. Kazakhstan
-16. Uzbekistan
-17. Tajikistan
+    * ~~Cameron Highlands~~
+    * ~~Ipoh~~
+    * ~~George Town~~
+13. India
+    * ~~Bangalore~~
+    * ~~Mysore~~
+    * ~~Kochi~~
+    * ~~Alleppey~~
+    * ~~Goa~~
+    * ~~Mumbai~~
+    * Udaipur
+    * Jodhpur
+    * Jaisalmer
+    * Jaipur
+    * Ranthambore
+    * Agra
+    * New Delhi
+    * Mathura
+    * Lucknow
+    * Varanasi
+    * Sikkim
+    * Kolkata
+14. Nepal
+15. Bangladesh
+16. Who knows?
 
 <--->
 
